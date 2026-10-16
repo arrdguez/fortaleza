@@ -1,0 +1,800 @@
+000000	18	Centro del cerebro
+000013	18	Centro del corazon
+000026	19	Centro del estomago
+00003A	22	Centro de los pulmones
+000051	5	Troll
+0001A9	5	Roble
+0001AF	154	Está completamente seco y lleno de mordiscos. Tiene las siguientes palabras talladas en el tronco: "Las palabras mágicas para abrir la puerta son obvias."
+00024A	4	Maza
+00024F	14	Es muy pesada.
+00025E	17	Pastel de cerezas
+000270	53	¿Qué hace un pastel de cerezas en un lugar como este?
+0002A6	18	Llamador de bronce
+0002B9	26	Tiene forma de murciélago.
+0002D4	7	Cigarro
+0002DC	29	¿Me puede regalar un cigarro?
+0002FA	16	Puerta principal
+00030B	20	Inmensa y oprimente.
+000320	102	Su sombra desaparece lentamente al cruzar la puerta. Siente cómo el miedo se le enreda en los zapatos.
+000387	5	Tunel
+00038D	17	Parece muy largo.
+0003A0	74	El olor de la carne descompuesta lo golpea. Usted siente ganas de vomitar.
+0003EB	15	Pared solitaria
+0003FB	56	Usted no puede imaginar con qué motivo fue colocada ahí.
+000434	14	Puerta secreta
+000443	36	Usted se pregunta a dónde conducirá.
+000468	26	Usted atraviesa la puerta.
+000483	8	Antorcha
+00048C	18	Monolito de marmol
+00049F	71	Es muy oscuro, pero a usted le parece que hay algo vivo en su interior.
+0004E7	6	Trebol
+0004EE	18	Tiene cinco hojas.
+000501	12	Vaso de agua
+00050E	23	Dame agua, por favor...
+000526	64	Usted se siente de regreso a la vida. Ha salido de la fortaleza.
+000567	12	Puerta negra
+000574	13	Es muy negra.
+000582	43	Usted atraviesa la puerta sin dificultades.
+0005AE	7	Retrato
+0005B6	158	Es de Hitchcock (un anacronismo). Usted recuerda instintivamente algunas películas que le erizaron la piel: Psicosis, Vértigo y Los treinta y nueve escalones.
+000655	6	Escoba
+00065C	23	Es una escoba voladora.
+000674	8	Escalera
+00067D	52	Usted trata de ver hasta dónde llega, pero no puede.
+0006B2	55	¿Cuántos peldaños tienen todas las escaleras del mundo?
+0006EA	77	Usted sube por la escalera. No se explica cómo, siendo tan larga, solo tiene 
+000738	11	 escalones.
+000744	11	Inscripcion
+000750	122	Dice: "Cuando hayas llegado casi al final, tendrás que regresar. (A no ser que hayas leído mucho y tengas buena memoria.)"
+0007CB	11	Puerta azul
+0007D7	38	Esta puerta conduce al patio interior.
+0007FE	15	Hilo de Ariadna
+00080E	38	Debe tener varios kilómetros de largo.
+000835	40	Esta puerta conduce a la sala de juegos.
+00085E	12	Puerta verde
+00086B	36	Esta puerta conduce a la biblioteca.
+000890	17	Estatua de Atenea
+0008A2	73	Fue hecha por Fidias, siete años después de su muerte. Le falta la lanza.
+0008EC	38	Sal de mi presencia, estúpido mortal!.
+000913	17	Estatua de Hermes
+000925	56	Desde el techo caen gotas continuamente sobre su cabeza.
+00095E	23	La humedad me destruye.
+000976	7	Balanza
+00097E	113	La balanza tiene el plato en forma de mano. La aguja es muy delgada, hecha con varios bigotes de gato trenzados. 
+0009F0	13	Hueso de gato
+0009FE	53	Este es un hueso de gato (o de la imagen de un gato).
+000A34	15	treinta y nueve
+000A44	65	Usted se sorprende: La escalera tiene ahora muchos escalones más.
+000A86	12	Espejo opaco
+000A93	85	En realidad, usted no tiene idea de por qué es un espejo. Hay algo muy extraño en él.
+000AE9	13	Puerta oculta
+000AF7	51	Parece formada por diminutos fragmentos de cristal.
+000B2B	41	Su imagen regresa al atravezar la puerta.
+000B55	43	Por un momento cree ver un bote en el vaso.
+000B81	10	Candelabro
+000B8C	59	La llama en su extremo está inmóvil, como si fuera de cera.
+000BC8	5	Libro
+000BCE	19	Es un libro normal.
+000BE2	29	Usted ha atravezado el libro!
+000C00	7	Ciclope
+000C08	32	Parece estar cuidando la puerta.
+000C29	27	Arrrggghhhh! Me has matado!
+000C45	6	Puerta
+000C4C	28	Es una puerta para gigantes.
+000C69	46	Usted se encuentra del otro lado de la puerta.
+000C98	40	La llama parece bailar en su propia luz.
+000CC1	12	Puerta vieja
+000CCE	46	Es la puerta de las habitaciones de una bruja.
+000CFD	17	Usted ha entrado.
+000D0F	11	Puerta roja
+000D1B	26	Es la puerta del guerrero.
+000D36	16	Puerta prohibida
+000D47	44	Esta puerta está prohibida para los humanos.
+000D74	11	Puerta gris
+000D80	48	Esta puerta conduce a la sala de las infusiones.
+000DB1	14	Da al pasillo.
+000DC0	16	Usted ha salido.
+000DD1	12	Polvo magico
+000DDE	35	Puede hacer invisible a cualquiera.
+000E02	18	Pocion para crecer
+000E15	29	Tiene un olor muy repugnante.
+000E33	10	Escaparate
+000E3E	37	Tiene las puertas llenas de arañazos.
+000E64	5	Bruja
+000E6A	22	Parece tener mil años.
+000E81	38	Tráeme mi escoba y te daré un consejo.
+000EA8	36	Usted está en el pasillo nuevamente.
+000ECD	8	Vendajes
+000ED6	26	Están manchados de sangre.
+000EF1	4	Cama
+000EF6	52	Es tan fuerte que solo con un hacha podría romperla.
+000F2B	17	Está en el suelo.
+000F3D	25	Usted entra a la armería.
+000F57	7	Grabado
+000F5F	52	En el grabado está usted, hablando con una muchacha.
+000F94	48	Usted se encuentra en el otro lado de la puerta.
+000FC5	9	Homunculo
+000FCF	84	Parece que escapó de algún frasco. Es tan pequeño que usted se arrodilla para verlo.
+001024	15	Quiero crecer!!
+001034	16	Piedra filosofal
+001045	52	Usted es el primer humano en ver la quinta escencia.
+00107A	18	Maquina del tiempo
+00108D	45	Es muy parecida a una máquina de moler carne.
+0010BB	6	Espada
+0010C2	17	Es muy brillante.
+0010D4	5	Lanza
+0010DA	21	Está hecha de piedra.
+0010F0	4	Arco
+0010F5	21	Es el arco de Odiseo.
+00110B	4	Daga
+001110	50	Es afilada como la lengua de la serpiente bíblica.
+001143	6	Ariete
+00114A	26	Demasiado grande y pesado.
+001165	6	Latigo
+00116C	19	Parece una culebra.
+001180	17	Está en el techo.
+001192	37	Usted regresa al cuarto del guerrero.
+0011B8	18	Conduce al jardín.
+0011CB	22	Usted entra al jardín.
+0011E2	4	Rosa
+0011E7	61	Es más hermosa que todas las doncellas que usted no ha visto.
+001225	63	Dice: "Mate al Troll! (Y no haga sus necesidades en el suelo.)"
+001265	6	Espejo
+00126C	57	Usted se ve a sí mismo entregándole unos polvos al Troll.
+0012A6	5	Troll
+0012AC	86	Está mirándose en un espejo. Tiene una figura tan repulsiva que usted aparta la vista.
+001303	59	No me mates, por favor. Haz que nadie pueda ver mi fealdad.
+00133F	62	Es un buen lugar para instalar una tienda de campaña ¿no cree?
+00137E	5	Cedro
+001384	77	Le faltan algunas ramas. Al parecer, alguien las cortó para hacerse una cama.
+0013D2	33	Conduce a los baños de la Bestia.
+0013F4	22	Usted sale del jardín.
+00140B	45	Debe haber algo hemoso detrás de esta puerta.
+001439	15	Puerta amarilla
+001449	32	Conduce a la sala de infusiones.
+00146A	16	Puerta de hierro
+00147B	22	Conduce los calabozos.
+001492	28	Usted entra a los calabozos.
+0014AF	16	Puerta de madera
+0014C0	19	Conduce al almacén.
+0014D4	46	Debe haber algo hermoso detrás de esta puerta.
+001503	21	Usted sale al jardín.
+001519	6	Cuadro
+001520	36	Está completamente pintado de negro.
+001545	20	Corazon de unicornio
+00155A	9	Aún late.
+001564	24	Las puertas son doradas.
+00157D	73	Usted sube durante varios minutos hasta llegar al escaparate de la bruja.
+0015C7	8	Doncella
+0015D0	75	Nunca antes había contemplado tanta hermosura. Usted está como hipnotizado.
+00161C	65	Que brusco! Un caballero debe dirigirse a una dama de otra forma.
+00165E	12	Taza de cafe
+00166B	6	Humea.
+001672	15	Está encendido.
+001682	5	Arpia
+001688	17	Está desayunando.
+00169A	8	Paraguas
+0016A3	13	Está cerrado.
+0016B1	16	Talisman de aire
+0016C2	58	Está hecho de cinco vientos amarrados con un cordón negro.
+0016FD	9	Esqueleto
+001707	25	Debe tener varios siglos.
+001721	48	Dame algo para calentarme la barriga, por favor.
+001752	17	Puerta triangular
+001764	43	Tiene forma de un triángulo de siete lados.
+001790	35	Usted sale de la boca de la Bestia.
+0017B4	8	Garganta
+0017BD	18	Es roja y carnosa.
+0017D0	45	Usted atraviesa por la garganta de la Bestia.
+0017FE	33	No continúe si no está protegido.
+001820	7	Traquea
+001828	65	Luce igual que en los libros de biología que había en su escuela.
+00186A	44	Usted atraviesa por la tráquea de la Bestia.
+001897	7	Esofago
+00189F	16	Parece un túnel.
+0018B0	44	Usted atraviesa por el esófago de la Bestia.
+0018DD	17	Arteria principal
+0018EF	31	Conduce al corazón seguramente.
+00190F	54	Usted atraviesa por la arteria principal de la Bestia.
+001946	22	Centro de los pulmones
+00195D	38	De aquí surge la vida de los pulmones.
+001984	19	Centro del estomago
+001998	35	De aquí surge la vida del estómago.
+0019BC	38	Usted ha matado al centro del estómgo!
+0019E3	18	Centro del corazon
+0019F6	34	De aquí surge la vida del corazón.
+001A19	18	Centro del cerebro
+001A2C	16	Usa la antorcha!
+001A3D	26	XVBCZXV XBVCZX BVZXC!!!!! 
+001A58	5	Hacha
+001A5E	17	Está muy afilada.
+001A70	23	Usted sale del almacén.
+001A88	55	Usted presiente que hay algo muy grande detrás de ella.
+001AC0	22	Usted entra al páramo.
+001AD7	5	Raton
+001ADD	39	Tiene puesto un delantal de alquimista.
+001B05	78	No tengo tiempo para atenderte. Llevo medio siglo buscando la quinta escencia.
+001B54	22	Usted sale del páramo.
+001B6B	17	Puerta de cristal
+001B7D	15	Es muy delgada.
+001B8D	4	Pozo
+001B92	16	Es muy profundo.
+001BA3	111	Usted cae vertiginosamente por el pozo y, antes de que pueda darse cuenta, está en el exterior de la fortaleza.
+001C13	62	Parece más acogedor que el túnel del exterior de la fortaleza.
+001C52	4	Lobo
+001C57	91	Es del tamaño de un ternero. La única forma de pasar por la puerta de cristal es matándolo.
+001CB3	21	Usted sale al páramo.
+001CC9	14	Puerta de tela
+001CD8	35	Es una puerta normal, pero de tela.
+001CFC	32	Usted sale del salón de cristal.
+001D1D	30	¿Cuál es el nombre del duende?
+001D3C	35	Usted entra a la boca de la Bestia.
+001D60	9	Bailarina
+001D6A	13	Es muy joven.
+001D78	30	Quiero ser joven para siempre.
+001D97	57	Dice que usted pasará en esta celda el resto de sus días.
+001DD1	5	Araña
+001DD7	27	Es un poco mayor que usted.
+001DF3	42	Busca al Minotauro y mátalo con la espada.
+001E1E	10	Pssssssss!
+001E29	8	Martillo
+001E32	32	Tiene dos mangos y tres cabezas.
+001E53	36	Conduce al exterior de la fortaleza.
+001E78	18	Estatua de Satanas
+001E8B	23	Es infinitamente negra.
+001EA3	36	Conduce a la antesala del laberinto.
+001EC8	36	Conduce a la antesala del Laberinto.
+001EED	18	Conduce al puente.
+001F00	6	Crunch
+001F07	36	Es muy similar a una boca con patas.
+001F2C	32	El 12 te guiará en el Laberinto.
+001F4D	11	Qué hambre!
+001F59	18	Columna de Cristal
+001F6C	12	Es muy alta.
+001F79	10	Antorcha 3
+001F84	18	Parece muy frágil.
+001F97	17	Conduce al Jardín
+001FA9	22	Usted entra al Jardín.
+001FC0	21	Conduce al Laberinto.
+001FD6	6	Dedalo
+001FDD	58	Parece haber sido herido por el cuerno de un toro gigante.
+002018	46	Solo el hierro te protegerá contra las flores.
+002047	11	Me muero...
+002053	10	Antorcha 1
+00205E	10	Antorcha 2
+002069	10	Antorcha 4
+002074	10	Antorcha 5
+00207F	10	Antorcha 6
+00208A	13	Está apagada.
+002098	10	Antorcha 7
+0020A3	9	Minotauro
+0020AD	41	Está sentado en un enorme trono de rocas.
+0020D7	82	Me has matado!!! Coge la antorcha del número divino y rompe la columna de cristal.
+00212A	13	Puerta dorada
+002138	17	Es de oro macizo.
+00214A	81	Invente un alfabeto (el mayor que pueda) con el que no pueda crearse a la Bestia.
+00219C	20	cdfghjklmnopqruvwxyz
+0021B1	42	Usted ha enrtado al Cerebro de la Bestia!.
+0021DC	8	Puerta 1
+0021E5	28	Es idéntica a las otras dos.
+002202	8	Puerta 2
+00220B	8	Puerta 3
+002214	6	Salida
+00221B	35	Conduce a la entrada del laberinto.
+00223F	41	Usted regresa a la entrada del Laberinto.
+002269	40	Cuidado! Este no es el Jardín verdadero.
+002292	41	¿Cuántas antorchas iluminan al Minotauro?
+0022BC	4	Seis
+0022C1	37	Usted entra al salón de los elegidos.
+005000	3	PÜÇ
+0050D5	67	Ctrl+Break presionado. Use "Terminar" para una salida más elegante.
+005190	56	[[]] Insuficiente memoria para inicializar La Fortaleza.
+0051C9	4	Indy
+0051CE	3	Sad
+0051D2	29	Inicializando la fortaleza...
+0051F3	23	Ejecutando el rastro...
+00520C	12	Buenos días.
+005219	14	Buenas noches.
+005228	14	Buenas tardes.
+005237	29	Usted ha vencido a la Bestia.
+005255	65	Parece ser una persona persistente y eso es un mérito muy grande.
+005297	139	La persistencia es indispensable para los que luchan por el bien, sobre todo porque los que luchan por el mal son muy persistentes también.
+005323	68	Veremos si en la próxima versión de La Fortaleza tiene igual suerte.
+0053C2	32	             M. CeperoISu entier
+0053E5	32	se efectuará el próximo domingo 
+005423	30	¿Desea salvar su rastro (S/N)?
+005442	32	Salvando rastro hacia TRAVEL.TRK
+005463	10	TRAVEL.TRK
+005C2A	17	Merchise Software
+005C3E	4	[[]]
+005C43	9	presentan
+005C4D	22	L A  F O R T A L E Z A
+005C64	28	En las entrañas de la Bestia
+005CA1	3	PÜ£
+005D68	3	PÜ£
+005DAC	3	PÜ£
+005DFE	3	PÜ£
+005E47	3	PÜ£
+0061A5	4	ot1
+006500	8	Consejos
+0065D0	12	Introducción
+00682B	4	otK
+006AE9	26	No desea hablar con usted.
+006F17	16	No es necesario.
+006F28	64	Tenga cuidado. Por aquí se puede entrar, pero no se puede salir.
+006F69	3	Ok.
+006F6D	45	Usted trata de abrir, pero no puede lograrlo.
+006F9B	31	Necesita unas palabras mágicas.
+006FBD	21	 no es la contraseña.
+006FD3	19	No puede hacer eso.
+006FE7	31	No puede hacer eso. No existe "
+007007	16	" en este lugar.
+007018	36	Complete la oración. No sea ambiguo.
+0072C1	12	CRASSSHHH!!!
+0072CE	27	¡Usted ha descubierto algo!
+0072EA	33	Usted trata, pero no lo consigue.
+00730C	26	Usted no puede romper eso.
+007327	31	No puede hacer eso. No existe "
+007347	16	" en este lugar.
+007358	36	Complete la oración. No sea ambiguo.
+0074F1	41	#Usted no puede ni con un átomo más.-Uste
+00751C	32	está a punto de agotar sus capac
+007544	20	Usted podría cargar 
+007559	12	 bolsas más.
+0075E2	6	WÜX\no
+00778E	4	ot?
+007804	15	¿Hablando solo?
+007816	14	 no está aquí.
+007825	36	Complete la oración. No sea ambiguo.
+007968	41	Lamento informarle que usted está muerto.
+007A2D	22	Usted se encuentra en 
+007A46	9	Usted ve:
+007AF8	20	Sus pertenecias son:
+007B0D	28	Usted no lleva nada consigo.
+007B87	34	$ no está dentro de sus pertenenci
+007BAD	42	No puede matar a algo que nunca tuvo vida.
+007BD8	14	 no está aquí.
+007BE7	36	Complete la oración. No sea ambiguo.
+007DC3	11	No existe "
+007DCF	16	" en este lugar.
+007DE0	32	 Entre sus pertenencias tampoco.
+007E01	9	¿Ver qué?
+007F24	3	Ok.
+007F28	30	Usted no puede cargar con eso.
+007F47	21	Sería demasiado peso.
+007F5D	11	No existe "
+007F69	16	" en este lugar.
+007F7A	36	Complete la oración. No sea ambiguo.
+0080CF	3	Ok.
+0080D4	34	$ no está dentro de sus pertenenci
+0080FA	36	Complete la oración. No sea ambiguo.
+008207	28	Usted no lleva nada consigo.
+008225	34	$ no está dentro de sus pertenenci
+00824B	25	Su regalo no es aceptado.
+008265	14	 no está aquí.
+008274	55	¿Y para quién es? ¿O es un obsequio suyo para sí mismo?
+008444	46	Usted se arrodilla, levanta los brazos y dice:
+008518	39	OUCH! Usted se ha golpeado las narices.
+008540	21	Trate de abrir antes.
+008556	19	Imposible de abrir.
+00856A	11	No existe "
+008576	16	" en este lugar.
+008587	36	Complete la oración. No sea ambiguo.
+008751	34	$ no está dentro de sus pertenenci
+00882B	7	Balanza
+008833	7	BALANZA
+00883B	7	 bolsa.
+008843	8	 bolsas.
+00884C	66	Usted coloca el objeto en el plato de la balanza.La aguja indica 
+00888F	68	Usted trata infructuosamente de colocar la balanza sobre ella misma.
+0088D4	41	¡Se ha vuelto loco! ¿Cómo va a pesar eso?
+0088FE	36	Complete la oración. No sea ambiguo.
+008923	8	No hay "
+00892C	48	" en este lugar. Ni en sus pertenencias tampoco.
+00895D	25	Usted no trae la balanza.
+008B86	28	Usted no lleva nada consigo.
+008BA3	44	Usted deja todas sus pertencias en el suelo.
+008CDB	4	ote
+008DE3	49	Muchas gracias. Hace mucho que esperaba por esto.
+008E15	22	Qué amable! Gracias...
+008EA6	16	AAAAARRRGGGGG!!!
+008F52	4	ot1
+00900A	4	otB
+00908F	29	No debió cruzar desprotegido.
+00911A	46	Usted llevaba un objeto que le impidió cruzar.
+009205	4	otB
+009399	4	otG
+009431	81	Todos sus esfuerzos son en vano. Probablemente no esté usando el objeto indicado.
+009529	4	ot]
+0095BC	30	Error salvando fichero rastro.
+0095DB	23	No hay nada que salvar.
+00969A	17	¿Qué desea hacer?
+00976D	27	¿Nombre del fichero rastro?
+009789	16	No le comprendo.
+009B26	31	Mejor tome las cosas una a una.
+009EDC	21	Usted ha avanzado un 
+00A2C3	29	Fichero rastro no encontrado.
+00A50D	4	otY
+00A5AF	46	Usted ha descifrado el acertijo correctamente.
+00A5DF	28	Debe resolver este acertijo:
+00A5FC	23	Esa no es la respuesta.
+00A6E8	100	Usted fracasa en su intento. La enorme serpiente se lanza sobre usted y lo devora en pocos segundos.
+00A929	4	ïF\n@
+00A95F	4	ïF\nH
+00ABE8	4	ot)
+00AC28	4	oÇ~
+00AC53	4	oèF
+00AD0B	4	oï~
+00AD9B	4	oï~
+00ADCE	4	oï~
+00AE34	6	WÜX\no
+00AEA5	4	oï~
+00AF0E	4	oï~
+00AF25	4	oï~
+00B307	4	oïF
+00B33E	5	HH;F\n
+00B386	4	otd
+00B45A	4	oáL
+00B48F	4	oèF
+00B55E	4	oÜ?
+00B724	4	oïF
+00BB6E	4	oèF
+00BC07	4	oèF
+00BDD7	4	oïå
+00C267	6	WÜJo
+00C2BB	6	WÜJo
+00C773	6	WÜX\no
+00CA89	4	ot$
+00CB73	3	M\nQ
+00CD73	6	ëF\nü~\n
+00D46B	4	JJ&ï
+00D48D	4	tDI<
+00DA26	6	WSQ&ï
+00DF99	7	&ïE\n&ï]
+00EB7F	6	.ï.ïu
+00F050	13	Uvåyêy4gyçuüâ
+00F0FE	6	Uå}yêy
+00F1AC	4	auÄu
+00F308	15	håy}éêu4ì4éëyèy
+00F3B6	5	`uéÄu
+00F464	72	duåu4ÇÇy{uå4u4Çâç4äëÇüâéyç4xy4Çu4Vyçê}u4xyvyç4êyéyå4yÇ4êuÇ}çüué4xy4u}åyB
+00F512	8	duåu{ëuç
+00F66E	13	\ëyçâ4xy4{uêâ
+00F7CA	4	auÄu
+00F878	19	bâüvëç4fâçêâüyÇuå}ç
+00F926	3	`ëÄ
+00F9DA	52	wuy4xëåuéêy4èuå}âç4ü}éëêâç4ì@4{åuw}uç4uÇ4wuéxyÇuvåâ@
+00FA35	52	cìy4ëéu4èâÄ4àëy4x}wyN46gyu4{yéê}Ç4wâé4Çu4xâéwyÇÇu@4å
+00FA82	110	Yçwëw|u4v}yé@4|}~âB4Wëuéxâ4êy4x}{ué46dåâ|}v}xâ6@4}éèâwu4Çu4ÇëÄB4fywëyåxu4àëy4Çu4äuÇuvåu4wåyu4u4çë4ç}{é}z}wuxâB
+00FB30	5	\uw|u
+00FBDE	18	dâw}âé4äuåu4wåywyå
+00FC8C	117	duåu4uêåuèyÄuå4äâå4yÇ4yçwuäuåuêy4xy4Çu4våë~u@4xyvyç4ÇÇyèuå4ëé4wuéxyÇuvåâB4m4uÇ4|uwyåÇâ4èuç4u4wâéâwyå4uÇ{â4}üäâåêuéêyB
+00FD3A	12	dâÇèâ4üu{}wâ
+00FF44	4	fâçu
+01014E	6	Yçäuxu
+0101FC	12	huÄu4xy4wuzy
+010358	16	huÇ}çüué4xy4u}åy
+010406	17	duçêyÇ4xy4wyåyÄuç
+0104B4	6	Yçäuxu
+010562	6	`uê}{â
+010610	4	Xu{u
+0108C8	8	Uéêâåw|u
+010A24	16	d}yxåu4z}ÇâçâzuÇ
+010B80	4	U{ëu
+010C2E	4	éuxu
+010D8A	4	Uåwâ
+010E38	18	auàë}éu4xyÇ4ê}yüäâ
+011036	7	 Abrir.
+011087	16	 Ir y Atravezar.
+0110D8	18	 Mirar y Observar.
+011129	12	 Ver y Leer.
+01117A	15	 Coger y Tomar.
+0111CB	16	 Soltar y Dejar.
+01121C	18	 Matar y Asesinar.
+01126D	17	 Romper y Forzar.
+0112BE	15	 Dar y Regalar.
+01130F	13	 Interrogar y
+011360	11	 Preguntar.
+0113B1	12	 Inventario.
+011453	17	 Palabras claves:
+0114A4	5	 con,
+0114F5	14	 respondiendo,
+011546	10	 diciendo,
+0115E8	27	el exterior de la fortaleza
+0116E8	137	Las paredes son muy negras y al parecer, no tienen ventanas. Usted trata de ver el final de las torres, pero las nubes no se lo permiten.
+0117E8	23	el Salón de recepciones
+0118E8	124	Parece hecho para criaturas cientos de veces más grandes que los humanos. Está desierto, pero usted siente que es observado.
+0119E8	17	la Sala de juegos
+011AE8	101	Usted trata de imagainar cómo eran los juegos del salón. Hay doce mesas y cada una tiene doce erizos.
+011BE8	17	el Patio interior
+011CE8	197	El patio tiene forma de caracol. Cada uno o dos pasos se levanta una columna de mármol negro y se confunde en la altura con los árboles. Usted siente el crujido de las hojas secas bajo sus zapatos.
+011DE8	20	el Cuarto de espejos
+011EE8	87	Hay tantos espejos que no puede reconocer si usted es real o es una imagen de sí mismo.
+011FE8	13	la Biblioteca
+0120E8	87	Hay miles de libros en este lugar. Todos tienen alguna hoja marcada con una servilleta.
+0121E8	7	Pasillo
+0122E8	42	Tiene tres puertas al lado y una al final.
+0123E8	21	la Alcoba de la bruja
+0124E8	133	Hasta un ciego descubriría que aquí habita una bruja. El cuarto tiene una ventana, pero usted no recuerda haberla visto desde afuera.
+0125E8	22	el Cuarto del guerrero
+0126E8	69	El cuarto está muy ordenado. A usted le sorprende que no hayan armas.
+0127E8	27	el Laboratorio de la Bestia
+0128E8	90	Hay muchos frascos. A usted le llaman la atención los últimos: están llenos de homúnculos.
+0129E8	16	la Sala de armas
+012AE8	50	Este lugar parece salido del sueño de un guerrero.
+012BE8	22	los Baños de la Bestia
+012CE8	71	El baño es tan grande que usted no puede ver las paredes que lo limitan
+012DE8	9	el Jardín
+012EE8	52	Se podrían construir varias ciudades en su interior.
+012FE8	24	la Alcoba de la doncella
+0130E8	39	Es una habitación muy pequeña y húmeda.
+0131E8	21	la Sala de infusiones
+0132E8	122	Hay varias mesas regadas por el suelo. Usted tiene la impresión de que ningún humano ha estado en ese lugar anteriormente.
+0133E8	13	los Calabozos
+0134E8	69	Son tan húmedos que usted no resistiría ni unas horas detro de ellos.
+0135E8	17	Boca de la Bestia
+0136E8	53	Es como una boca humana, pero del tamaño de una casa.
+0137E8	21	Interior de la Bestia
+0138E8	137	Usted puede sentir los latidos del corazón de la Bestia, al igual que su respiración o el ruido de los líquidos revueltos en su estómago.
+0139E8	21	Pulmones de la Bestia
+013AE8	57	Sopla un aire tan fuerte que usted se ha tirado al suelo.
+013BE8	24	el Estómago de la Bestia
+013CE8	30	Hay varios esqueletos humanos.
+013DE8	23	el Corazón de la Bestia
+013EE8	114	Todo palpita rítmicamente. Usted siente cómo los latidos se adueñan del lugar, especialmente de su propio corazón.
+013FE8	23	el Cerebro de la Bestia
+0140E8	166	Es como un tarjetero gigante. Cada idea está escrita en una tarjeta y, cuando es necesario, la tarjeta es sacada por una mano invisible y leída al resto de la Bestia.
+0141E8	29	los Almacenes de la Fortaleza
+0142E8	101	Están llenos de carne humana. Usted aparta el cadáver de una mujer para poder observar bien el lugar.
+0143E8	17	un extenso páramo
+0144E8	118	Hay muy poca vegetación y el suelo es pantanoso. Usted nunca imaginó que el interior de la fortaleza fuera tan grande.
+0145E8	16	Salón de cristal
+0146E8	143	Es como un caleidoscopio gigante. Cada varios segundos las paredes cambian de color y usted siente como si lo hubieran trasladado a otro lugar.
+0147E8	13	celda pequeña
+0148E8	29	No hay forma alguna de salir.
+0149E8	19	un puente de mármol
+014AE8	24	Es muy largo y estrecho.
+014BE8	25	la Antesala del Laberinto
+014CE8	86	Es una habitación muy confortable, pero usted siente algo malvado flotando en el aire.
+014DE8	22	la cueva del Minotauro
+014EE8	20	Hay siete antorchas.
+014FE8	24	el Salón de los elegidos
+0150E8	120	Usted se enorgullece: muy pocas personas han llegado hasta este salón. El cerebro de la Bestia está detrás de la puerta.
+0151E8	24	un pasillo del Laberinto
+0152E8	97	El techo está tan pegado al suelo que usted tiene que andar agachado. Hay tres puerta simétricas.
+0153E8	24	un pasillo del Laberinto
+0154E8	60	Hay una puerta que le conducirá a la antesala del Laberinto.
+0155E8	9	el Jardín
+0156E8	52	Se podrían construir varias ciudades en su interior.
+0157FD	14	   Comenzar   
+015812	14	 Introducción 
+015827	14	   Consejos   
+01583C	14	   Terminar   
+01595A	7	<fffff
+015E3B	4	tîää
+015F71	4	~P"~
+01613A	8	ê|RRPRR<
+016757	73	La Fortaleza es un juego hecho a la medida de su inteligencia (esto no es
+0167A8	75	un spot de TV en TV). Se supone que mientras más inteligente sea usted, más
+0167F9	76	fácil le será dominar los objetivos del juego. Sin embargo, hay otro aspecto
+01684A	74	que puede compensar la falta de inteligencia: el método (desgraciadamente,
+01689B	76	en la vida real ocurre lo mismo). Ambas fortalezas están concebidas de forma
+0168EC	42	que ningún detalle escape al ojo metódico.
+01698E	77	El método surge de la misma práctica, pero la práctica puede ser desagradable
+0169DF	76	hasta no tener un método elaborado. Es un círculo vicioso. Como la Fortaleza
+016A30	76	es un juego y se supone que la gente se entretenga, he decidido brindar algo
+016A81	76	equivalente a un método para los principiantes. Se parece mucho a una receta
+016AD2	74	de cocina, o a un texto de ingeniería. En realidad, no son más que algunos
+016B23	9	consejos.
+016BC5	47	Gran Método Infalible Para Resolver Fortalezas:
+016C67	46	  Regla 1: Tenga siempre lápiz y papel a mano.
+016D09	65	  Regla 2: Asegúrese de que el lápiz tenga punta en todo momento.
+016DAB	75	  Regla 3: Vaya llevando un diagrama donde represente los distintos lugares
+016DFC	72	           que visite y las relaciones entre ellos (puertas, etc). De no
+016E4D	77	           seguir esta regla puede perderse en la Fortaleza hasta el punto de
+016E9E	75	           no encontar la forma de pararse de la silla y apagar la máquina.
+016F40	74	  Regla 4: Trate de observar todas las cosas. Hágalo teniendo en cuenta el
+016F91	40	           siguiente orden de prioridad:
+017033	30	           1- Cosas inanimadas
+0170D5	42	           3- Puertas y uniones en general
+017177	69	  Regla 5: En esta regla se dan algunas bases de cómo diferenciar las
+0171C8	71	           cosas conque usted se puede tropezar dentro de la Fortaleza.
+017219	68	           Estos métodos funcionan siempre, con algunas excepciones.
+0172BB	75	           (1)- Cosas inanimadas: Se pueden coger, a no ser que pesen dema-
+01730C	75	                siado. Entonces el mensaje "Sería mucho peso." es mostrado.
+01735D	72	                Otra forma, que nunca falla, es preguntarles o tratar de
+017450	47	           (2)- Cosas que esconden otras cosas:
+0174A1	75	                Son como las anteriores, pero no pueden cogerse. Usted debe
+0174F2	74	                romperlas con algún objeto específico (que debe descubrir)
+017543	57	                para tener acceso al objeto que esconden.
+0175E5	71	           (3)- Las cosas vivas pueden dividirse en dos grandes grupos:
+017636	71	                las que están de su parte y las que están contra usted.
+017687	75	                A los primeros usted debe interrogarlos (entre otras cosas)
+0176D8	73	                para determinar en qué los puede ayudar. Siempre la ayuda
+017729	69	                se reduce a entregarles cierto objeto, el problema es
+01777A	69	                descubrir qué es lo que necesitan. Después de haberle
+0177CB	76	                entregado el objeto, vuelva a interrogarlo y obtendrá alguna
+01781C	36	                información valiosa.
+01786D	76	                Al los integrantes del segundo grupo debe matarlos. No tenga
+0178BE	75	                piedad. Generalmente cuando están agonizando confiesan algo
+01790F	73	                interesante. La mayoría de las veces usted debe descubrir
+017960	76	                el arma que debe usar, puesto que cualquier objeto no sirve.
+0179B1	56	                Cuando se les interroga nunca responden.
+017A53	73	           (4)- Las uniones (puertas, puentes, caminos, etc): Si no logra
+017AA4	71	                reconocerlas por el nombre, use el comando "terminar" y
+017AF5	56	                no vuelva a tocar la Fortaleza otra vez.
+017B97	70	  Regla 6: Las uniones pueden estar abiertas o cerradas. Para abrirlas
+017BE8	74	           use el comando "abrir". Algunas necesitan palabras mágicas para
+017C39	73	           abrirlas, y otras veces se verá obligado a resolver acertijos.
+017CDB	70	  Regla 7: Existen algunas uniones que deben cruzarse cumpliendo algún
+017D2C	71	           requerimiento. Unas veces no puede cruzar si no lleva cierto
+017D7D	71	           objeto, y otras veces un objeto se puede hacer indispensable
+017DCE	41	           para poder atravesar la unión.
+017E1F	71	           Cuál objeto usar y cuál no, es algo que usted debe inferir a
+017E70	73	           partir de sus observaciones y de las cosas que le hayan dicho.
+017F12	74	  Regla 8: Trate de acumular las cosas que encuentre en lugares céntricos.
+017F63	73	           Así, si se ve necesitado de algún objeto que no lleva consigo,
+017FB4	46	           no se verá obligado a viajar tanto.
+0180A7	64	A continuación se explicarán todos los aspectos del vocabulario:
+018149	74	  Los artículos "el" y "la", y la preposición "por" se desprecian siempre.
+01819A	33	  Las tildes pueden ser omitidas.
+018240	32	Para moverse: Ir, Atravesar, Cru
+01828D	75	    A continuación se especifica el nombre de la unión que se desea cruzar.
+0182DE	61	    Ejemplos: ir puerta / ir por la puerta / cruzar la puerta
+018384	32	Para mirar el lugar: Mirar, Obse
+018426	32	Para mirar una cosa: Mirar, Ver,
+018473	71	    A continuación se especifica el nombre del objeto que se desea ver.
+0184C4	44	    Ejemplos: mirar tal cosa / leer la carta
+01856A	32	Para romper: Romper, Forzar, Des
+0185B7	74	    Luego va el objeto que se quiere romper, después la palabra "con" y al
+018608	53	    final el objeto que se usará para romper el otro.
+018659	66	    Ejemplos: romper el busto con la maza / romper vaso con piedra
+01874C	56	    A continuación se pone el objeto que se desea coger.
+01879D	45	    Ejemplos: coger tal cosa / tomar tal cosa
+018890	69	    Luego va el objeto. Si se pone "todo", usted se imagina qué pasa.
+0188E1	41	    Ejemplos: dejar tal cosa / dejar todo
+018987	32	Para interrogar: Interrogar, Pre
+0189D4	72	    A continuación se especifica el nombre del individuo que usted desea
+018A25	15	    interrogar.
+018A76	52	    Ejemplo: interrogar al mudo / preguntar al sordo
+018B69	71	    A continuación se especifica la unión que desea abrir. Si va a usar
+018BBA	73	    palabras mágicas añada "diciendo" y ponga luego las palabras. Si va a
+018C0B	67	    responder un acertijo use "respondiendo" antes de la respuesta.
+018C5C	74	    En realidad, "diciendo" es equivalente a "respondiendo" y ambos pueden
+018CAD	30	    ser sustituidos por "con".
+018CFE	52	    Ejemplos: abrir tal puerta diciendo abra cadabra
+018D4F	47	              abrir tal puerta con abra cadabra
+018DA0	64	              abrir tal puerta respondiendo el numero del carnet
+018DF1	55	              abrir tal puerta con el numero del carnet
+018EE4	78	    La sintaxis es similar a la de romper. El arma homicida puede ser obviada.
+018F35	70	    Ejemplos: asesinar caperucita roja / matar al lobo con la escopeta
+019028	76	    Luego se especifica el objeto que se va a dar y después a quién se le va
+019079	62	    a entregar. Ambas cosas deben estar separadas por una "a".
+0190CA	74	    Como es lógico, el objeto que usted pretende entregar debe estar entre
+01911B	21	    sus pertenencias.
+01916C	37	    Ejemplo: dar veneno a la abuelita
+0191BD	46	             dar la botella de vino a borracho
+01920E	46	             dar botella de vino a el borracho
+01925F	74	             (En el último ejemplo el arcaísmo es inevitable, recuerde que
+0192B4	32	         el uso de "a" es obliga
+019356	32	Para listar sus pertenencias: In
+0193A3	73	    Al lado del nombre de cada uno de los objetos que usted lleva consigo
+0193F4	71	    aparece cuánto pesa, expresados en "bolsas de arena del Río Negro".
+019445	74	    Para que tenga una idea exacta de lo que pesa una "bolsa", le diré que
+019496	74	    es equivalente a la octava parte de un tubo de luz fría lleno de agua.
+019589	75	    A continuación la Fortaleza le pregunta: "¿Nombre del fichero rastro?".
+0195DA	76	    En el fichero rastro se almacenan todos los comandos tecleados por usted
+01962B	78	    hasta el momento, todos menos los que no afectan el estado de la Fortaleza
+01967C	75	    (mirar, ver, inventario, interrogar, etc). Esta lista de comandos puede
+0196CD	39	    ser ejecutada en cualquier momento.
+01971E	74	    Como usted verá con el tiempo, los rastros son una de las herramientas
+01976F	76	    más útiles cuando se está resolviendo una Fortaleza. Como son un fichero
+0197C0	52	    texto, pueden ser editados en cualquier momento.
+019811	46	    Se permiten comentarios tipo Pascal "{ }".
+0198B7	32	Para ejecutar el rastro: Ejecuta
+019904	76	    El procedimiento ulterior es similar al de "salvar". Si se especifica el
+019955	76	    nombre del fichero rastro en la línea de parámetros, pasa lo que ustedes
+0199A6	10	    saben.
+0199F7	76	    Añadiendo /i se anula la visualización de los textos mientras se ejecuta
+019A48	14	    el rastro.
+019B3B	77	    A continuación debe poner el nombre del objeto que desea pesar y, como es
+019B8C	35	    lógico, debe tener una balanza.
+019C32	32	Para tener una idea de cúanto le
+019C7F	74	    Le indica qué porciento del la Fortaleza ha recorido hasta el momento.
+019CD0	32	    El porciento se calcula así:
+019D7A	32	               habitaciones visi
+019E1E	32	              total de habitacio
+019EB6	73	    Este porciento no es un indicador exacto de cuán cerca de la solución
+019F07	78	    se encuentra. Usted puede haber recorrido la Fortaleza entera (entonces el
+019F58	75	    porciento sería 100) y no tener idea de qué hacer para ganar. Eso pasa.
+019FFE	32	Para terminar: Terminar, Abandon
+01A04B	72	    Este comando termina provocando su muerte. También puede interrumpir
+01A09C	68	    el juego presionando Crtl+Break, y así podrá continuar con vida.
+01A13E	23	 El editor de comandos:
+01A1E0	80	   El editor de comandos soporta la mayoría de las funciones tradicionales, como
+01A231	74	   insertar, sobreescribir, borrar, etc. También se puede acceder, con las
+01A282	77	   teclas cursor-arriba y cursor-abajo, a los distintos comandos que han sido
+01A2D3	77	   almacenados en el rastro. Si usted teclea una palabra y luego oprime estas
+01A324	78	   teclas, el editor buscará sólo las cadenas que comiencen con dicha palabra.
+01A375	63	   Deben agradecerle el editor a Jorge Romero, alias "vac-ace".
+01A417	25	 Requerimientos técnicos:
+01A4B9	77	   Se ha tratado de que la Fortaleza corra lo mismo en una XT "luz-brillante"
+01A50A	75	   que en un 486 a 50 MHz y con un display XGA. Sería aconsejable tener más
+01A55B	57	   de 256 Kbytes de memoria a la hora de correr el juego.
+01A5AC	76	   Si puede conseguirse un display EGA (o superior), hágalo sin pensarlo dos
+01A5FD	71	   veces. El juego hace cierto cambios, solo posibles en estos tipos de
+01A64E	67	   display, que ayudan a crear una atmósfera a tono con lo que está
+01A69F	14	   ocurriendo.
+01A741	42	 Terminaremos con el comercial de siempre:
+01A7E3	72	   La Fortaleza es un juego abierto. Por esto, todas las sugerencias son
+01A834	70	   bienvenidas. Es probable que usted desee crear su propio juego, con
+01A885	51	   características similares a las de la Fortaleza.
+01A8D6	28	   Puede contactar al autor:
+01A9DF	32	              Miguel Enrique Cep
+01AA30	32	              Instituto de Infor
+01AA80	32	               Universidad Centr
+01AB5E	77	   La Fortaleza es un producto de Merchise Software, que no se dedica a hacer
+01ABAF	23	   jueguitos solamente.
+01AD95	73	Usted es un hombre común, sumergido en una vida rutinaria y mediocre. Día
+01ADE6	77	tras día espera que algo interesante aparezca en su camino. Una mañana, luego
+01AE37	76	de haber leído el periódico, encuentra una carta junto a la puerta. Desde la
+01AE88	65	sala se acerca un ruido de tacones. Usted rompe el sobre y guarda
+01AED9	63	nerviosamente la carta en un bolsillo. Su mujer acaba de pasar.
+01AF2A	60	Ahora está solo. Usted despliega el papel y comienza a leer.
+01AFCC	17	 "Estimado señor:
+01B01D	77	  Tengo el alto honor de comunicarle que usted ha sido designado para cumplir
+01B06E	75	  una de las misiones más importantes de la historia del hombre: Eliminar a
+01B0BF	12	  la Bestia.
+01B161	73	Usted levanta los ojos y se pregunta "¿Quién será la Bestia esa? Debe ser
+01B1B2	72	algún presidiario que ha escapado, o un narcotraficante". Usted continúa
+01B203	8	leyendo.
+01B2A5	75	 "La Bestia es una de las criaturas más temidas y misteriosas del universo.
+01B2F6	72	  Según varios informes que nos han llegado últimamente, habita un lugar
+01B347	67	  llamado la Fortaleza, aunque hay quienes dicen que la Bestia y la
+01B398	70	  Fortaleza son una misma cosa. Nadie ha visto a la Bestia (quienes lo
+01B3E9	69	  hicieron no pudieron contarlo nunca). Solo sabemos que la Fortaleza
+01B43A	69	  aparece todos los martes 24 de abril en los años bisiestros, o sea,
+01B48B	13	  casi nunca.
+01B4DC	73	  Su misión es: adentrarse en la Fortaleza y matar a la Bestia. Nada más.
+01B57E	73	  Tenga preparada una muda de ropa (ropa de trabajo preferiblemente) para
+01B5CF	28	  cuando vayamos a buscarlo.
+01B728	32	            Jefe de la Oficina d
+01B806	72	Usted guarda el papel lentamente. No puede creer lo que está ocurriendo.
+01B857	26	¿Por qué yo?, se pregunta.
+01B8A8	73	Hay que ver las vueltas que da la vida. Varios minutos antes usted estaba
+01B8F9	63	ansioso de que ocurriese algo especial. Debía estar satisfecho.
+01B94A	50	Uno no sabe con cuál se gana y con cuál se pierde.
+01BDF0	7	áéíóúñÑ
+01BEF0	7	aeiounN
+01C232	3	POR
+01C432	9	ATRAVESAR
+01C632	5	TOMAR
+01C732	5	COGER
+01C832	6	SOLTAR
+01C932	5	DEJAR
+01CA32	5	ABRIR
+01CB32	5	MATAR
+01CC32	8	ASESINAR
+01CD32	8	OBSERVAR
+01CE32	5	MIRAR
+01CF32	4	LEER
+01D032	3	VER
+01D132	6	ROMPER
+01D232	6	FORZAR
+01D332	9	PREGUNTAR
+01D432	10	INTERROGAR
+01D532	10	INVENTARIO
+01D632	7	REGALAR
+01D732	3	DAR
+01D832	3	CON
+01DA32	9	ABANDONAR
+01DB32	8	TERMINAR
+01DC32	12	RESPONDIENDO
+01DD32	8	DICIENDO
+01DE32	8	EJECUTAR
+01DF32	6	SALVAR
+01E032	9	DESTROZAR
+01E132	6	CRUZAR
+01E232	9	PORCIENTO
+01E332	4	TODO
+01E432	5	PESAR

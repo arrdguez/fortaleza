@@ -1,0 +1,2220 @@
+{
+  "0": {
+    "id": 0,
+    "title": "una habitación para huéspedes",
+    "description": "Está tan oscura que usted cree que las paredes y el techo se han avalanzado sobre su cuerpo. En la pared que tiene delante se distingue un plateado hilo de luz. Es el filo de una puerta.",
+    "doors": [
+      {
+        "name": "Puerta",
+        "description": "En realidad, lo que usted puede distinguir es el delicado filón de luz que deja escapar la unión de la puerta y el marco.",
+        "target_room": 1,
+        "locked_message": "",
+        "message_enter": "Usted cierra los ojos, cegado por la luz.",
+        "is_open": true,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "1": {
+    "id": 1,
+    "title": "el pasillo",
+    "description": "Hay seis puertas distribuidas simétricamente. Las paredes son de mármol blanco, pero usted tiene la certeza de que hay algo terrible encerrado detrás de toda esa pulcritud.",
+    "doors": [
+      {
+        "name": "Usted cierra los ojos, cegado por la luz.",
+        "description": "Puerta",
+        "target_room": 0,
+        "locked_message": "Es de madera trabajada, una verdadera obra de arte.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a la oscuridad nuevamente.",
+        "description": "Puerta de espinos",
+        "target_room": 5,
+        "locked_message": "Está erizada de espinas. Usted tiene miedo hasta de acercarse.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra lentamente, tratando de no rozar la puerta.",
+        "description": "Puerta de metal",
+        "target_room": 6,
+        "locked_message": "Es de acero bruñido. Tiene encima un cartel que dice \"Cocina. Cúbrase la nariz.\"",
+        "message_enter": "",
+        "required_item_to_cross": "Al pasar siente un olor muy fuerte, que lo envuelve y lo asfixia. Usted sobrevive gracias al pañuelo que lleva consigo.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Pañuelo",
+        "description": "Puerta Negra",
+        "target_room": 2,
+        "locked_message": "Usted ve unas delgadas cortinas de humo saliendo por debajo de la puerta.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted tose fuertemente, ha entrado al Salón de Fumar.",
+        "description": "Puerta Azul",
+        "target_room": 3,
+        "is_riddle": true,
+        "riddle_question": "Es más pequeña que las puertas restantes.",
+        "riddle_answer": "¿Cuál es el nombre de la hija del Hechicero?",
+        "message_enter": "Aura",
+        "is_open": false,
+        "type": "riddle"
+      },
+      {
+        "name": "Usted entra a la alcoba de la hija del Hechicero.",
+        "description": "Puerta de oro",
+        "target_room": 7,
+        "locked_message": "Usted nunca había visto tanto oro fundido en una misma pieza.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "El resplandor del oro lo ciega por un momento. Usted ha salido a las terrazas.",
+        "description": "Grifo",
+        "dying_confession": "Usted no logra distinguir si es un león o un águila. Parece dormido.",
+        "lethal_weapon": "El grifo se contorsiona tratando de arrancarse la daga y grita: \"¡Aura!\".",
+        "is_hostile": true
+      }
+    ]
+  },
+  "2": {
+    "id": 2,
+    "title": "el Salón de Fumar",
+    "description": "Hay sesenta y seis sillas en el salón. Al lado de cada silla crece un tentáculo rosado con un pitillo en el extremo. Los pitillos humean.",
+    "doors": [
+      {
+        "name": "Daga",
+        "description": "Puerta Negra",
+        "target_room": 1,
+        "locked_message": "La puerta por este lado está muy manchada por el humo.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale del Salón de Fumar. A fin puede respirar normalmente.",
+        "description": "Balanza",
+        "weight": 5,
+        "can_pick_up": true
+      },
+      {
+        "name": "La balanza tiene el plato en forma de mano. La aguja es muy delgada, hecha con varios bigotes de gato trenzados. ",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "3": {
+    "id": 3,
+    "title": "el cuarto de la hija del Hechicero",
+    "description": "Se pregunta cómo luciría la hija de un hechicero. En las paredes hay cientos de retratos, todos de muchachas diferentes. ¿Cuál será la real?... ¿O todas son una misma?",
+    "doors": [
+      {
+        "name": "La inscripción dice:\nLa muerte es un acto de la vida. Yo, la Bestia, he de morir como he vivido. Esta es mi venganza, y tú mismo serás el instrumento que la lleve a cabo. La naturaleza humana es el arma más poderosa que puede utilizarse contra el hombre.",
+        "description": "Puerta Azul",
+        "target_room": 1,
+        "locked_message": "Conduce al pasillo.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "La carta dice:\n\"¡Dios te salve, mi única esperanza! \nMi padre me ha encerrado en la Torre de Cristal, que está más allá del segundo río. El sabe que solo yo podría mostrarte el camino de salida. Búscame.\"",
+        "description": "Agujero",
+        "target_room": 4,
+        "strings": [
+          "La carta dice:\n\"¡Dios te salve, mi única esperanza! \nMi padre me ha encerrado en la Torre de Cristal, que está más allá del segundo río. El sabe que solo yo podría mostrarte el camino de salida. Búscame.\"",
+          "Agujero",
+          "Parece una guarida de ratones.",
+          "Usted se agacha y (con grandes dolores en todos los huesos) atraviesa el agujero."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale al pasillo.",
+        "description": "Pañuelo",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "Tiene bordadas una A y una S.",
+        "description": "Carta",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "4": {
+    "id": 4,
+    "title": "la casa de muñecas",
+    "description": "Es tan pequeña como cualquier casa de muñecas. Usted no comprende cómo pudo entrar. Hay un baúl en el fondo.",
+    "doors": [
+      {
+        "name": "Usted se agacha y (con grandes dolores en todos los huesos) atraviesa el agujero.",
+        "description": "Agujero",
+        "target_room": 3,
+        "strings": [
+          "Usted se agacha y (con grandes dolores en todos los huesos) atraviesa el agujero.",
+          "Agujero",
+          "Es la salida de la casa de muñecas.",
+          "Usted regresa a la alcoba."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted regresa a la alcoba.",
+        "description": "Ventana",
+        "target_room": 12,
+        "strings": [
+          "Usted regresa a la alcoba.",
+          "Ventana",
+          "Es de un cristal muy grueso. Usted trata de ver al otro lado, pero la ventana es tan opaca que solo puede divisar algunas sombras moviéndose.",
+          "Corta-cristales",
+          "Pasadizo",
+          "¿A dónde conducirá?",
+          "Usted oye una voz que le dice: \"Usa tu equilibrio para vencer la corriente\". Al cabo de varios minutos encuentra la salida."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted oye una voz que le dice: \"Usa tu equilibrio para vencer la corriente\". Al cabo de varios minutos encuentra la salida.",
+        "description": "Puerta del baúl",
+        "target_room": 9,
+        "locked_message": "Parece muy antigua. Usted está seguro de que ahí hay \"gato encerrado\".",
+        "message_enter": "MIAU",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "5": {
+    "id": 5,
+    "title": "el cuarto del Leñador",
+    "description": "Las paredes, el suelo y el techo están hechos de madera. Usted camina con cuidado: hay espinas por todas partes.",
+    "doors": [
+      {
+        "name": "¡Usted ha caído dentro del baúl!",
+        "description": "Puerta de espinos",
+        "target_room": 1,
+        "locked_message": "Al igual que del otro lado, está erizada de espinas.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale lentamente, tratando de no rozar la puerta.",
+        "description": "Daga",
+        "weight": 2,
+        "can_pick_up": true
+      },
+      {
+        "name": "La empuñadura tiene forma de dragón.",
+        "description": "Botella de vino",
+        "weight": 3,
+        "can_pick_up": true
+      },
+      {
+        "name": "Parece una botella de agua sucia.",
+        "description": "Hacha",
+        "weight": 17,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "6": {
+    "id": 6,
+    "title": "la Cocina",
+    "description": "En realidad, se parece mucho más a un matadero. El olor a sangre coagulada y carroña no le permite apartar el pañuelo de la nariz. Hay unas marcas de sangre en la pared que le llaman mucho la atención: fueron hechas por una mano de siete dedos.",
+    "doors": [
+      {
+        "name": "Está muy mohosa.",
+        "description": "Puerta de metal",
+        "target_room": 1,
+        "locked_message": "Conduce al pasillo.",
+        "message_enter": "",
+        "required_item_to_cross": "Al salir puede apartar el pañuelo de la nariz.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Pañuelo",
+        "description": "Receta",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es una receta de cocina. Dice:\n  5 Ojos de rana\n  1 Mano de gigante\n  2 Cucharadas de puré de lombrices\n  1 Hígado de muchacha virgen\n  9 Libras de azúcar\n  1 Tanque de agua del pantano verde\nUsted recuerda haber probado esto en alguna parte.",
+        "description": "Muslo de carnero",
+        "weight": 10,
+        "can_pick_up": true
+      },
+      {
+        "name": "Más bien parece el muslo de una persona.",
+        "description": "Pescado",
+        "weight": 3,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "7": {
+    "id": 7,
+    "title": "las Terrazas",
+    "description": "No puede reprimir su asombro: las terrazas están invertidas. Usted se siente muy natural parado cabeza abajo. Se escucha el correr de un río.",
+    "doors": [
+      {
+        "name": "¿Qué tiempo llevará en este lugar?",
+        "description": "Puerta de oro",
+        "target_room": 1,
+        "locked_message": "Usted nunca había visto tanto oro fundido en una misma pieza.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted regresa al pasillo. El resplandor del oro lo ciega por un momento.",
+        "description": "Escalera de caracol",
+        "target_room": 10,
+        "strings": [
+          "Usted regresa al pasillo. El resplandor del oro lo ciega por un momento.",
+          "Escalera de caracol",
+          "Parece la bajada a un oído gigante.",
+          "El viento helado que viene del fondo de la escalera lo envuelve en continuos temblores."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "El viento helado que viene del fondo de la escalera lo envuelve en continuos temblores.",
+        "description": "Reloj de arena",
+        "weight": 2,
+        "can_pick_up": true
+      },
+      {
+        "name": "Usted escucha un callado tic-tac.",
+        "description": "Silla",
+        "weight": 15,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "8": {
+    "id": 8,
+    "title": "el calabozo del Monstruo",
+    "description": "Las paredes son de barro. Hay cientos de cadenas embotadas en el techo, moviéndose constantemente, como si las arrastrara un viento de acero.",
+    "doors": [
+      {
+        "name": "Es una silla para tomar el sol. Usted tiene la certeza de que había alguien sentado en ella cuando entró a las terrazas.",
+        "description": "Escalera de caracol",
+        "target_room": 7,
+        "strings": [
+          "Es una silla para tomar el sol. Usted tiene la certeza de que había alguien sentado en ella cuando entró a las terrazas.",
+          "Escalera de caracol",
+          "Conduce a las terrazas",
+          "Su condicionamiento euclidiano le impide comprender cómo es posible que una misma escalera sea origen y destino de tres lugares distintos a la vez.\nUsted ha subido a las terrazas."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Su condicionamiento euclidiano le impide comprender cómo es posible que una misma escalera sea origen y destino de tres lugares distintos a la vez.\nUsted ha subido a las terrazas.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "La inscripción dice:\n\"No alimente al monstruo.\"",
+        "description": "Monstruo",
+        "requested_item": "El Monstruo está encadenado a la pared. Usted aparta la vista rápidamente. Nunca había visto tanta fealdad concentrada en una criatura.",
+        "reward": "Muslo de carnero",
+        "dialogue": "¡Tú cuidarte de Hechicero! ¡Hechicero ser malo! ¡Malo! ¡Muy malo!\nHechicero puso yo feo. A tú no poner feo... ¡A tú arrancal tripa, sacal ojo, rompel hueso y echal dragrón hambroso!\nYo consejo tú: Busca espada Marmidosa... ¡y pincha todo!",
+        "is_hostile": false
+      }
+    ]
+  },
+  "9": {
+    "id": 9,
+    "title": "el interior del baúl",
+    "description": "Ahora sí está confundido. El baúl es inmensamente mayor que la casa de muñecas, a pesar de que está dentro de ella. Luce como una habitación cualquiera.",
+    "doors": [
+      {
+        "name": "¡Grrrr! ¡Hambre!",
+        "description": "Puerta del baúl",
+        "target_room": 4,
+        "locked_message": "Está en el techo.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale del baúl y vuelve a sentir la estrechez de la casa de muñecas.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "La inscripción dice:\n\"No todos los dragones merecen la muerte.\"",
+        "description": "Piedra verde",
+        "weight": 9,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Es increíblemente sólida.",
+        "description": "Gato",
+        "requested_item": "Está concentrado en sacarle las últimas partículas de carne a una cabeza de pescado.",
+        "reward": "Pescado",
+        "dialogue": "La piedra verde te servirá para romper la segunda muralla.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "10": {
+    "id": 10,
+    "title": "una orilla del Río Negro",
+    "description": "Las aguas del Río Negro hacen honor a su nombre. Más que aguas parecen una mezcla de muerte y olvido. ",
+    "doors": [
+      {
+        "name": "¡No molestes!",
+        "description": "Escalera de caracol",
+        "target_room": 8,
+        "strings": [
+          "¡No molestes!",
+          "Escalera de caracol",
+          "Contrariamente a lo que usted espera, la escalera en este lugar asciende hasta el calabozo del Monstruo.",
+          "Usted sube durante unos minutos y llega al calabozo del Monstruo."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Es el célebre bote de Caronte.",
+        "description": "Río Negro",
+        "target_room": 11,
+        "strings": [
+          "Es el célebre bote de Caronte.",
+          "Río Negro",
+          "Es el Estigia.",
+          "Usted se sumerge en las oscuras aguas del Estigia (tiene miedo de montar el bote de Caronte). Pocos mortales se han atrevido a tanto. Al poco rato está del otro lado."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Tráeme el reloj de arena, pero víralo antes de entregármelo. ",
+        "description": "Bote",
+        "weight": 39,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Usted sube durante unos minutos y llega al calabozo del Monstruo.",
+        "description": "Caronte",
+        "requested_item": "Una capucha negra esconde su rostro. Por una de las mangas de su vestimenta asoma una mano descarnada casi hasta el hueso. Usted se alegra de no poder ver su cara.",
+        "reward": "Reloj de arena",
+        "dialogue": "Dentro del blanco está la llave de la muralla.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "11": {
+    "id": 11,
+    "title": "una orillas del Río Negro",
+    "description": "La espesa niebla casi no deja ver las terrazas al otro lado.",
+    "doors": [
+      {
+        "name": "Usted se sumerge en las oscuras aguas del Estigia (tiene miedo de montar el bote de Caronte). Pocos mortales se han atrevido a tanto. Al poco rato está del otro lado.",
+        "description": "Río Negro",
+        "target_room": 10,
+        "strings": [
+          "Usted se sumerge en las oscuras aguas del Estigia (tiene miedo de montar el bote de Caronte). Pocos mortales se han atrevido a tanto. Al poco rato está del otro lado.",
+          "Río Negro",
+          "Es el Estigia.",
+          "Usted regresa nadando a la otra orilla."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Es muy pesada.",
+        "description": "Muralla",
+        "target_room": 12,
+        "strings": [
+          "Es muy pesada.",
+          "Muralla",
+          "Al lado de esta, la Gran Muralla China es el juego de un niño en la arena.",
+          "Maza",
+          "Avenida de hierro",
+          "Toda la avenida está rodeada de árboles de metal. Usted se cubre los oídos tratando de escapar de los chirridos provocados por el viento en las hojas.",
+          "Usted camina durante varios minutos hasta salir de la avenida."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted regresa nadando a la otra orilla.",
+        "description": "Arbol de marfil",
+        "weight": 37,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "12": {
+    "id": 12,
+    "title": "los Jardines del Hechicero",
+    "description": "Son tan extensos que usted no puede ver dónde terminan. Todos los árboles tienen el mismo tamaño y la misma forma. El jardín parece un gran juego de espejos.",
+    "doors": [
+      {
+        "name": "Usted camina durante varios minutos hasta salir de la avenida.",
+        "description": "Avenida de hierro",
+        "target_room": 11,
+        "strings": [
+          "Usted camina durante varios minutos hasta salir de la avenida.",
+          "Avenida de hierro",
+          "Toda la avenida está rodeada de árboles de metal. Usted se cubre los oídos tratando de escapar de los chirridos provocados por el viento en las hojas.",
+          "Usted camina durante varios minutos hasta regresar al río."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted camina durante varios minutos hasta regresar al río.",
+        "description": "Puerta de madera",
+        "target_room": 13,
+        "locked_message": "Es una puerta bastante vulgar. Conduce al comedor.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra al comedor.",
+        "description": "Puerta amarilla",
+        "target_room": 16,
+        "locked_message": "Conduce al cuarto del tesoro.",
+        "message_enter": "Omicuos Ihanti",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra al cuarto del tesoro. Los resplandores de las piedras preciosas lo ciegan por unos instantes.",
+        "description": "Puerta de tela",
+        "target_room": 14,
+        "locked_message": "La tela de la puerta es tan dura como cualquier acero.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a las habitaciones del sastre.",
+        "description": "Puerta verde",
+        "target_room": 15,
+        "locked_message": "Conduce a las habitaciones del jardinero.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a las habitaciones del jardinero.",
+        "description": "Puerta roja",
+        "target_room": 17,
+        "locked_message": "Conduce al salón de las velas. La puerta está caliente.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted entra al salón de las velas.",
+        "description": "Piedra",
+        "weight": 5,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Es una piedra común. Usted se pregunta qué hace en la Fortaleza, donde todo es tan exótico.",
+        "description": "Jardinero",
+        "requested_item": "Es un anciano pequeño y encorvado.",
+        "reward": "Hacha",
+        "dialogue": "En tu camino encontrarás varios anillos. Debes guardar el que tú consideres más apropiado, el que se ajuste más a tu espíritu y a tu empresa. Los otros anillos solo te traerán peligros y muerte. Elige bien.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "13": {
+    "id": 13,
+    "title": "el Comedor",
+    "description": "La mesa es tan alta que usted no puede ver lo que hay servido. Alguien se lamenta allá arriba.",
+    "doors": [
+      {
+        "name": "El jardinero no le presta atención. Está muy ocupado cortando un abeto con una navaja.",
+        "description": "Puerta de Madera",
+        "target_room": 12,
+        "locked_message": "Usted distingue algunas manchas de salsa en la puerta. Parece los comensales acostumbran a lanzarse la comida.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale del comedor.",
+        "description": "Túnel",
+        "target_room": 48,
+        "locked_message": "Usted se pregunta qué hace un túnel en un comedor. ¡No intente cruzar desprotegido!",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Casi a mitad de camino usted es atacado por una bandada de murciélagos gigantes. Gracias al arco, usted logra ahuyentarlos.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Arco",
+        "description": "Huevo",
+        "requested_item": "Por el tamaño debe ser el huevo de un dinosaurio. Y de uno grande.",
+        "reward": "Piedra",
+        "dialogue": "Dinosaurio",
+        "is_hostile": false
+      }
+    ]
+  },
+  "14": {
+    "id": 14,
+    "title": "la Sastrería",
+    "description": "Parece la casa de una araña gigantesca. Hay hilos por todas partes.",
+    "doors": [
+      {
+        "name": "¡Guaaaaaa! ¡Guaaaaaa!\nUsted se pregunta con qué podría calmarlo.",
+        "description": "Puerta de Tela",
+        "target_room": 12,
+        "locked_message": "La tela de la puerta es tan dura como cualquier acero.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted regresa al jardín.",
+        "description": "Muñeco diabólico",
+        "weight": 2,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es un artefacto de brujería. Representa a un hombre joven y tiene un alfiler clavado en una pierna.",
+        "description": "Aguja",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "15": {
+    "id": 15,
+    "title": "el cuarto del jardinero",
+    "description": "Es una habitación muy modesta. A usted le sorprende que los instrumentos no sean de jardinería, sino de fabricar espejos.",
+    "doors": [
+      {
+        "name": "Es una aguja de plata, tan larga que usted se pregunta cómo el sastre puede coser con ella.",
+        "description": "Puerta verde",
+        "target_room": 12,
+        "locked_message": "Conduce al jardín.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale de las habitaciones del jardinero.",
+        "description": "Corta-cristales",
+        "weight": 3,
+        "can_pick_up": true
+      },
+      {
+        "name": "Tiene un diamante en la punta.",
+        "description": "Sombrero",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "16": {
+    "id": 16,
+    "title": "la habitación de los tesoros",
+    "description": "Nunca había visto tanta riqueza. Las paredes están forradas de láminas de platino y hasta el fuego de las antorchas es de oro. Usted no comprende de dónde viene la luz.",
+    "doors": [
+      {
+        "name": "Es muy grande. Al jardinero no debe servirle.",
+        "description": "Puerta amarilla",
+        "target_room": 12,
+        "locked_message": "Conduce al jardín.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted regresa a los jardines.",
+        "description": "Rosa diamante",
+        "weight": 3,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es increíblemete hermosa.",
+        "description": "Anillo de oro",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "El anillo es sencillo. Solo un aro, sin ningún tipo de adorno.",
+        "description": "Arpa",
+        "weight": 3,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es un arpa de diciocho cuerdas.",
+        "description": "Bolsa",
+        "weight": 5,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "17": {
+    "id": 17,
+    "title": "el salón de las velas",
+    "description": "Deben ser varios kilómetros sembrados de velas. En el centro hay un círculo vacío.",
+    "doors": [
+      {
+        "name": "Está llena de oro.",
+        "description": "Puerta roja",
+        "target_room": 12,
+        "locked_message": "Conduce a los jardines.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted regresa a los jardines.",
+        "description": "Puerta blanca",
+        "target_room": 19,
+        "locked_message": "Conduce al cuarto de juguetes.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra al cuarto de juguetes.",
+        "description": "Escalera",
+        "target_room": 18,
+        "strings": [
+          "Usted entra al cuarto de juguetes.",
+          "Escalera",
+          "Baja hasta el cuarto del Inmortal.",
+          "Usted desciende las escaleras y entra al cuarto del Inmortal."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Usted desciende las escaleras y entra al cuarto del Inmortal.",
+        "description": "Dragon",
+        "requested_item": "A usted se le erizan los pelos de la nuca de tan solo mirarlo. Es una criatura extremadamente hermosa y terrible a la vez.",
+        "reward": "Daga",
+        "dialogue": "Las palabras mágicas para entrar en el cuarto del tesoro son: \"Omicuos Ihanti\".",
+        "is_hostile": false
+      }
+    ]
+  },
+  "18": {
+    "id": 18,
+    "title": "el cuarto del Inmortal",
+    "description": "Esta habitación luce más vieja que el resto de la Fortaleza. Hay muchas cosas colgadas de la pared: retratos, cartas, reconocimientos, estandartes y muchas telas de arañas.",
+    "doors": [
+      {
+        "name": "No desea hablar con usted.",
+        "description": "Escalera",
+        "target_room": 17,
+        "strings": [
+          "No desea hablar con usted.",
+          "Escalera",
+          "Lleva hasta el salón de las velas.",
+          "Usted sube lentamente hasta ver el resplandor de las velas otra vez."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sube lentamente hasta ver el resplandor de las velas otra vez.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "¿Quién quiere vivir para siempre?",
+        "description": "Inmortal",
+        "dying_confession": "No parece tener ninguna edad en específico. Hay mucho cansancio en la expresión de su rostro.",
+        "lethal_weapon": "El Inmortal lo mira agradecido y le dice antes de morir:\n\"No confundas la tercera muralla con la tercera barrera que tienes que romper. La tercera barrera está en tí mismo.\"",
+        "is_hostile": true
+      }
+    ]
+  },
+  "19": {
+    "id": 19,
+    "title": "el cuarto de juguetes",
+    "description": "Hay miles de juguetes regados por todas partes. Usted siente deseos de volver a ser un niño.",
+    "doors": [
+      {
+        "name": "Arco",
+        "description": "Puerta blanca",
+        "target_room": 17,
+        "locked_message": "Conduce al salón de las velas.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale del cuarto de juguetes.",
+        "description": "Puerta de piedra",
+        "target_room": 20,
+        "locked_message": "Es muy antigua. Probablemente sea más vieja que el propio cuarto de juguetes. ",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale del cuarto de juguetes y entra a las ruinas.",
+        "description": "Saltador",
+        "weight": 7,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es un tronco de abeto con un resorte en el extremo inferior.",
+        "description": "Sonajero",
+        "weight": 2,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es un jugete para recién nacidos.",
+        "description": "Talismán de Nieve",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "20": {
+    "id": 20,
+    "title": "las Ruinas",
+    "description": "Este lugar debe haber sido abandonado hace siglos. Usted trata de imaginar cómo eran las construcciones originalmente, pero no lo consigue. Al sur se extiende un desierto y al oeste se encuentra la casa del Ogro.",
+    "doors": [
+      {
+        "name": "Hay una pequeña tormenta de nieve encerrada en el cristal",
+        "description": "Puerta de piedra",
+        "target_room": 19,
+        "locked_message": "Está muy a tono con el lugar. Las ruinas están más cerca de ser el juego del viento en las piedras que cualquier otra cosa. ",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale de las ruinas y regresa al cuarto de juguetes.",
+        "description": "Puerta de hierro",
+        "target_room": 21,
+        "locked_message": "Es la entrada a la casa del Ogro.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a la casa del Ogro.",
+        "description": "Escalera",
+        "target_room": 26,
+        "strings": [
+          "Usted entra a la casa del Ogro.",
+          "Escalera",
+          "Desde el final asciende un aire frío y húmedo.",
+          "Los peldaños están llenos de musgo. Usted desciende cuidadosamente hasta llegar a los subterráneos."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Los peldaños están llenos de musgo. Usted desciende cuidadosamente hasta llegar a los subterráneos.",
+        "description": "Desierto",
+        "target_room": 33,
+        "strings": [
+          "Los peldaños están llenos de musgo. Usted desciende cuidadosamente hasta llegar a los subterráneos.",
+          "Desierto",
+          "Promete ser largo y abrasador.",
+          "Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.\nY cuando cree que nunca llegará descubre que está en un Oasis."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "21": {
+    "id": 21,
+    "title": "el Salón de Recepciones",
+    "description": "Todo está muy sucio y descuidado. Un fuerte olor a carroña le hace perder el equilibrio por momentos. Seguramente el Ogro usa este lugar para recibir a sus enemigos.",
+    "doors": [
+      {
+        "name": "Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.\nY cuando cree que nunca llegará descubre que está en un Oasis.",
+        "description": "Puerta de hierro",
+        "target_room": 20,
+        "locked_message": "Usted no comprende cómo puede estar tan sucia. Conduce a las ruinas.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted regresa a las ruinas.",
+        "description": "Puerta gris",
+        "target_room": 23,
+        "locked_message": "Conduce al patio.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale al patio.",
+        "description": "Anillo de bronce",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "22": {
+    "id": 22,
+    "title": "el cuarto de un pintor",
+    "description": "Hay muchos cuadros en las paredes, pero ninguno está terminado.",
+    "doors": [
+      {
+        "name": "Es más pesado que los demás anillos.",
+        "description": "Puerta azul",
+        "target_room": 23,
+        "locked_message": "Conduce al patio.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale al patio.",
+        "description": "Lienzo",
+        "weight": 8,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es un cuadro muy extraño. Tiene dibujadas tres líneas que se cortan entre sí en puntos distintos.",
+        "description": "Grabado",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "23": {
+    "id": 23,
+    "title": "el Patio Interior",
+    "description": "Por el patio están diseminados varios árboles gigantescos, todos sin hojas. Parece como si el invierno reinase siempre en este lugar.",
+    "doors": [
+      {
+        "name": "En el grabado aparece usted cruzando un puente con el propio grabado en la mano. Una estructura en abismo interesante.",
+        "description": "Puerta gris",
+        "target_room": 21,
+        "locked_message": "Conduce al Salón de Recepciones.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale al Salón de Recepciones.",
+        "description": "Puerta azul",
+        "target_room": 22,
+        "locked_message": "Conduce al cuarto del pintor.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra al cuarto del pintor. El olor del óleo golpea sus narices.",
+        "description": "Puerta verde",
+        "target_room": 24,
+        "locked_message": "Conduce al cuarto del juglar.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra al cuarto del juglar.",
+        "description": "Puerta negra",
+        "target_room": 25,
+        "locked_message": "Conduce a la alcoba del Ogro.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "24": {
+    "id": 24,
+    "title": "las habitaciones del Juglar",
+    "description": "El ambiente de la habitación le induce a creer que el juglar no era exactamente lo que se llama una persona alegre.",
+    "doors": [
+      {
+        "name": "Usted entra la alcoba del Ogro.",
+        "description": "Puerta verde",
+        "target_room": 23,
+        "locked_message": "Conduce al patio.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale al patio.",
+        "description": "Escalera",
+        "target_room": 27,
+        "locked_message": "Conduce a las Catacumbas.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Casi al llegar al final, los peldaños se abrieron dejando abierto un precipicio lleno de lava. Por suerte, el escudo de Aquiles quedó trabado en un saliente y usted pudo regresar a la superficie.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Escudo de Aquiles",
+        "description": "Cuerda",
+        "weight": 4,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Esta cuerda era usada por el juglar en los actos de equilibrismo. Tiene un gancho atado en uno de sus extremos.",
+        "description": "Juglar",
+        "requested_item": "Usted lo observa detenidamente. Su cara es tan larga y tan triste que se asemeja a la de un caballo.",
+        "reward": "Arpa",
+        "dialogue": "Lleva algo de la fragua de Vulcano al bajar a las Catacumbas.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "25": {
+    "id": 25,
+    "title": "la alcoba del Ogro",
+    "description": "El aire se ha hecho casi irrespirable. Ahora usted comprende de dónde venía el mal olor reinante en el Salón de Recepciones. Nunca antes había estado en un lugar tan repulsivo.",
+    "doors": [
+      {
+        "name": "¡Qué aburrimiento!",
+        "description": "Puerta negra",
+        "target_room": 23,
+        "locked_message": "Conduce al patio.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale al patio.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "¡BUUUU!",
+        "description": "Ogro",
+        "dying_confession": "Es una repugnante mezcla de hombre, cerdo y buitre. Parece dormido.",
+        "lethal_weapon": "El Ogro despierta sobresaltado. El agua lo quema como si fuese ácido. Antes de volverse un charco de pasta pestilente le grita, víctima de un rencor casi infantil:\n\"¡No saldrás del lago con Marmidosa tan fácilmente!\"\nEl cubo de agua vuelve a llenarse.",
+        "is_hostile": true
+      }
+    ]
+  },
+  "26": {
+    "id": 26,
+    "title": "los Subterráneos",
+    "description": "Deben ser contemporáneos de las Ruinas. Usted siente como la humedad lo invade y le perfora los huesos.",
+    "doors": [
+      {
+        "name": "Cubo de agua",
+        "description": "Escalera",
+        "target_room": 20,
+        "strings": [
+          "Cubo de agua",
+          "Escalera",
+          "Asciende hasta las ruinas.",
+          "Los peldaños están llenos de musgo. Usted asciende cuidadosamente hasta regresar a las ruinas."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Los peldaños están llenos de musgo. Usted asciende cuidadosamente hasta regresar a las ruinas.",
+        "description": "Túnel",
+        "target_room": 27,
+        "locked_message": "Conduce a las catacumbas. Usted huele alguna trampa.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Al dar el tercer paso, usted activó un mecanismo que lanzó un dardo envenenado hacia su pecho. Usted sobrevive gracias al escudo de Aquiles.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Escudo de Aquiles",
+        "description": "Antorcha",
+        "weight": 3,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "27": {
+    "id": 27,
+    "title": "las Catacumbas",
+    "description": "Nunca antes había visto tantos esqueletos juntos. Más que enterrados en ese lugar, parecían haber muerto ahí. En el fondo usted divisa un hueco sin cadáver con una inscripción. La inscripción dice: \"Este es para tí\".",
+    "doors": [
+      {
+        "name": "Es muy brillante y despide mucho calor.",
+        "description": "Túnel",
+        "target_room": 26,
+        "locked_message": "Conduce a los subterráneos. Usted recuerda que debe llevar el Escudo de Aquiles.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Al dar el tercer paso, usted activó un mecanismo que lanzó un dardo envenenado hacia su pecho. Usted sobrevive gracias al escudo de Aquiles.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Escudo de Aquiles",
+        "description": "Escalera",
+        "target_room": 24,
+        "locked_message": "Conduce a una de las habitaciones de la casa del Ogro.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Casi al llegar al final, los peldaños se abrieron dejando abierto un precipicio lleno de lava. Por suerte, el escudo de Aquiles quedó trabado en un saliente y usted pudo regresar a la superficie.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Escudo de Aquiles",
+        "description": "Pasadizo",
+        "target_room": 28,
+        "strings": [
+          "Escudo de Aquiles",
+          "Pasadizo",
+          "Parece más seguro que la escalera y el túnel.",
+          "Usted cruza esperando algo terrible, pero no sucede nada."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted cruza esperando algo terrible, pero no sucede nada.",
+        "description": "Esqueleto de Murciélago",
+        "weight": 7,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "28": {
+    "id": 28,
+    "title": "el punto donde comienzan unas enormes cataratas",
+    "description": "Un repentino acceso de vértigo hace que sus rodillas se doblen. A menos de un pie de donde usted se encuentra el agua se precipita hacia el abismo.",
+    "doors": [
+      {
+        "name": "Usted se alegra de que sea solo el esqueleto. Mide tres metros de ala a ala.",
+        "description": "Pasadizo",
+        "target_room": 27,
+        "strings": [
+          "Usted se alegra de que sea solo el esqueleto. Mide tres metros de ala a ala.",
+          "Pasadizo",
+          "Conduce a las Catacumbas.",
+          "Usted regresa a las Catacumbas sin mayores contratiempos."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Es muy brillante.",
+        "description": "Catarata",
+        "target_room": 30,
+        "strings": [
+          "Es muy brillante.",
+          "Catarata",
+          "Usted siente mareos de tan solo pensar en ella.",
+          "Usted hace un acopio de valor, cierra los ojos y se lanza al abismo. Al cabo de varias horas, usted cae en un profundo lago."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted regresa a las Catacumbas sin mayores contratiempos.",
+        "description": "Anillo de plata",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "29": {
+    "id": 29,
+    "title": "los bajos de las cataratas",
+    "description": "Hay un ruido ensordecedor, como si millones de tambores redoblaran al lado de sus tímpanos. Usted siente como si su cabeza fuese a explotar.",
+    "doors": [],
+    "items": [],
+    "creatures": []
+  },
+  "30": {
+    "id": 30,
+    "title": "fondo del Lago",
+    "description": "Contrariamente a lo que le dijeron en su infancia, usted puede respirar debajo del agua. Usted siente una paz extraña al estar en el fondo del Lago, tal vez debida a posibles asociaciones subconcientes con su pasado embrionario, en el vientre de su madre.",
+    "doors": [
+      {
+        "name": "Usted hace un acopio de valor, cierra los ojos y se lanza al abismo. Al cabo de varias horas, usted cae en un profundo lago.",
+        "description": "Grieta",
+        "target_room": 31,
+        "locked_message": "Usted logra ver algunos destellos de una luz muy fuerte al otro lado.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted cruza sin problemas, protegido con el Talismán de Nieve.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Talismán de Nieve",
+        "description": "Reja",
+        "target_room": 34,
+        "strings": [
+          "Talismán de Nieve",
+          "Reja",
+          "Los barrotes de la reja son muy gruesos. Al otro lado se divisa una escalera.",
+          "Tenazas",
+          "Escalera",
+          "Esta es la única vía de sacar a Marmidosa del Lago.",
+          "Usted sube hasta la Catedral."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted sube hasta la Catedral.",
+        "description": "Sendero dorado",
+        "target_room": 32,
+        "locked_message": "Es muy hermoso.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted sale del Lago.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Marmidosa",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "La inscripción dice:\n\"Has llegado hasta Marmidosa, la rival de Excalibur. Hazla parte de tu mano y ella será parte de tu andar. Tómala, está detrás de la grieta.\"",
+        "description": "Doncella del Lago",
+        "requested_item": "Es tan hermosa que usted casi se ahoga. Usted siente ganas de quedarse en el Lago durante el resto de su vida.",
+        "reward": "Talismán de Nieve",
+        "dialogue": "Las dos partes del manuscrito están guardadas en la Torre de Cristal. Y cuando vayas en busca de la segunda parte, lleva el triángulo contigo.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "31": {
+    "id": 31,
+    "title": "la Cueva de Cristal",
+    "description": "Hay resplandores de cristales por todas partes. En este lugar el agua se ha hecho más densa y le resulta difícil respirar.",
+    "doors": [
+      {
+        "name": "La doncella le mira con cierto aire de complicidad y exclama: ¡La cueva de cristal es tan hermosa! Si pudiera entrar al menos una vez...",
+        "description": "Grieta",
+        "target_room": 30,
+        "strings": [
+          "La doncella le mira con cierto aire de complicidad y exclama: ¡La cueva de cristal es tan hermosa! Si pudiera entrar al menos una vez...",
+          "Grieta",
+          "Es la salida de la Cueva de Cristal.",
+          "Usted sale de la Cueva de Cristal."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale de la Cueva de Cristal.",
+        "description": "Marmidosa",
+        "weight": 5,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "32": {
+    "id": 32,
+    "title": "la orilla del Lago",
+    "description": "Frente a usted se extiende el Lago, de aguas claras y tranquilas.",
+    "doors": [
+      {
+        "name": "Es algo más allá de la comprensión humana. Usted se siente orgulloso de haberla encontrado antes del Hechicero, que lleva siglos buscándola.",
+        "description": "Sendero dorado",
+        "target_room": 30,
+        "locked_message": "Es muy hermoso.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted se sumerge en el lago.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Marmidosa",
+        "description": "Camino",
+        "target_room": 35,
+        "strings": [
+          "Marmidosa",
+          "Camino",
+          "El camino se pierde como una serpiente en la rectitud del horizonte.",
+          "Usted nota como el paisaje va cambiando a medida que avanza. Cada vez se va pareciendo más a un desierto."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "33": {
+    "id": 33,
+    "title": "un Oasis",
+    "description": "Es un oasis tradicional, con varias palmeras de dátiles y un pequeño estanque de agua turbia en el centro.",
+    "doors": [
+      {
+        "name": "Usted nota como el paisaje va cambiando a medida que avanza. Cada vez se va pareciendo más a un desierto.",
+        "description": "Desierto",
+        "target_room": 20,
+        "strings": [
+          "Usted nota como el paisaje va cambiando a medida que avanza. Cada vez se va pareciendo más a un desierto.",
+          "Desierto",
+          "Usted se estremece al recordar la última vez que atravesó el desierto.",
+          "Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.\nPero al final logra regresar a las ruinas."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.\nPero al final logra regresar a las ruinas.",
+        "description": "Ruta de los camellos",
+        "target_room": 34,
+        "strings": [
+          "Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.\nPero al final logra regresar a las ruinas.",
+          "Ruta de los camellos",
+          "Está formada por miles de pisadas de camellos. Seguramente conduce a algún lugar agradable.",
+          "Usted avanza siguiendo las huellas que oscilan de un lado a otro y hasta describen círculos. Todo parece indicar que los camellos estaban ebrios.\nUsted arriba a la Catedral."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted avanza siguiendo las huellas que oscilan de un lado a otro y hasta describen círculos. Todo parece indicar que los camellos estaban ebrios.\nUsted arriba a la Catedral.",
+        "description": "Cubo de agua",
+        "weight": 4,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Es un balde de madera, lleno de agua hasta el tope.",
+        "description": "Pordiosero",
+        "requested_item": "Usted no sabe si es en realidad un pordiosero, o alguien que acaba de atravesar el desierto.",
+        "reward": "Bolsa",
+        "dialogue": "Si el Ogro se baña, se muere.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "34": {
+    "id": 34,
+    "title": "la Catedral",
+    "description": "Es un lugar impresionante. Las paredes crecen hasta una altura increíble y se unen en una serie de simétricas torres. Usted se siente oprimido por la arquitectura, como si en realidad estuviese ante los ojos de Dios, en el día del juicio final.",
+    "doors": [
+      {
+        "name": "El pordiosero guarda silencio y extiende su mano pidiendo una limosna.",
+        "description": "Ruta de los camellos",
+        "target_room": 33,
+        "strings": [
+          "El pordiosero guarda silencio y extiende su mano pidiendo una limosna.",
+          "Ruta de los camellos",
+          "Es la única vía de regresar a las ruinas. ",
+          "Luego de varios días de camino; usted regresa, más muerto que vivo, al Oasis."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Luego de varios días de camino; usted regresa, más muerto que vivo, al Oasis.",
+        "description": "Puerta",
+        "target_room": 35,
+        "locked_message": "Es la salida de la Catedral.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted sale de la Catedral y el viento seco del desierto le golpea la cara.",
+        "description": "Rosario",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Es un rosario bastante común.",
+        "description": "Obispo",
+        "requested_item": "Es un anciano de aspecto venerable.",
+        "reward": "Silla",
+        "dialogue": "Solo con el Talismán de Nieve podrás entrar hasta Marmidosa.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "35": {
+    "id": 35,
+    "title": "el Desierto otra vez",
+    "description": "El calor lo asfixia. Usted no comprende cómo es posible que el clima varíe tanto de un lugar a otro de la Fortaleza.",
+    "doors": [
+      {
+        "name": "Dice:\n\"El Obispo le recomendó cierto objeto para protegerse a la hora de coger a Marmidosa. ¡No intente cruzar el camino en esta dirección con dicho objeto encima!\"",
+        "description": "Camino",
+        "target_room": 32,
+        "locked_message": "El camino se pierde como una serpiente en la rectitud del horizonte. ",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted nota como el paisaje va cambiando a medida que avanza. El desierto va perdiendo terreno y cada vez hay más vegetación.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Talismán de Nieve ",
+        "description": "Puerta",
+        "target_room": 34,
+        "locked_message": "Es la puerta de salida de la Catedral.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a la Catedral",
+        "description": "Muralla",
+        "target_room": 36,
+        "strings": [
+          "Usted entra a la Catedral",
+          "Muralla",
+          "Es algo más pequeña que la muralla anterior.",
+          "Piedra verde",
+          "Avenida de las flores",
+          "Toda la avenida está sembrada de flores carnívoras.",
+          "Usted se ve obligado a echarse a correr para escapar de los constantes mordiscos."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "El Obispo lo mira y fuerza una sonrisa. Está muy cansado para conversar y en toda la Catedral no hay donde sentarse.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "Usted se ve obligado a echarse a correr para escapar de los constantes mordiscos.",
+        "description": "Escudo de Aquiles",
+        "weight": 10,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "36": {
+    "id": 36,
+    "title": "un extenso valle",
+    "description": "Siente deseos de construir una casa y quedarse a vivir en el valle. Por todos lados crece una especie de árbol frutal que, valiéndose de dos manos que salen de su tronco, es capaz de cultivarse ella misma.",
+    "doors": [
+      {
+        "name": "Usted nunca había visto algo tan hermoso.\nEste escudo formaba parte de la nueva armadura que Hefestos le hizo a Aquiles cuando la anterior cayó en manos de los troyanos al morir Patroclo.",
+        "description": "Avenida de las flores",
+        "target_room": 35,
+        "strings": [
+          "Usted nunca había visto algo tan hermoso.\nEste escudo formaba parte de la nueva armadura que Hefestos le hizo a Aquiles cuando la anterior cayó en manos de los troyanos al morir Patroclo.",
+          "Avenida de las flores",
+          "Toda la avenida está sembrada de flores carnívoras.",
+          "Usted regresa corriendo al desierto."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted regresa corriendo al desierto.",
+        "description": "Montañas",
+        "target_room": 37,
+        "strings": [
+          "Usted regresa corriendo al desierto.",
+          "Montañas",
+          "Las montañas rodean todo el sur del Valle. Parece el espinazo de un dragón gigantesco.",
+          "Luego de varios días de camino usted llega al punto más alto de la cordillera."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [
+      {
+        "name": "¡Dame más!",
+        "description": "Bolsa de semillas",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Luego de varios días de camino usted llega al punto más alto de la cordillera.",
+        "description": "Camello",
+        "requested_item": "Está muy viejo y maltratado. Tiene las pezuñas llenas de arena.",
+        "reward": "Botella de vino",
+        "dialogue": "Las dos últimas letras del segundo nombre de la Hija del Hechicero son \"KA\".",
+        "is_hostile": false
+      }
+    ]
+  },
+  "37": {
+    "id": 37,
+    "title": "la cima del Pico Negro",
+    "description": "Nunca antes había estado a tanta altura. Usted se pregunta por qué la montaña es llamada \"El Pico Negro\" si en realidad está cubierta de nieve.",
+    "doors": [
+      {
+        "name": "La bolsa está llena de semillas de los árboles que crecen en el valle.",
+        "description": "Montañas",
+        "target_room": 36,
+        "strings": [
+          "La bolsa está llena de semillas de los árboles que crecen en el valle.",
+          "Montañas",
+          "Desde este lugar, las montañas lucen como grades piedras envueltasen nubes.",
+          "Luego de varios días de camino usted regresa al valle."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Luego de varios días de camino usted regresa al valle.",
+        "description": "Precipicio",
+        "target_room": 39,
+        "locked_message": "Usted se inclina en el borde del precipicio, pero no consigue ver el fondo.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted logra sobreponerse al temblor de sus manos, se aferra al saltador y se lanza al vacío. Al tercer día de caída, el muelle del saltador rebota suavemente en el suelo.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Saltador",
+        "description": "Ladera",
+        "target_room": 41,
+        "strings": [
+          "Saltador",
+          "Ladera",
+          "La ladera desciende suavemente hasta un campo sembrado.",
+          "Usted desciende cuidadosamente hasta las tierras del Labrador."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted desciende cuidadosamente hasta las tierras del Labrador.",
+        "description": "Puerta de Madera",
+        "target_room": 38,
+        "locked_message": "Es la entrada a la choza del Monje.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "38": {
+    "id": 38,
+    "title": "la choza de un monje",
+    "description": "El suelo está muy limpio, al igual que los muebles y las ventanas. Hay una gran cantidad de cuentas regadas por el suelo.",
+    "doors": [
+      {
+        "name": "Usted entra a la choza del Monje.",
+        "description": "Puerta de Madera",
+        "target_room": 37,
+        "locked_message": "Conduce a la cima del Pico Negro.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Usted sale de la choza del Monje.",
+        "description": "Monje",
+        "requested_item": "Parece ser bastante joven.",
+        "reward": "Rosario",
+        "dialogue": "Para descender por el precipicio debes llevar algo que amortigüe el golpe al final.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "39": {
+    "id": 39,
+    "title": "la Ciudad Abandonada",
+    "description": "A pesar de ser más antigua que las ruinas, la ciudad se conserva intacta. Usted oye el ruido de la gente en las calles y siente los olores de los alimentos en las cocinas, pero no son más que ilusiones. La ciudad está abandonada desde hace siglos.",
+    "doors": [
+      {
+        "name": "Dice:\n\"Aquí habitaron los horantes durante mucho tiempo, hasta que La Bestia ocupó el lugar. Ellos levantaron cada pared de la Fortaleza, solo ellos saben como salir.\"",
+        "description": "Túnel",
+        "target_room": 20,
+        "strings": [
+          "Dice:\n\"Aquí habitaron los horantes durante mucho tiempo, hasta que La Bestia ocupó el lugar. Ellos levantaron cada pared de la Fortaleza, solo ellos saben como salir.\"",
+          "Túnel",
+          "Conduce a las ruinas.",
+          "Usted camina hasta regresar a las ruinas."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted camina hasta regresar a las ruinas.",
+        "description": "Escalera",
+        "target_room": 36,
+        "strings": [
+          "Usted camina hasta regresar a las ruinas.",
+          "Escalera",
+          "Usted se pregunta a dónde conducirá.",
+          "Usted sube hasta regresar al Valle."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted sube hasta regresar al Valle.",
+        "description": "Puerta de Hierro",
+        "target_room": 40,
+        "locked_message": "Es la entrada de la casa del sabio.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "El monje no le responde. Está muy ocupado recogiendo las cuentas del suelo.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Usted ha entrado a la casa del sabio.",
+        "description": "Estatua de Cristal",
+        "requested_item": "Usted no logra descubrir qué representa.",
+        "reward": "Corta-Cristales",
+        "dialogue": "Horante",
+        "is_hostile": false
+      }
+    ]
+  },
+  "40": {
+    "id": 40,
+    "title": "la choza del Sabio",
+    "description": "El lugar se ajusta perfectamente a su concepto de desorden. Usted se pregunta cómo el sabio puede vivir en semejante caos. Hay varios esqueletos, al parecer, una colección incipiente.",
+    "doors": [
+      {
+        "name": "El horante trata de articular algo, pero un terrible dolor en su pierna derecha no lo deja.",
+        "description": "Puerta de Hierro",
+        "target_room": 39,
+        "locked_message": "Conduce a la Ciudad Abandonada.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "El sabio está muy distraído haciendo un anillo de papel algo torcido. ",
+        "description": "Cinta de Moebius",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "Es una cinta de papel con una torcedura y ambos extremos pegados.",
+        "description": "Péndulo",
+        "weight": 3,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Usted regresa a la Ciudad Abandonada.",
+        "description": "Sabio",
+        "requested_item": "Es sabio es un hombre pequeño. Lleva unos espejuelos que cubren casi todo su rostro",
+        "reward": "Esqueleto de Murciélago",
+        "dialogue": "De todas las cosas sobre la tierra, la que más me fascina es la cinta de Moebius. Empiezas a recorrerla por adentro y cuando vienes a ver... ¡estás afuera!",
+        "is_hostile": false
+      }
+    ]
+  },
+  "41": {
+    "id": 41,
+    "title": "un campo cultivado",
+    "description": "Todos los sembrados parecen bastante descuidados. Probablemente el labrador no sea capaz de atender una cantidad tan grande de tierra al mismo tiempo.",
+    "doors": [
+      {
+        "name": "El péndulo oscila levemente, colgado de un punto invisible del espacio.",
+        "description": "Ladera",
+        "target_room": 37,
+        "strings": [
+          "El péndulo oscila levemente, colgado de un punto invisible del espacio.",
+          "Ladera",
+          "Es por dónde único se puede subir al Pico Negro de este lado de la cordillera.",
+          "Usted asciende el Pico Negro."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Usted asciende el Pico Negro.",
+        "description": "Río",
+        "target_room": 42,
+        "locked_message": "La corriente es tan fuerte que arrastraría hasta la embarcación más pesada.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted lanza la soga con el garfio hasta la otra orilla y forma una especie de cuerda floja. Luego cruza el río haciendo una impresionante demostración de equilibrio.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Cuerda",
+        "description": "Tenazas",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Parecen ser muy fuertes.",
+        "description": "Labrador",
+        "requested_item": "Es un hobre robusto y muy maltratado por el trabajo en el campo.",
+        "reward": "Bolsa de semillas",
+        "dialogue": "El Labrador lo mira y le dice:\n\"No siempre las cosas son lo que parecen. La realidad tiene muchas caras y nunca sabemos si estamos mirando la verdadera. Mantén tu mente abierta\".",
+        "is_hostile": false
+      }
+    ]
+  },
+  "42": {
+    "id": 42,
+    "title": "el exterior de la Torre de Cristal",
+    "description": "La Torre de Cristal crece vertiginosamente hasta perderse entre las nubes.",
+    "doors": [
+      {
+        "name": "¡Qué cansancio! Creo que es demasiada tierra para una sola persona.",
+        "description": "Río",
+        "target_room": 41,
+        "locked_message": "La corriente es tan fuerte que arrastraría hasta la embarcación más pesada.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted lanza la soga con el garfio hasta la otra orilla y forma una especie de cuerda floja. Luego cruza el río haciendo una impresionante demostración de equilibrio.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "NADA",
+        "description": "Puerta de Hierro",
+        "target_room": 46,
+        "locked_message": "Es la entrada a los calabozos.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted entra a los calabozos.",
+        "description": "Escalera de Caracol",
+        "target_room": 43,
+        "strings": [
+          "Usted entra a los calabozos.",
+          "Escalera de Caracol",
+          "Sube hasta el tope de la la Torre de Cristal.",
+          "Usted asciende durante varias horas."
+        ],
+        "type": "keyed"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "43": {
+    "id": 43,
+    "title": "la punta de la Torre de Cristal",
+    "description": "Probablemente se encuentre a varios kilómetros de altura. Usted se alegra de que no hayan ventanas en el lugar.",
+    "doors": [
+      {
+        "name": "Usted asciende durante varias horas.",
+        "description": "Escalera de Caracol",
+        "target_room": 42,
+        "strings": [
+          "Usted asciende durante varias horas.",
+          "Escalera de Caracol",
+          "Conduce a la parte inferior de la Torre de Cristal.",
+          "Usted regresa a la orilla del río."
+        ],
+        "type": "keyed"
+      },
+      {
+        "name": "Tiene las siguientes palabras grabadas:\n\n \"A acsd o oatssn\n  Oadaat lfnodllg\n  Oed aot nl rlaousa\n  Nocae lcat ehépds\n  Lail lgd ut léao\n  Suod qie nl iddd o oats\n  Seod ahj e ehcr ns uro\n  Edl ne aó efmr\"",
+        "description": "Puerta de Cristal",
+        "target_room": 44,
+        "is_riddle": true,
+        "riddle_question": "Es de un cristal muy grueso y opaco.",
+        "riddle_answer": "¿Cuál es el nombre completo de la hija del Hechicero?",
+        "message_enter": "Aura Srka",
+        "is_open": false,
+        "type": "riddle"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted regresa a la orilla del río.",
+        "description": "Esfera",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "44": {
+    "id": 44,
+    "title": "la alcoba de la hija del Hechicero",
+    "description": "Esta es la alcoba donde la hija del Hechicero se alojaba temporalmente. Es muy cómoda y tiene muchos cuadros iguales al que usted lleva.",
+    "doors": [
+      {
+        "name": "Usted entra a la alcoba.",
+        "description": "Puerta de Cristal",
+        "target_room": 43,
+        "locked_message": "Es la salida de la alcoba.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted sale de la alcoba.",
+        "description": "Carta",
+        "target_room": 45,
+        "locked_message": "La carta dice:\n\"Mi querido salvador:\n¿Por qué has demorado tanto? Hace mucho que mi padre me llevó al Abismo Infranqueable. Ahora no podré marcharme contigo. La único que puedes hacer para salir es matarlo con Marmidosa. Por favor, trata de que no sufra.\"",
+        "message_enter": "",
+        "required_item_to_cross": "Puerta Secreta",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Lienzo",
+        "description": "Espejo",
+        "weight": 1,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "45": {
+    "id": 45,
+    "title": "la Alcoba Secreta",
+    "description": "Es mucho mayor que la otra alcoba. Es casi seguro que la hija del Hechicero viva en este lugar permanentemente.",
+    "doors": [
+      {
+        "name": "Está roto.",
+        "description": "Puerta Secreta",
+        "target_room": 44,
+        "locked_message": "Conduce a la alcoba.",
+        "message_enter": "\u0000\u0000\u0000",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Usted regresa a la alcoba.",
+        "description": "Hija del Hechicero",
+        "dying_confession": "Usted está a punto de desmayarse. La hija del Hechicero no es exactamente como usted esperaba. En realidad se parece más a una serpiente de quince metros y tres cabezas, con la piel llena de gruesas escamas.",
+        "lethal_weapon": "Usted clava fuertemente la aguja entre las escamas. Las cabezas le miran llenas de ira y hay una que exclama: \"¡Mata a todos los que te mintieron si quieres salir!\"",
+        "is_hostile": true
+      }
+    ]
+  },
+  "46": {
+    "id": 46,
+    "title": "los Calabozos",
+    "description": "Los calabozos están formados por varios pasillos paralelos, llenos de celdas a ambos lados.",
+    "doors": [
+      {
+        "name": "Aguja",
+        "description": "Puerta de Hierro",
+        "target_room": 42,
+        "locked_message": "Es la salida de los calabozos. Conduce a la orilla del río.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted regresa al río.",
+        "description": "Reja",
+        "target_room": 47,
+        "locked_message": "Conduce a la celda. Los barrotes son tan gruesos que la reja es prácticamente una puerta maciza.",
+        "message_enter": "Grifo",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Usted estornuda. Ha entrado a la celda.",
+        "description": "Puerta Gris",
+        "target_room": 48,
+        "locked_message": "Conduce a la sala de La Prueba.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Usted entra a la sala de La Prueba.",
+        "description": "Carcelero",
+        "dying_confession": "Parece un hombre rudo y cumplidor de sus deberes.",
+        "lethal_weapon": "ARRRGG!!! ¡Te será muy difícil abrir la celda, porque la palabra mágica es el nombre de la primera criatura que viste al salir del cuarto de huéspedes! \nUsted sonríe porque sabe que el problema es fácil.",
+        "is_hostile": true
+      }
+    ]
+  },
+  "47": {
+    "id": 47,
+    "title": "una celda",
+    "description": "Debe ser un verdadero suplicio el estar encerrado aquí. Todo el suelo está cubierto de afiladas hojas, excepto en una esquina, donde se supone que esté el prisionero.",
+    "doors": [
+      {
+        "name": "Marmidosa",
+        "description": "Reja",
+        "target_room": 46,
+        "locked_message": "Es la salida de la celda.",
+        "message_enter": "Grifo",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "Usted sale de la celda.",
+        "description": "Encapuchado",
+        "requested_item": "Es una criatura realmente asombrosa. Toda su anatomía parece regida por el número siete. Siete brazos, siete pies, siete dedos en cada una de las siete manos.",
+        "reward": "Receta",
+        "dialogue": "El nombre de la hija del Hechicero tiene ocho letras, una está repetida tres veces y otra dos.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "48": {
+    "id": 48,
+    "title": "la Antesala de la Prueba",
+    "description": "Es un salón circular. La luz del sol entra por unos vitrales rojos y el lugar luce como pintado con sangre.",
+    "doors": [
+      {
+        "name": "Pareces haber estado viajando. Seguramente has visto algo que me pertenece por ahí... ¿podrías traérmelo?",
+        "description": "Puerta Gris",
+        "target_room": 46,
+        "locked_message": "Conduce a los calabozos.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      },
+      {
+        "name": "Con este arco mataron a Hycrk, uno de los doce inmortales.",
+        "description": "Túnel",
+        "target_room": 13,
+        "locked_message": "Parece ser muy largo. Usted no se atrevería a cruzarlo sin el arco.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Casi a mitad de camino usted es atacado por una bandada de murciélagos gigantes. Gracias al arco, usted logra ahuyentarlos.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Arco",
+        "description": "Puerta Verde",
+        "target_room": 49,
+        "locked_message": "Es la primera puerta de la prueba. ",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted cierra los ojos y cruza la puerta. Dejar el anillo de oro fue una idea excelente.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [
+      {
+        "name": "Usted entra a los calabozos.",
+        "description": "Inscripción",
+        "weight": 1,
+        "can_pick_up": true
+      },
+      {
+        "name": "Dice:\n\"En este punto comienza la prueba de los anillos. Continúa con el que hayas elegido y deja los demás.\"",
+        "description": "Arco",
+        "weight": 5,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": []
+  },
+  "49": {
+    "id": 49,
+    "title": "el Salón Verde",
+    "description": "Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos.",
+    "doors": [
+      {
+        "name": "Anillo de oro",
+        "description": "Puerta Verde",
+        "target_room": 48,
+        "locked_message": "Conduce al primer salón.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted atraviesa la puerta sin dificultades.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Anillo de oro",
+        "description": "Puerta Azul",
+        "target_room": 50,
+        "locked_message": "Es la segunda puerta de la prueba.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted piensa durante unos segundos antes de avanzar. Hizo bien en dejar el anillo de plata.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "50": {
+    "id": 50,
+    "title": "el Salón Azul",
+    "description": "Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos.",
+    "doors": [
+      {
+        "name": "Anillo de plata",
+        "description": "Puerta Azul",
+        "target_room": 49,
+        "locked_message": "Conduce al salón verde.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted atraviesa la puerta sin dificultades.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Anillo de plata",
+        "description": "Puerta Blanca",
+        "target_room": 51,
+        "locked_message": "Es la tercera puerta de la prueba.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted levanta los ojos buscando valor y da los primeros pasos. Usted se alegra de no haber traído el anillo de bronce.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "51": {
+    "id": 51,
+    "title": "el Salón Blanco",
+    "description": "Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos. Es el último de la prueba.",
+    "doors": [
+      {
+        "name": "Anillo de bronce",
+        "description": "Puerta Blanca",
+        "target_room": 50,
+        "locked_message": "Conduce al salón azul.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted atraviesa la puerta sin dificultades.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Anillo de bronce",
+        "description": "Puerta triangular",
+        "target_room": 52,
+        "locked_message": "Es la última puerta de la prueba.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Esta vez usted no se detiene a pensarlo y avanza decididamente. Todo parece indicar que eligió el anillo correcto: la cinta de Moebius.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "52": {
+    "id": 52,
+    "title": "los límites de la Fortaleza",
+    "description": "A su derecha crece la tercera muralla, hasta una altura irracional. Usted no puede creer que aquí termine la Fortaleza. Del otro lado de la muralla se escucha (usted no entiende cómo) el canto de los pájaros y el sonido del viento en los árboles.",
+    "doors": [
+      {
+        "name": "Cinta de Moebius",
+        "description": "Puerta triangular",
+        "target_room": 51,
+        "locked_message": "Conduce al salón blanco.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted atraviesa la puerta sin dificultades y regresa al salón blanco.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Cinta de Moebius",
+        "description": "Puente",
+        "target_room": 53,
+        "locked_message": "Está hecho de madera y soga. Bajo él se abre, infinito, el Abismo Infranqueable. Del otro lado se divisa una pirámide.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted logra cruzar el puente gracias a la protección del grabado.",
+        "is_open": true,
+        "type": "protected"
+      }
+    ],
+    "items": [],
+    "creatures": [
+      {
+        "name": "NADA",
+        "description": "Guardián",
+        "requested_item": "Está muy viejo para vigilar algo. Probablemente alguien lo haya olvidado en este lugar. Está muy quemado por el sol.",
+        "reward": "Sombrero",
+        "dialogue": "El anciano le cuenta una historia incoherente sobre un héroe que derrota a una serpiente gigante armado de una aguja.",
+        "is_hostile": false
+      }
+    ]
+  },
+  "53": {
+    "id": 53,
+    "title": "la Pirámide del Hechicero",
+    "description": "Es una construcción gigantesca, a base de piedras. Al parecer, las piedras fueron colocadas sin orden alguno, olvidando las ventanas. El lugar está iluminado con numerosas antorchas.",
+    "doors": [
+      {
+        "name": "¡Qué calor!",
+        "description": "Puente",
+        "target_room": 52,
+        "locked_message": "De este lado se puede apreciar mejor lo frágil que es el puente y lo infinito que es el Abismo.",
+        "message_enter": "\u0000\u0000\u0000",
+        "required_item_to_cross": "Usted logra cruzar el puente gracias a la protección del grabado.",
+        "is_open": true,
+        "type": "protected"
+      },
+      {
+        "name": "Grabado",
+        "description": "Columna de Hielo",
+        "target_room": 54,
+        "is_riddle": true,
+        "riddle_question": "Es una ancha estructura de hielo pegada a la pared.",
+        "riddle_answer": "Antorcha",
+        "message_enter": "Puerta de Roble",
+        "is_open": false,
+        "type": "riddle"
+      }
+    ],
+    "items": [],
+    "creatures": []
+  },
+  "54": {
+    "id": 54,
+    "title": "las Habitaciones del Hechicero",
+    "description": "Las habitaciones del Hechicero están dentro de una pirámide interior. Todo es igual a la gran pirámide, pero en una escala menor. Hay miles de espadas colgadas de la pared.",
+    "doors": [
+      {
+        "name": "Usted entra a las habitaciones del Hechicero.",
+        "description": "Puerta de Roble",
+        "target_room": 53,
+        "locked_message": "Es de un roble tan sólido que mellaría cualquier acero.",
+        "message_enter": "",
+        "is_open": false,
+        "type": "normal"
+      }
+    ],
+    "items": [
+      {
+        "name": "No desea hablar con usted.",
+        "description": "┐\u0012 \u000eW┐+3\u000eW┐l \u000eW┐`3\u000eW┐\u00110\u000e",
+        "weight": 2,
+        "can_pick_up": true
+      }
+    ],
+    "creatures": [
+      {
+        "name": "Usted sale de las habitaciones del Hechicero.",
+        "description": "Hechicero",
+        "requested_item": "Es un hombre inmenso, de barba blanca. Viste una túnica negra y sostiene una vara con una caravela en su mano.",
+        "reward": "Marmidosa",
+        "dialogue": "El Hechicero le sonríe y le dice: \n\"No soy tu enemigo. Es mi hija quien ha elaborado este diabólico plan para eliminarnos. Rompe la carta que te dejó en la Torre de Cristal y ocurrirá un milagro.\"",
+        "is_hostile": false
+      }
+    ]
+  }
+}

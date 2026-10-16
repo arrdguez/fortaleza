@@ -1,0 +1,956 @@
+000000	77	Usted solo alcanza a herir al Hechicero, que ha desaparecido misteriosamente.
+00004E	71	Se escucha una voz que dice: "¡Estúpido! Vas por el camino equivocado."
+0000CC	69	En el lugar que ocupaba la Hija del Hechicero ha aparecido un objeto.
+000112	5	Cáliz
+000118	207	Tiene grabadas las siguientes palabras: "Lsmra elshrne o:  Rs imnee od e ao  Bt ecrnee aoil pet  Atrh ne urod usee  E nloeeiojnoa bn  Ecd eaulse acua elshrne  Epj el iadlhcieoe ucat  Pnuoe lslnd ua"
+000244	9	Hechicero
+00024E	18	Hija del Hechicero
+000261	7	Pañuelo
+00026A	13	Rosa diamante
+000278	4	Bote
+00027D	8	Antorcha
+000286	16	Cinta de Moebius
+000297	17	Escudo de Aquiles
+0002A9	6	Espejo
+0002B0	7	Péndulo
+0002B8	8	Monstruo
+0004C4	6	Puerta
+0004CB	121	En realidad, lo que usted puede distinguir es el delicado filón de luz que deja escapar la unión de la puerta y el marco.
+000546	41	Usted cierra los ojos, cegado por la luz.
+000570	51	Es de madera trabajada, una verdadera obra de arte.
+0005A4	38	Usted entra a la oscuridad nuevamente.
+0005CB	17	Puerta de espinos
+0005DD	62	Está erizada de espinas. Usted tiene miedo hasta de acercarse.
+00061C	55	Usted entra lentamente, tratando de no rozar la puerta.
+000654	15	Puerta de metal
+000664	80	Es de acero bruñido. Tiene encima un cartel que dice "Cocina. Cúbrase la nariz."
+0006B5	119	Al pasar siente un olor muy fuerte, que lo envuelve y lo asfixia. Usted sobrevive gracias al pañuelo que lleva consigo.
+00072D	7	Pañuelo
+000735	12	Puerta Negra
+000742	73	Usted ve unas delgadas cortinas de humo saliendo por debajo de la puerta.
+00078C	53	Usted tose fuertemente, ha entrado al Salón de Fumar.
+0007C2	11	Puerta Azul
+0007CE	41	Es más pequeña que las puertas restantes.
+0007F8	44	¿Cuál es el nombre de la hija del Hechicero?
+000825	4	Aura
+00082A	49	Usted entra a la alcoba de la hija del Hechicero.
+00085C	13	Puerta de oro
+00086A	61	Usted nunca había visto tanto oro fundido en una misma pieza.
+0008A8	78	El resplandor del oro lo ciega por un momento. Usted ha salido a las terrazas.
+0008F7	5	Grifo
+0008FD	68	Usted no logra distinguir si es un león o un águila. Parece dormido.
+000942	73	El grifo se contorsiona tratando de arrancarse la daga y grita: "¡Aura!".
+00098C	4	Daga
+000991	54	La puerta por este lado está muy manchada por el humo.
+0009C8	64	Usted sale del Salón de Fumar. A fin puede respirar normalmente.
+000A09	7	Balanza
+000A11	113	La balanza tiene el plato en forma de mano. La aguja es muy delgada, hecha con varios bigotes de gato trenzados. 
+000A83	11	Inscripción
+000A8F	254	La inscripción dice:La muerte es un acto de la vida. Yo, la Bestia, he de morir como he vivido. Esta es mi venganza, y tú mismo serás el instrumento que la lleve a cabo. La naturaleza humana es el arma más poderosa que puede utilizarse contra el hombre.
+000B8E	19	Conduce al pasillo.
+000BA2	22	Usted sale al pasillo.
+000BB9	29	Tiene bordadas una A y una S.
+000BD7	5	Carta
+000BDD	204	La carta dice:"¡Dios te salve, mi única esperanza! Mi padre me ha encerrado en la Torre de Cristal, que está más allá del segundo río. El sabe que solo yo podría mostrarte el camino de salida. Búscame."
+000CAA	7	Agujero
+000CB2	30	Parece una guarida de ratones.
+000CD1	81	Usted se agacha y (con grandes dolores en todos los huesos) atraviesa el agujero.
+000D23	35	Es la salida de la casa de muñecas.
+000D47	26	Usted regresa a la alcoba.
+000D62	7	Ventana
+000D6A	141	Es de un cristal muy grueso. Usted trata de ver al otro lado, pero la ventana es tan opaca que solo puede divisar algunas sombras moviéndose.
+000DF8	15	Corta-cristales
+000E08	8	Pasadizo
+000E11	19	¿A dónde conducirá?
+000E25	123	Usted oye una voz que le dice: "Usa tu equilibrio para vencer la corriente". Al cabo de varios minutos encuentra la salida.
+000EA1	15	Puerta del baúl
+000EB1	70	Parece muy antigua. Usted está seguro de que ahí hay "gato encerrado".
+000EF8	4	MIAU
+000EFD	32	¡Usted ha caído dentro del baúl!
+000F1E	52	Al igual que del otro lado, está erizada de espinas.
+000F53	54	Usted sale lentamente, tratando de no rozar la puerta.
+000F8A	36	La empuñadura tiene forma de dragón.
+000FAF	15	Botella de vino
+000FBF	33	Parece una botella de agua sucia.
+000FE1	5	Hacha
+000FE7	16	Está muy mohosa.
+000FF8	46	Al salir puede apartar el pañuelo de la nariz.
+001027	6	Receta
+00102E	242	Es una receta de cocina. Dice:  5 Ojos de rana  1 Mano de gigante  2 Cucharadas de puré de lombrices  1 Hígado de muchacha virgen  9 Libras de azúcar  1 Tanque de agua del pantano verdeUsted recuerda haber probado esto en alguna parte.
+001121	16	Muslo de carnero
+001132	40	Más bien parece el muslo de una persona.
+00115B	7	Pescado
+001163	34	¿Qué tiempo llevará en este lugar?
+001186	72	Usted regresa al pasillo. El resplandor del oro lo ciega por un momento.
+0011CF	19	Escalera de caracol
+0011E3	35	Parece la bajada a un oído gigante.
+001207	87	El viento helado que viene del fondo de la escalera lo envuelve en continuos temblores.
+00125F	14	Reloj de arena
+00126E	33	Usted escucha un callado tic-tac.
+001290	5	Silla
+001296	120	Es una silla para tomar el sol. Usted tiene la certeza de que había alguien sentado en ella cuando entró a las terrazas.
+00130F	22	Conduce a las terrazas
+001326	179	Su condicionamiento euclidiano le impide comprender cómo es posible que una misma escalera sea origen y destino de tres lugares distintos a la vez.Usted ha subido a las terrazas.
+0013DA	47	La inscripción dice:"No alimente al monstruo."
+00140A	8	Monstruo
+001413	135	El Monstruo está encadenado a la pared. Usted aparta la vista rápidamente. Nunca había visto tanta fealdad concentrada en una criatura.
+00149B	238	¡Tú cuidarte de Hechicero! ¡Hechicero ser malo! ¡Malo! ¡Muy malo!Hechicero puso yo feo. A tú no poner feo... ¡A tú arrancal tripa, sacal ojo, rompel hueso y echal dragrón hambroso!Yo consejo tú: Busca espada Marmidosa... ¡y pincha todo!
+00158A	16	¡Grrrr! ¡Hambre!
+00159B	17	Está en el techo.
+0015AD	73	Usted sale del baúl y vuelve a sentir la estrechez de la casa de muñecas.
+0015F7	63	La inscripción dice:"No todos los dragones merecen la muerte."
+001637	12	Piedra verde
+001644	25	Es increíblemente sólida.
+00165E	4	Gato
+001663	84	Está concentrado en sacarle las últimas partículas de carne a una cabeza de pescado.
+0016B8	58	La piedra verde te servirá para romper la segunda muralla.
+0016F3	13	¡No molestes!
+001701	104	Contrariamente a lo que usted espera, la escalera en este lugar asciende hasta el calabozo del Monstruo.
+00176A	65	Usted sube durante unos minutos y llega al calabozo del Monstruo.
+0017AC	7	Caronte
+0017B4	163	Una capucha negra esconde su rostro. Por una de las mangas de su vestimenta asoma una mano descarnada casi hasta el hueso. Usted se alegra de no poder ver su cara.
+001858	46	Dentro del blanco está la llave de la muralla.
+001887	61	Tráeme el reloj de arena, pero víralo antes de entregármelo. 
+0018C5	4	Bote
+0018CA	30	Es el célebre bote de Caronte.
+0018E9	9	Río Negro
+0018F3	14	Es el Estigia.
+001902	166	Usted se sumerge en las oscuras aguas del Estigia (tiene miedo de montar el bote de Caronte). Pocos mortales se han atrevido a tanto. Al poco rato está del otro lado.
+0019A9	39	Usted regresa nadando a la otra orilla.
+0019D1	15	Arbol de marfil
+0019E1	24	Es infinitamente blanco.
+0019FA	4	Maza
+0019FF	14	Es muy pesada.
+001A0E	7	Muralla
+001A16	74	Al lado de esta, la Gran Muralla China es el juego de un niño en la arena.
+001A61	17	Avenida de hierro
+001A73	150	Toda la avenida está rodeada de árboles de metal. Usted se cubre los oídos tratando de escapar de los chirridos provocados por el viento en las hojas.
+001B0A	62	Usted camina durante varios minutos hasta salir de la avenida.
+001B49	58	Usted camina durante varios minutos hasta regresar al río.
+001B84	16	Puerta de madera
+001B95	50	Es una puerta bastante vulgar. Conduce al comedor.
+001BC8	23	Usted entra al comedor.
+001BE0	15	Puerta amarilla
+001BF0	29	Conduce al cuarto del tesoro.
+001C0E	14	Omicuos Ihanti
+001C1D	105	Usted entra al cuarto del tesoro. Los resplandores de las piedras preciosas lo ciegan por unos instantes.
+001C87	14	Puerta de tela
+001C96	54	La tela de la puerta es tan dura como cualquier acero.
+001CCD	42	Usted entra a las habitaciones del sastre.
+001CF8	12	Puerta verde
+001D05	41	Conduce a las habitaciones del jardinero.
+001D2F	45	Usted entra a las habitaciones del jardinero.
+001D5D	11	Puerta roja
+001D69	55	Conduce al salón de las velas. La puerta está caliente.
+001DA1	34	Usted entra al salón de las velas.
+001DC4	6	Piedra
+001DCB	91	Es una piedra común. Usted se pregunta qué hace en la Fortaleza, donde todo es tan exótico.
+001E27	9	Jardinero
+001E31	34	Es un anciano pequeño y encorvado.
+001E54	206	En tu camino encontrarás varios anillos. Debes guardar el que tú consideres más apropiado, el que se ajuste más a tu espíritu y a tu empresa. Los otros anillos solo te traerán peligros y muerte. Elige bien.
+001F23	86	El jardinero no le presta atención. Está muy ocupado cortando un abeto con una navaja.
+001F7A	16	Puerta de Madera
+001F8B	110	Usted distingue algunas manchas de salsa en la puerta. Parece los comensales acostumbran a lanzarse la comida.
+001FFA	23	Usted sale del comedor.
+002012	5	Túnel
+002018	83	Usted se pregunta qué hace un túnel en un comedor. ¡No intente cruzar desprotegido!
+002070	123	Casi a mitad de camino usted es atacado por una bandada de murciélagos gigantes. Gracias al arco, usted logra ahuyentarlos.
+0020EC	4	Arco
+0020F1	5	Huevo
+0020F7	66	Por el tamaño debe ser el huevo de un dinosaurio. Y de uno grande.
+00213A	10	Dinosaurio
+002145	68	Debía sentirse muy apretado en el huevo. Es un pequeño tiranosaurio.
+00218A	8	Sonajero
+002193	88	Maúllale al gato.Usted se sonríe. Es una respuesta típica en un cachorro de dinosaurio.
+0021EC	64	¡Guaaaaaa! ¡Guaaaaaa!Usted se pregunta con qué podría calmarlo.
+00222D	14	Puerta de Tela
+00223C	24	Usted regresa al jardín.
+002255	16	Muñeco diabólico
+002266	99	Es un artefacto de brujería. Representa a un hombre joven y tiene un alfiler clavado en una pierna.
+0022CA	5	Aguja
+0022D0	91	Es una aguja de plata, tan larga que usted se pregunta cómo el sastre puede coser con ella.
+00232C	18	Conduce al jardín.
+00233F	45	Usted sale de las habitaciones del jardinero.
+00236D	30	Tiene un diamante en la punta.
+00238C	8	Sombrero
+002395	45	Es muy grande. Al jardinero no debe servirle.
+0023C3	29	Usted regresa a los jardines.
+0023E1	13	Rosa diamante
+0023EF	25	Es increíblemete hermosa.
+002409	13	Anillo de oro
+002417	62	El anillo es sencillo. Solo un aro, sin ningún tipo de adorno.
+002456	4	Arpa
+00245B	31	Es un arpa de diciocho cuerdas.
+00247B	5	Bolsa
+002481	18	Está llena de oro.
+002494	23	Conduce a los jardines.
+0024AC	13	Puerta blanca
+0024BA	30	Conduce al cuarto de juguetes.
+0024D9	34	Usted entra al cuarto de juguetes.
+0024FC	8	Escalera
+002505	34	Baja hasta el cuarto del Inmortal.
+002528	61	Usted desciende las escaleras y entra al cuarto del Inmortal.
+002566	6	Dragon
+00256D	122	A usted se le erizan los pelos de la nuca de tan solo mirarlo. Es una criatura extremadamente hermosa y terrible a la vez.
+0025E8	79	Las palabras mágicas para entrar en el cuarto del tesoro son: "Omicuos Ihanti".
+002638	26	No desea hablar con usted.
+002653	34	Lleva hasta el salón de las velas.
+002676	68	Usted sube lentamente hasta ver el resplandor de las velas otra vez.
+0026BB	33	¿Quién quiere vivir para siempre?
+0026DD	8	Inmortal
+0026E6	93	No parece tener ninguna edad en específico. Hay mucho cansancio en la expresión de su rostro.
+002744	173	El Inmortal lo mira agradecido y le dice antes de morir:"No confundas la tercera muralla con la tercera barrera que tienes que romper. La tercera barrera está en tí mismo."
+0027F2	30	Conduce al salón de las velas.
+002811	34	Usted sale del cuarto de juguetes.
+002834	16	Puerta de piedra
+002845	78	Es muy antigua. Probablemente sea más vieja que el propio cuarto de juguetes. 
+002894	55	Usted sale del cuarto de juguetes y entra a las ruinas.
+0028CC	8	Saltador
+0028D5	60	Es un tronco de abeto con un resorte en el extremo inferior.
+002912	33	Es un jugete para recién nacidos.
+002934	17	Talismán de Nieve
+002946	57	Hay una pequeña tormenta de nieve encerrada en el cristal
+002980	124	Está muy a tono con el lugar. Las ruinas están más cerca de ser el juego del viento en las piedras que cualquier otra cosa. 
+0029FD	57	Usted sale de las ruinas y regresa al cuarto de juguetes.
+002A37	16	Puerta de hierro
+002A48	33	Es la entrada a la casa del Ogro.
+002A6A	31	Usted entra a la casa del Ogro.
+002A8A	46	Desde el final asciende un aire frío y húmedo.
+002AB9	99	Los peldaños están llenos de musgo. Usted desciende cuidadosamente hasta llegar a los subterráneos.
+002B1D	8	Desierto
+002B26	30	Promete ser largo y abrasador.
+002B45	250	Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.Y cuando cree que nunca llegará descubre que está en un Oasis.
+002C40	68	Usted no comprende cómo puede estar tan sucia. Conduce a las ruinas.
+002C85	27	Usted regresa a las ruinas.
+002CA1	11	Puerta gris
+002CAD	17	Conduce al patio.
+002CBF	20	Usted sale al patio.
+002CD4	16	Anillo de bronce
+002CE5	36	Es más pesado que los demás anillos.
+002D0A	11	Puerta azul
+002D16	6	Lienzo
+002D1D	97	Es un cuadro muy extraño. Tiene dibujadas tres líneas que se cortan entre sí en puntos distintos.
+002D7F	7	Grabado
+002D87	118	En el grabado aparece usted cruzando un puente con el propio grabado en la mano. Una estructura en abismo interesante.
+002DFE	32	Conduce al Salón de Recepciones.
+002E1F	35	Usted sale al Salón de Recepciones.
+002E43	29	Conduce al cuarto del pintor.
+002E61	70	Usted entra al cuarto del pintor. El olor del óleo golpea sus narices.
+002EA8	29	Conduce al cuarto del juglar.
+002EC6	33	Usted entra al cuarto del juglar.
+002EE8	12	Puerta negra
+002EF5	29	Conduce a la alcoba del Ogro.
+002F13	31	Usted entra la alcoba del Ogro.
+002F33	25	Conduce a las Catacumbas.
+002F4D	195	Casi al llegar al final, los peldaños se abrieron dejando abierto un precipicio lleno de lava. Por suerte, el escudo de Aquiles quedó trabado en un saliente y usted pudo regresar a la superficie.
+003011	17	Escudo de Aquiles
+003023	6	Cuerda
+00302A	111	Esta cuerda era usada por el juglar en los actos de equilibrismo. Tiene un gancho atado en uno de sus extremos.
+00309A	6	Juglar
+0030A1	100	Usted lo observa detenidamente. Su cara es tan larga y tan triste que se asemeja a la de un caballo.
+003106	61	Lleva algo de la fragua de Vulcano al bajar a las Catacumbas.
+003144	18	¡Qué aburrimiento!
+003157	7	¡BUUUU!
+00315F	4	Ogro
+003164	67	Es una repugnante mezcla de hombre, cerdo y buitre. Parece dormido.
+0031A8	251	El Ogro despierta sobresaltado. El agua lo quema como si fuese ácido. Antes de volverse un charco de pasta pestilente le grita, víctima de un rencor casi infantil:"¡No saldrás del lago con Marmidosa tan fácilmente!"El cubo de agua vuelve a llenarse.
+0032A4	12	Cubo de agua
+0032B1	26	Asciende hasta las ruinas.
+0032CC	94	Los peldaños están llenos de musgo. Usted asciende cuidadosamente hasta regresar a las ruinas.
+00332B	52	Conduce a las catacumbas. Usted huele alguna trampa.
+003360	140	Al dar el tercer paso, usted activó un mecanismo que lanzó un dardo envenenado hacia su pecho. Usted sobrevive gracias al escudo de Aquiles.
+0033ED	8	Antorcha
+0033F6	39	Es muy brillante y despide mucho calor.
+00341E	80	Conduce a los subterráneos. Usted recuerda que debe llevar el Escudo de Aquiles.
+00346F	54	Conduce a una de las habitaciones de la casa del Ogro.
+0034A6	45	Parece más seguro que la escalera y el túnel.
+0034D4	57	Usted cruza esperando algo terrible, pero no sucede nada.
+00350E	23	Esqueleto de Murciélago
+003526	76	Usted se alegra de que sea solo el esqueleto. Mide tres metros de ala a ala.
+003573	57	Usted regresa a las Catacumbas sin mayores contratiempos.
+0035AD	15	Anillo de plata
+0035BD	17	Es muy brillante.
+0035CF	8	Catarata
+0035D8	47	Usted siente mareos de tan solo pensar en ella.
+003608	124	Usted hace un acopio de valor, cierra los ojos y se lanza al abismo. Al cabo de varias horas, usted cae en un profundo lago.
+003685	6	Grieta
+00368C	69	Usted logra ver algunos destellos de una luz muy fuerte al otro lado.
+0036D2	62	Usted cruza sin problemas, protegido con el Talismán de Nieve.
+003711	4	Reja
+003716	77	Los barrotes de la reja son muy gruesos. Al otro lado se divisa una escalera.
+003764	7	Tenazas
+00376C	51	Esta es la única vía de sacar a Marmidosa del Lago.
+0037A0	29	Usted sube hasta la Catedral.
+0037BE	14	Sendero dorado
+0037CD	15	Es muy hermoso.
+0037DD	20	Usted sale del Lago.
+0037F2	9	Marmidosa
+0037FC	162	La inscripción dice:"Has llegado hasta Marmidosa, la rival de Excalibur. Hazla parte de tu mano y ella será parte de tu andar. Tómala, está detrás de la grieta."
+00389F	17	Doncella del Lago
+0038B1	110	Es tan hermosa que usted casi se ahoga. Usted siente ganas de quedarse en el Lago durante el resto de su vida.
+003920	142	Las dos partes del manuscrito están guardadas en la Torre de Cristal. Y cuando vayas en busca de la segunda parte, lleva el triángulo contigo.
+0039AF	136	La doncella le mira con cierto aire de complicidad y exclama: ¡La cueva de cristal es tan hermosa! Si pudiera entrar al menos una vez...
+003A38	36	Es la salida de la Cueva de Cristal.
+003A5D	34	Usted sale de la Cueva de Cristal.
+003A80	140	Es algo más allá de la comprensión humana. Usted se siente orgulloso de haberla encontrado antes del Hechicero, que lleva siglos buscándola.
+003B0D	28	Usted se sumerge en el lago.
+003B2A	6	Camino
+003B31	68	El camino se pierde como una serpiente en la rectitud del horizonte.
+003B76	105	Usted nota como el paisaje va cambiando a medida que avanza. Cada vez se va pareciendo más a un desierto.
+003BE0	70	Usted se estremece al recordar la última vez que atravesó el desierto.
+003C27	230	Usted camina duarante muchos días. El sol y el roce de la arena llagan todo su cuerpo. Por las noches, el viento helado del desierto no lo deja dormir. La sed invade su cuerpo y su mente.Pero al final logra regresar a las ruinas.
+003D0E	20	Ruta de los camellos
+003D23	91	Está formada por miles de pisadas de camellos. Seguramente conduce a algún lugar agradable.
+003D7F	173	Usted avanza siguiendo las huellas que oscilan de un lado a otro y hasta describen círculos. Todo parece indicar que los camellos estaban ebrios.Usted arriba a la Catedral.
+003E2D	51	Es un balde de madera, lleno de agua hasta el tope.
+003E61	10	Pordiosero
+003E6C	92	Usted no sabe si es en realidad un pordiosero, o alguien que acaba de atravesar el desierto.
+003EC9	29	Si el Ogro se baña, se muere.
+003EE7	70	El pordiosero guarda silencio y extiende su mano pidiendo una limosna.
+003F2E	42	Es la única vía de regresar a las ruinas. 
+003F59	77	Luego de varios días de camino; usted regresa, más muerto que vivo, al Oasis.
+003FA7	28	Es la salida de la Catedral.
+003FC4	74	Usted sale de la Catedral y el viento seco del desierto le golpea la cara.
+00400F	7	Rosario
+004017	29	Es un rosario bastante común.
+004035	6	Obispo
+00403C	35	Es un anciano de aspecto venerable.
+004060	60	Solo con el Talismán de Nieve podrás entrar hasta Marmidosa.
+00409D	116	El Obispo lo mira y fuerza una sonrisa. Está muy cansado para conversar y en toda la Catedral no hay donde sentarse.
+004112	164	Dice:"El Obispo le recomendó cierto objeto para protegerse a la hora de coger a Marmidosa. ¡No intente cruzar el camino en esta dirección con dicho objeto encima!"
+0041B7	69	El camino se pierde como una serpiente en la rectitud del horizonte. 
+0041FD	124	Usted nota como el paisaje va cambiando a medida que avanza. El desierto va perdiendo terreno y cada vez hay más vegetación.
+00427A	18	Talismán de Nieve 
+00428D	38	Es la puerta de salida de la Catedral.
+0042B4	25	Usted entra a la Catedral
+0042CE	44	Es algo más pequeña que la muralla anterior.
+0042FB	21	Avenida de las flores
+004311	51	Toda la avenida está sembrada de flores carnívoras.
+004345	81	Usted se ve obligado a echarse a correr para escapar de los constantes mordiscos.
+004397	187	Usted nunca había visto algo tan hermoso.Este escudo formaba parte de la nueva armadura que Hefestos le hizo a Aquiles cuando la anterior cayó en manos de los troyanos al morir Patroclo.
+004453	36	Usted regresa corriendo al desierto.
+004478	8	Montañas
+004481	86	Las montañas rodean todo el sur del Valle. Parece el espinazo de un dragón gigantesco.
+0044D8	78	Luego de varios días de camino usted llega al punto más alto de la cordillera.
+004527	7	Camello
+00452F	63	Está muy viejo y maltratado. Tiene las pezuñas llenas de arena.
+00456F	76	Las dos últimas letras del segundo nombre de la Hija del Hechicero son "KA".
+0045BC	10	¡Dame más!
+0045C7	17	Bolsa de semillas
+0045D9	70	La bolsa está llena de semillas de los árboles que crecen en el valle.
+004620	75	Desde este lugar, las montañas lucen como grades piedras envueltasen nubes.
+00466C	54	Luego de varios días de camino usted regresa al valle.
+0046A3	10	Precipicio
+0046AE	75	Usted se inclina en el borde del precipicio, pero no consigue ver el fondo.
+0046FA	170	Usted logra sobreponerse al temblor de sus manos, se aferra al saltador y se lanza al vacío. Al tercer día de caída, el muelle del saltador rebota suavemente en el suelo.
+0047A5	6	Ladera
+0047AC	55	La ladera desciende suavemente hasta un campo sembrado.
+0047E4	62	Usted desciende cuidadosamente hasta las tierras del Labrador.
+004823	35	Es la entrada a la choza del Monje.
+004847	33	Usted entra a la choza del Monje.
+004869	33	Conduce a la cima del Pico Negro.
+00488B	33	Usted sale de la choza del Monje.
+0048AD	5	Monje
+0048B3	26	Parece ser bastante joven.
+0048CE	83	Para descender por el precipicio debes llevar algo que amortigüe el golpe al final.
+004922	75	El monje no le responde. Está muy ocupado recogiendo las cuentas del suelo.
+00496E	167	Dice:"Aquí habitaron los horantes durante mucho tiempo, hasta que La Bestia ocupó el lugar. Ellos levantaron cada pared de la Fortaleza, solo ellos saben como salir."
+004A16	21	Conduce a las ruinas.
+004A2C	41	Usted camina hasta regresar a las ruinas.
+004A56	36	Usted se pregunta a dónde conducirá.
+004A7B	35	Usted sube hasta regresar al Valle.
+004A9F	16	Puerta de Hierro
+004AB0	35	Es la entrada de la casa del sabio.
+004AD4	37	Usted ha entrado a la casa del sabio.
+004AFA	18	Estatua de Cristal
+004B0D	40	Usted no logra descubrir qué representa.
+004B36	15	Corta-Cristales
+004B46	7	Horante
+004B4E	29	Es el último de los horantes.
+004B6C	115	Busca las dos mitades del Manuscrito de los Horantes y descífralo. Luego coloca las marcas para abrir la Fortaleza.
+004BE0	91	El horante trata de articular algo, pero un terrible dolor en su pierna derecha no lo deja.
+004C3C	31	Conduce a la Ciudad Abandonada.
+004C5C	37	Usted regresa a la Ciudad Abandonada.
+004C82	5	Sabio
+004C88	83	Es sabio es un hombre pequeño. Lleva unos espejuelos que cubren casi todo su rostro
+004CDC	155	De todas las cosas sobre la tierra, la que más me fascina es la cinta de Moebius. Empiezas a recorrerla por adentro y cuando vienes a ver... ¡estás afuera!
+004D78	70	El sabio está muy distraído haciendo un anillo de papel algo torcido. 
+004DBF	16	Cinta de Moebius
+004DD0	65	Es una cinta de papel con una torcedura y ambos extremos pegados.
+004E12	7	Péndulo
+004E1A	71	El péndulo oscila levemente, colgado de un punto invisible del espacio.
+004E62	78	Es por dónde único se puede subir al Pico Negro de este lado de la cordillera.
+004EB1	29	Usted asciende el Pico Negro.
+004ECF	3	Río
+004ED3	75	La corriente es tan fuerte que arrastraría hasta la embarcación más pesada.
+004F1F	165	Usted lanza la soga con el garfio hasta la otra orilla y forma una especie de cuerda floja. Luego cruza el río haciendo una impresionante demostración de equilibrio.
+004FC5	24	Parecen ser muy fuertes.
+004FDE	8	Labrador
+004FE7	64	Es un hobre robusto y muy maltratado por el trabajo en el campo.
+005028	178	El Labrador lo mira y le dice:"No siempre las cosas son lo que parecen. La realidad tiene muchas caras y nunca sabemos si estamos mirando la verdadera. Mantén tu mente abierta".
+0050DB	67	¡Qué cansancio! Creo que es demasiada tierra para una sola persona.
+00511F	5	Ebano
+005125	12	Es muy alto.
+005132	4	NADA
+005137	30	Es la entrada a los calabozos.
+005156	28	Usted entra a los calabozos.
+005173	19	Escalera de Caracol
+005187	45	Sube hasta el tope de la la Torre de Cristal.
+0051B5	36	Usted asciende durante varias horas.
+0051DA	51	Conduce a la parte inferior de la Torre de Cristal.
+00520E	34	Usted regresa a la orilla del río.
+005231	6	Esfera
+005238	96	Tiene aproximadamente tres metros de diámetro y parece ser de carne. Es algo realmente insólito.
+005299	18	Tablilla de Madera
+0052AC	205	Tiene las siguientes palabras grabadas: "A acsd o oatssn  Oadaat lfnodllg  Oed aot nl rlaousa  Nocae lcat ehépds  Lail lgd ut léao  Suod qie nl iddd o oats  Seod ahj e ehcr ns uro  Edl ne aó efmr"
+00537A	17	Puerta de Cristal
+00538C	36	Es de un cristal muy grueso y opaco.
+0053B1	53	¿Cuál es el nombre completo de la hija del Hechicero?
+0053E7	9	Aura Srka
+0053F1	24	Usted entra a la alcoba.
+00540A	26	Es la salida de la alcoba.
+005425	24	Usted sale de la alcoba.
+00543E	255	La carta dice:"Mi querido salvador:¿Por qué has demorado tanto? Hace mucho que mi padre me llevó al Abismo Infranqueable. Ahora no podré marcharme contigo. La único que puedes hacer para salir es matarlo con Marmidosa. Por favor, trata de que no sufra."
+00553E	14	Puerta Secreta
+00554D	62	Es muy negra y tiene una tela de araña dibujada. Está abierta.
+00558C	91	Usted atraviesa la puerta lentamente. Los pelos de la nuca se le erizan sin poder evitarlo.
+0055E8	6	Espejo
+0055EF	10	Está roto.
+0055FA	20	Conduce a la alcoba.
+00560F	18	Hija del Hechicero
+005622	207	Usted está a punto de desmayarse. La hija del Hechicero no es exactamente como usted esperaba. En realidad se parece más a una serpiente de quince metros y tres cabezas, con la piel llena de gruesas escamas.
+0056F2	164	Usted clava fuertemente la aguja entre las escamas. Las cabezas le miran llenas de ira y hay una que exclama: "¡Mata a todos los que te mintieron si quieres salir!"
+005797	59	Es la salida de los calabozos. Conduce a la orilla del río.
+0057D3	21	Usted regresa al río.
+0057E9	96	Conduce a la celda. Los barrotes son tan gruesos que la reja es prácticamente una puerta maciza.
+00584A	39	Usted estornuda. Ha entrado a la celda.
+005872	11	Puerta Gris
+00587E	31	Conduce a la sala de La Prueba.
+00589E	35	Usted entra a la sala de La Prueba.
+0058C2	9	Carcelero
+0058CC	49	Parece un hombre rudo y cumplidor de sus deberes.
+0058FE	203	ARRRGG!!! ¡Te será muy difícil abrir la celda, porque la palabra mágica es el nombre de la primera criatura que viste al salir del cuarto de huéspedes! Usted sonríe porque sabe que el problema es fácil.
+0059CA	25	Es la salida de la celda.
+0059E4	23	Usted sale de la celda.
+0059FC	11	Encapuchado
+005A08	158	Es una criatura realmente asombrosa. Toda su anatomía parece regida por el número siete. Siete brazos, siete pies, siete dedos en cada una de las siete manos.
+005AA7	94	El nombre de la hija del Hechicero tiene ocho letras, una está repetida tres veces y otra dos.
+005B06	105	Pareces haber estado viajando. Seguramente has visto algo que me pertenece por ahí... ¿podrías traérmelo?
+005B70	24	Conduce a los calabozos.
+005B89	108	Dice:"En este punto comienza la prueba de los anillos. Continúa con el que hayas elegido y deja los demás."
+005BF6	58	Con este arco mataron a Hycrk, uno de los doce inmortales.
+005C31	67	Parece ser muy largo. Usted no se atrevería a cruzarlo sin el arco.
+005C75	12	Puerta Verde
+005C82	35	Es la primera puerta de la prueba. 
+005CA6	87	Usted cierra los ojos y cruza la puerta. Dejar el anillo de oro fue una idea excelente.
+005CFE	24	Conduce al primer salón.
+005D17	43	Usted atraviesa la puerta sin dificultades.
+005D43	34	Es la segunda puerta de la prueba.
+005D66	91	Usted piensa durante unos segundos antes de avanzar. Hizo bien en dejar el anillo de plata.
+005DC2	23	Conduce al salón verde.
+005DDA	13	Puerta Blanca
+005DE8	34	Es la tercera puerta de la prueba.
+005E0B	118	Usted levanta los ojos buscando valor y da los primeros pasos. Usted se alegra de no haber traído el anillo de bronce.
+005E82	22	Conduce al salón azul.
+005E99	17	Puerta triangular
+005EAB	33	Es la última puerta de la prueba.
+005ECD	135	Esta vez usted no se detiene a pensarlo y avanza decididamente. Todo parece indicar que eligió el anillo correcto: la cinta de Moebius.
+005F55	24	Conduce al salón blanco.
+005F6E	69	Usted atraviesa la puerta sin dificultades y regresa al salón blanco.
+005FB4	6	Puente
+005FBB	118	Está hecho de madera y soga. Bajo él se abre, infinito, el Abismo Infranqueable. Del otro lado se divisa una pirámide.
+006032	65	Usted logra cruzar el puente gracias a la protección del grabado.
+006074	97	Es la tercera muralla con que usted tropieza en su camino. algo le dice que también es la última.
+0060D6	8	Guardián
+0060DF	116	Está muy viejo para vigilar algo. Probablemente alguien lo haya olvidado en este lugar. Está muy quemado por el sol.
+006154	117	El anciano le cuenta una historia incoherente sobre un héroe que derrota a una serpiente gigante armado de una aguja.
+0061CA	11	¡Qué calor!
+0061D6	95	De este lado se puede apreciar mejor lo frágil que es el puente y lo infinito que es el Abismo.
+006236	16	Columna de Hielo
+006247	51	Es una ancha estructura de hielo pegada a la pared.
+00627B	15	Puerta de Roble
+00628B	67	Usted presiente que el Hechicero se encuentra detrás de esa puerta.
+0062CF	36	¿Quién invirtió el reloj de Caronte?
+0062F5	89	o-Usted entra a las habitaciones del Hechicero.7Es de un roble tan sólido que mellaría cu
+006356	32	acero.-Usted sale de las habitac
+00638B	9	Hechicero
+006395	110	Es un hombre inmenso, de barba blanca. Viste una túnica negra y sostiene una vara con una caravela en su mano.
+006404	196	El Hechicero le sonríe y le dice: "No soy tu enemigo. Es mi hija quien ha elaborado este diabólico plan para eliminarnos. Rompe la carta que te dejó en la Torre de Cristal y ocurrirá un milagro."
+009032	3	PÜÇ
+009107	67	Ctrl+Break presionado. Use "Terminar" para una salida más elegante.
+0091C2	61	[[]] No hay memoria suficiente para inicializar La Fortaleza.
+009200	4	Indy
+009205	3	Sad
+009209	29	Inicializando la fortaleza...
+00922A	23	Ejecutando el rastro...
+009243	12	Buenos días.
+009250	14	Buenas noches.
+00925F	14	Buenas tardes.
+00926E	124	De repente las paredes comienzan a desvanecerse.Usted no quiere dar crédito a sus ojos: ¡Ha logrado salir de la Fortaleza!
+0092FC	32	              EPILOGO0Usted mira
+00931D	32	al cielo agradecido y besa la ti
+009343	252	Después de que la emoción del primer momento hubo pasado usted se sienta sobre una piedra al borde de la carretera (recuerde que ha regresado a la civilización) y comienza a pensar. "¿Para qué salí?", se pregunta, "si el exterior nunca me gustó tanto".
+009440	98	Usted recuerda a la Doncella del Lago, y piensa en la vida que hubiera podido llevar junto a ella.
+0094A3	247	Piensa también en el Hechicero, un poderoso amigo, y en la remota y hermosa posibilidad de hacer renacer la civilización de los horantes. Ahora, sin la Bestia y sin la Hija del Hechicero, la Fortaleza podría ser convertida en un verdadero paraíso.
+00959B	63	¿Quién está al otro extremo de los hilos que manejan al hombre?
+0095DB	61	¿Quién nos hace confundir lo que somos y lo que queremos ser?
+009619	45	¿Quién es el responsable de nuestros errores?
+009647	28	¿Quién sino nosotros mismos?
+009664	175	Usted vuelve la cabeza hacia el lugar que ocupó la Fortaleza. Ahora lo comprende todo claramente, esta era la venganza de la Bestia: dejarlo vivir, pero fuera de la Fortaleza.
+009714	50	¿Quería un final feliz? Espere la próxima versión.
+009771	32	             M. CeperoISu entier
+009794	32	se efectuará el próximo domingo 
+0097D2	30	¿Desea salvar su rastro (S/N)?
+0097F1	32	Salvando rastro hacia TRAVEL.TRK
+009812	10	TRAVEL.TRK
+00A06A	33	 En la lucha entre tú y el mundo,
+00A0AE	11	Franz Kafka
+00A0BA	17	Merchise Software
+00A0CE	4	[[]]
+00A0D3	9	presentan
+00A0DD	26	L A  F O R T A L E Z A  II
+00A0F8	24	La venganza de la Bestia
+00A131	3	PÜ£
+00A251	3	PÜ£
+00A295	3	PÜ£
+00A2A3	3	PÜ£
+00A2E7	3	PÜ£
+00A330	3	PÜ£
+00A9E0	8	Consejos
+00AAB0	12	Introducción
+00AFC9	26	No desea hablar con usted.
+00B3F7	16	No es necesario.
+00B408	64	Tenga cuidado. Por aquí se puede entrar, pero no se puede salir.
+00B449	3	Ok.
+00B44D	45	Usted trata de abrir, pero no puede lograrlo.
+00B47B	31	Necesita unas palabras mágicas.
+00B49D	21	 no es la contraseña.
+00B4B3	19	No puede hacer eso.
+00B4C7	31	No puede hacer eso. No existe "
+00B4E7	16	" en este lugar.
+00B4F8	36	Complete la oración. No sea ambiguo.
+00B7A1	12	CRASSSHHH!!!
+00B7AE	27	¡Usted ha descubierto algo!
+00B7CA	33	Usted trata, pero no lo consigue.
+00B7EC	26	Usted no puede romper eso.
+00B807	31	No puede hacer eso. No existe "
+00B827	16	" en este lugar.
+00B838	36	Complete la oración. No sea ambiguo.
+00B9D1	41	#Usted no puede ni con un átomo más.-Uste
+00B9FC	32	está a punto de agotar sus capac
+00BA24	20	Usted podría cargar 
+00BA39	12	 bolsas más.
+00BCE4	15	¿Hablando solo?
+00BCF6	14	 no está aquí.
+00BD05	36	Complete la oración. No sea ambiguo.
+00BE48	41	Lamento informarle que usted está muerto.
+00BF0D	22	Usted se encuentra en 
+00BF26	9	Usted ve:
+00BFD8	20	Sus pertenecias son:
+00BFED	28	Usted no lleva nada consigo.
+00C067	34	$ no está dentro de sus pertenenci
+00C08D	42	No puede matar a algo que nunca tuvo vida.
+00C0B8	14	 no está aquí.
+00C0C7	36	Complete la oración. No sea ambiguo.
+00C2A3	11	No existe "
+00C2AF	16	" en este lugar.
+00C2C0	32	 Entre sus pertenencias tampoco.
+00C2E1	9	¿Ver qué?
+00C404	3	Ok.
+00C408	30	Usted no puede cargar con eso.
+00C427	21	Sería demasiado peso.
+00C43D	11	No existe "
+00C449	16	" en este lugar.
+00C45A	36	Complete la oración. No sea ambiguo.
+00C5AF	3	Ok.
+00C5B4	34	$ no está dentro de sus pertenenci
+00C5DA	36	Complete la oración. No sea ambiguo.
+00C6E7	28	Usted no lleva nada consigo.
+00C705	34	$ no está dentro de sus pertenenci
+00C72B	25	Su regalo no es aceptado.
+00C745	14	 no está aquí.
+00C754	55	¿Y para quién es? ¿O es un obsequio suyo para sí mismo?
+00C924	46	Usted se arrodilla, levanta los brazos y dice:
+00C9F8	39	OUCH! Usted se ha golpeado las narices.
+00CA20	21	Trate de abrir antes.
+00CA36	19	Imposible de abrir.
+00CA4A	11	No existe "
+00CA56	16	" en este lugar.
+00CA67	36	Complete la oración. No sea ambiguo.
+00CC31	34	$ no está dentro de sus pertenenci
+00CD0B	7	Balanza
+00CD13	7	BALANZA
+00CD1B	7	 bolsa.
+00CD23	8	 bolsas.
+00CD2C	66	Usted coloca el objeto en el plato de la balanza.La aguja indica 
+00CD6F	68	Usted trata infructuosamente de colocar la balanza sobre ella misma.
+00CDB4	41	¡Se ha vuelto loco! ¿Cómo va a pesar eso?
+00CDDE	36	Complete la oración. No sea ambiguo.
+00CE03	8	No hay "
+00CE0C	48	" en este lugar. Ni en sus pertenencias tampoco.
+00CE3D	25	Usted no trae la balanza.
+00D066	28	Usted no lleva nada consigo.
+00D083	44	Usted deja todas sus pertencias en el suelo.
+00D2C3	49	Muchas gracias. Hace mucho que esperaba por esto.
+00D2F5	22	Qué amable! Gracias...
+00D386	16	AAAAARRRGGGGG!!!
+00D56F	29	No debió cruzar desprotegido.
+00D5FA	46	Usted llevaba un objeto que le impidió cruzar.
+00D911	81	Todos sus esfuerzos son en vano. Probablemente no esté usando el objeto indicado.
+00DA9C	30	Error salvando fichero rastro.
+00DABB	23	No hay nada que salvar.
+00DB7A	17	¿Qué desea hacer?
+00DC4D	27	¿Nombre del fichero rastro?
+00DC69	16	No le comprendo.
+00E006	31	Mejor tome las cosas una a una.
+00E3BC	21	Usted ha avanzado un 
+00E7A3	29	Fichero rastro no encontrado.
+00EA8F	46	Usted ha descifrado el acertijo correctamente.
+00EABF	28	Debe resolver este acertijo:
+00EADC	23	Esa no es la respuesta.
+00EBC8	100	Usted fracasa en su intento. La enorme serpiente se lanza sobre usted y lo devora en pocos segundos.
+00EE09	4	ïF\n@
+00EE3F	4	ïF\nH
+00F81E	5	HH;F\n
+011053	3	M\nQ
+011253	6	ëF\nü~\n
+01194B	4	JJ&ï
+01196D	4	tDI<
+011F06	6	WSQ&ï
+012479	7	&ïE\n&ï]
+01305F	6	.ï.ïu
+013484	29	una habitación para huéspedes
+0134D5	186	Está tan oscura que usted cree que las paredes y el techo se han avalanzado sobre su cuerpo. En la pared que tiene delante se distingue un plateado hilo de luz. Es el filo de una puerta.
+0135D5	10	el pasillo
+013626	172	Hay seis puertas distribuidas simétricamente. Las paredes son de mármol blanco, pero usted tiene la certeza de que hay algo terrible encerrado detrás de toda esa pulcritud.
+013726	17	el Salón de Fumar
+013777	137	Hay sesenta y seis sillas en el salón. Al lado de cada silla crece un tentáculo rosado con un pitillo en el extremo. Los pitillos humean.
+013877	34	el cuarto de la hija del Hechicero
+0138C8	167	Se pregunta cómo luciría la hija de un hechicero. En las paredes hay cientos de retratos, todos de muchachas diferentes. ¿Cuál será la real?... ¿O todas son una misma?
+0139C8	18	la casa de muñecas
+013A19	108	Es tan pequeña como cualquier casa de muñecas. Usted no comprende cómo pudo entrar. Hay un baúl en el fondo.
+013B19	21	el cuarto del Leñador
+013B6A	112	Las paredes, el suelo y el techo están hechos de madera. Usted camina con cuidado: hay espinas por todas partes.
+013C6A	9	la Cocina
+013CBB	244	En realidad, se parece mucho más a un matadero. El olor a sangre coagulada y carroña no le permite apartar el pañuelo de la nariz. Hay unas marcas de sangre en la pared que le llaman mucho la atención: fueron hechas por una mano de siete dedos.
+013DBB	12	las Terrazas
+013E0C	141	No puede reprimir su asombro: las terrazas están invertidas. Usted se siente muy natural parado cabeza abajo. Se escucha el correr de un río.
+013F0C	24	el calabozo del Monstruo
+013F5D	141	Las paredes son de barro. Hay cientos de cadenas embotadas en el techo, moviéndose constantemente, como si las arrastrara un viento de acero.
+01405D	20	el interior del baúl
+0140AE	152	Ahora sí está confundido. El baúl es inmensamente mayor que la casa de muñecas, a pesar de que está dentro de ella. Luce como una habitación cualquiera.
+0141AE	24	una orilla del Río Negro
+0141FF	102	Las aguas del Río Negro hacen honor a su nombre. Más que aguas parecen una mezcla de muerte y olvido. 
+0142FF	25	una orillas del Río Negro
+014350	60	La espesa niebla casi no deja ver las terrazas al otro lado.
+014450	26	los Jardines del Hechicero
+0144A1	157	Son tan extensos que usted no puede ver dónde terminan. Todos los árboles tienen el mismo tamaño y la misma forma. El jardín parece un gran juego de espejos.
+0145A1	10	el Comedor
+0145F2	94	La mesa es tan alta que usted no puede ver lo que hay servido. Alguien se lamenta allá arriba.
+0146F2	12	la Sastrería
+014743	67	Parece la casa de una araña gigantesca. Hay hilos por todas partes.
+014843	23	el cuarto del jardinero
+014894	121	Es una habitación muy modesta. A usted le sorprende que los instrumentos no sean de jardinería, sino de fabricar espejos.
+014994	28	la habitación de los tesoros
+0149E5	168	Nunca había visto tanta riqueza. Las paredes están forradas de láminas de platino y hasta el fuego de las antorchas es de oro. Usted no comprende de dónde viene la luz.
+014AE5	21	el salón de las velas
+014B36	82	Deben ser varios kilómetros sembrados de velas. En el centro hay un círculo vacío.
+014C36	22	el cuarto del Inmortal
+014C87	172	Esta habitación luce más vieja que el resto de la Fortaleza. Hay muchas cosas colgadas de la pared: retratos, cartas, reconocimientos, estandartes y muchas telas de arañas.
+014D87	21	el cuarto de juguetes
+014DD8	92	Hay miles de juguetes regados por todas partes. Usted siente deseos de volver a ser un niño.
+014ED8	10	las Ruinas
+014F29	212	Este lugar debe haber sido abandonado hace siglos. Usted trata de imaginar cómo eran las construcciones originalmente, pero no lo consigue. Al sur se extiende un desierto y al oeste se encuentra la casa del Ogro.
+015029	23	el Salón de Recepciones
+01507A	165	Todo está muy sucio y descuidado. Un fuerte olor a carroña le hace perder el equilibrio por momentos. Seguramente el Ogro usa este lugar para recibir a sus enemigos.
+01517A	22	el cuarto de un pintor
+0151CB	63	Hay muchos cuadros en las paredes, pero ninguno está terminado.
+0152CB	17	el Patio Interior
+01531C	133	Por el patio están diseminados varios árboles gigantescos, todos sin hojas. Parece como si el invierno reinase siempre en este lugar.
+01541C	27	las habitaciones del Juglar
+01546D	115	El ambiente de la habitación le induce a creer que el juglar no era exactamente lo que se llama una persona alegre.
+01556D	18	la alcoba del Ogro
+0155BE	176	El aire se ha hecho casi irrespirable. Ahora usted comprende de dónde venía el mal olor reinante en el Salón de Recepciones. Nunca antes había estado en un lugar tan repulsivo.
+0156BE	16	los Subterráneos
+01570F	103	Deben ser contemporáneos de las Ruinas. Usted siente como la humedad lo invade y le perfora los huesos.
+01580F	14	las Catacumbas
+015860	216	Nunca antes había visto tantos esqueletos juntos. Más que enterrados en ese lugar, parecían haber muerto ahí. En el fondo usted divisa un hueco sin cadáver con una inscripción. La inscripción dice: "Este es para tí".
+015960	47	el punto donde comienzan unas enormes cataratas
+0159B1	147	Un repentino acceso de vértigo hace que sus rodillas se doblen. A menos de un pie de donde usted se encuentra el agua se precipita hacia el abismo.
+015AB1	26	los bajos de las cataratas
+015B02	140	Hay un ruido ensordecedor, como si millones de tambores redoblaran al lado de sus tímpanos. Usted siente como si su cabeza fuese a explotar.
+015C02	14	fondo del Lago
+015C53	255	Contrariamente a lo que le dijeron en su infancia, usted puede respirar debajo del agua. Usted siente una paz extraña al estar en el fondo del Lago, tal vez debida a posibles asociaciones subconcientes con su pasado embrionario, en el vientre de su madre.
+015D53	19	la Cueva de Cristal
+015DA4	122	Hay resplandores de cristales por todas partes. En este lugar el agua se ha hecho más densa y le resulta difícil respirar.
+015EA4	18	la orilla del Lago
+015EF5	65	Frente a usted se extiende el Lago, de aguas claras y tranquilas.
+015FF5	8	un Oasis
+016046	106	Es un oasis tradicional, con varias palmeras de dátiles y un pequeño estanque de agua turbia en el centro.
+016146	11	la Catedral
+016197	244	Es un lugar impresionante. Las paredes crecen hasta una altura increíble y se unen en una serie de simétricas torres. Usted se siente oprimido por la arquitectura, como si en realidad estuviese ante los ojos de Dios, en el día del juicio final.
+016297	20	el Desierto otra vez
+0162E8	116	El calor lo asfixia. Usted no comprende cómo es posible que el clima varíe tanto de un lugar a otro de la Fortaleza.
+0163E8	16	un extenso valle
+016439	205	Siente deseos de construir una casa y quedarse a vivir en el valle. Por todos lados crece una especie de árbol frutal que, valiéndose de dos manos que salen de su tronco, es capaz de cultivarse ella misma.
+016539	22	la cima del Pico Negro
+01658A	143	Nunca antes había estado a tanta altura. Usted se pregunta por qué la montaña es llamada "El Pico Negro" si en realidad está cubierta de nieve.
+01668A	20	la choza de un monje
+0166DB	121	El suelo está muy limpio, al igual que los muebles y las ventanas. Hay una gran cantidad de cuentas regadas por el suelo.
+0167DB	20	la Ciudad Abandonada
+01682C	247	A pesar de ser más antigua que las ruinas, la ciudad se conserva intacta. Usted oye el ruido de la gente en las calles y siente los olores de los alimentos en las cocinas, pero no son más que ilusiones. La ciudad está abandonada desde hace siglos.
+01692C	18	la choza del Sabio
+01697D	183	El lugar se ajusta perfectamente a su concepto de desorden. Usted se pregunta cómo el sabio puede vivir en semejante caos. Hay varios esqueletos, al parecer, una colección incipiente.
+016A7D	18	un campo cultivado
+016ACE	150	Todos los sembrados parecen bastante descuidados. Probablemente el labrador no sea capaz de atender una cantidad tan grande de tierra al mismo tiempo.
+016BCE	34	el exterior de la Torre de Cristal
+016C1F	74	La Torre de Cristal crece vertiginosamente hasta perderse entre las nubes.
+016D1F	31	la punta de la Torre de Cristal
+016D70	111	Probablemente se encuentre a varios kilómetros de altura. Usted se alegra de que no hayan ventanas en el lugar.
+016E70	34	la alcoba de la hija del Hechicero
+016EC1	136	Esta es la alcoba donde la hija del Hechicero se alojaba temporalmente. Es muy cómoda y tiene muchos cuadros iguales al que usted lleva.
+016FC1	17	la Alcoba Secreta
+017012	111	Es mucho mayor que la otra alcoba. Es casi seguro que la hija del Hechicero viva en este lugar permanentemente.
+017112	13	los Calabozos
+017163	91	Los calabozos están formados por varios pasillos paralelos, llenos de celdas a ambos lados.
+017263	9	una celda
+0172B4	166	Debe ser un verdadero suplicio el estar encerrado aquí. Todo el suelo está cubierto de afiladas hojas, excepto en una esquina, donde se supone que esté el prisionero.
+0173B4	24	la Antesala de la Prueba
+017405	107	Es un salón circular. La luz del sol entra por unos vitrales rojos y el lugar luce como pintado con sangre.
+017505	14	el Salón Verde
+017556	118	Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos.
+017656	13	el Salón Azul
+0176A7	118	Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos.
+0177A7	15	el Salón Blanco
+0177F8	145	Es un salón de pruebas tradicional. Este tipo de salón fue usado ampliamente por los horantes para educar a sus hijos. Es el último de la prueba.
+0178F8	27	los límites de la Fortaleza
+017949	246	A su derecha crece la tercera muralla, hasta una altura irracional. Usted no puede creer que aquí termine la Fortaleza. Del otro lado de la muralla se escucha (usted no entiende cómo) el canto de los pájaros y el sonido del viento en los árboles.
+017A49	25	la Pirámide del Hechicero
+017A9A	182	Es una construcción gigantesca, a base de piedras. Al parecer, las piedras fueron colocadas sin orden alguno, olvidando las ventanas. El lugar está iluminado con numerosas antorchas.
+017B9A	30	las Habitaciones del Hechicero
+017BEB	172	Las habitaciones del Hechicero están dentro de una pirámide interior. Todo es igual a la gran pirámide, pero en una escala menor. Hay miles de espadas colgadas de la pared.
+017D01	14	   Comenzar   
+017D16	14	 Introducción 
+017D2B	14	   Consejos   
+017D40	14	   Terminar   
+017E5E	7	<fffff
+01833F	4	tîää
+018475	4	~P"~
+01863E	8	ê|RRPRR<
+018C5B	73	La Fortaleza es un juego hecho a la medida de su inteligencia (esto no es
+018CAC	75	un spot de TV en TV). Se supone que mientras más inteligente sea usted, más
+018CFD	76	fácil le será dominar los objetivos del juego. Sin embargo, hay otro aspecto
+018D4E	74	que puede compensar la falta de inteligencia: el método (desgraciadamente,
+018D9F	76	en la vida real ocurre lo mismo). Ambas fortalezas están concebidas de forma
+018DF0	42	que ningún detalle escape al ojo metódico.
+018E92	77	El método surge de la misma práctica, pero la práctica puede ser desagradable
+018EE3	76	hasta no tener un método elaborado. Es un círculo vicioso. Como la Fortaleza
+018F34	76	es un juego y se supone que la gente se entretenga, he decidido brindar algo
+018F85	76	equivalente a un método para los principiantes. Se parece mucho a una receta
+018FD6	74	de cocina, o a un texto de ingeniería. En realidad, no son más que algunos
+019027	9	consejos.
+0190C9	47	Gran Método Infalible Para Resolver Fortalezas:
+01916B	46	  Regla 1: Tenga siempre lápiz y papel a mano.
+01920D	65	  Regla 2: Asegúrese de que el lápiz tenga punta en todo momento.
+0192AF	75	  Regla 3: Vaya llevando un diagrama donde represente los distintos lugares
+019300	72	           que visite y las relaciones entre ellos (puertas, etc). De no
+019351	77	           seguir esta regla puede perderse en la Fortaleza hasta el punto de
+0193A2	75	           no encontar la forma de pararse de la silla y apagar la máquina.
+019444	74	  Regla 4: Trate de observar todas las cosas. Hágalo teniendo en cuenta el
+019495	40	           siguiente orden de prioridad:
+019537	30	           1- Cosas inanimadas
+0195D9	42	           3- Puertas y uniones en general
+01967B	69	  Regla 5: En esta regla se dan algunas bases de cómo diferenciar las
+0196CC	71	           cosas conque usted se puede tropezar dentro de la Fortaleza.
+01971D	68	           Estos métodos funcionan siempre, con algunas excepciones.
+0197BF	75	           (1)- Cosas inanimadas: Se pueden coger, a no ser que pesen dema-
+019810	75	                siado. Entonces el mensaje "Sería mucho peso." es mostrado.
+019861	72	                Otra forma, que nunca falla, es preguntarles o tratar de
+019954	47	           (2)- Cosas que esconden otras cosas:
+0199A5	75	                Son como las anteriores, pero no pueden cogerse. Usted debe
+0199F6	74	                romperlas con algún objeto específico (que debe descubrir)
+019A47	57	                para tener acceso al objeto que esconden.
+019AE9	71	           (3)- Las cosas vivas pueden dividirse en dos grandes grupos:
+019B3A	71	                las que están de su parte y las que están contra usted.
+019B8B	75	                A los primeros usted debe interrogarlos (entre otras cosas)
+019BDC	73	                para determinar en qué los puede ayudar. Siempre la ayuda
+019C2D	69	                se reduce a entregarles cierto objeto, el problema es
+019C7E	69	                descubrir qué es lo que necesitan. Después de haberle
+019CCF	76	                entregado el objeto, vuelva a interrogarlo y obtendrá alguna
+019D20	36	                información valiosa.
+019D71	76	                Al los integrantes del segundo grupo debe matarlos. No tenga
+019DC2	75	                piedad. Generalmente cuando están agonizando confiesan algo
+019E13	73	                interesante. La mayoría de las veces usted debe descubrir
+019E64	76	                el arma que debe usar, puesto que cualquier objeto no sirve.
+019EB5	56	                Cuando se les interroga nunca responden.
+019F57	73	           (4)- Las uniones (puertas, puentes, caminos, etc): Si no logra
+019FA8	71	                reconocerlas por el nombre, use el comando "terminar" y
+019FF9	56	                no vuelva a tocar la Fortaleza otra vez.
+01A09B	70	  Regla 6: Las uniones pueden estar abiertas o cerradas. Para abrirlas
+01A0EC	74	           use el comando "abrir". Algunas necesitan palabras mágicas para
+01A13D	73	           abrirlas, y otras veces se verá obligado a resolver acertijos.
+01A1DF	70	  Regla 7: Existen algunas uniones que deben cruzarse cumpliendo algún
+01A230	71	           requerimiento. Unas veces no puede cruzar si no lleva cierto
+01A281	71	           objeto, y otras veces un objeto se puede hacer indispensable
+01A2D2	41	           para poder atravesar la unión.
+01A323	71	           Cuál objeto usar y cuál no, es algo que usted debe inferir a
+01A374	73	           partir de sus observaciones y de las cosas que le hayan dicho.
+01A416	74	  Regla 8: Trate de acumular las cosas que encuentre en lugares céntricos.
+01A467	73	           Así, si se ve necesitado de algún objeto que no lleva consigo,
+01A4B8	46	           no se verá obligado a viajar tanto.
+01A5AB	64	A continuación se explicarán todos los aspectos del vocabulario:
+01A64D	74	  Los artículos "el" y "la", y la preposición "por" se desprecian siempre.
+01A69E	33	  Las tildes pueden ser omitidas.
+01A744	32	Para moverse: Ir, Atravesar, Cru
+01A791	75	    A continuación se especifica el nombre de la unión que se desea cruzar.
+01A7E2	61	    Ejemplos: ir puerta / ir por la puerta / cruzar la puerta
+01A888	32	Para mirar el lugar: Mirar, Obse
+01A92A	32	Para mirar una cosa: Mirar, Ver,
+01A977	71	    A continuación se especifica el nombre del objeto que se desea ver.
+01A9C8	44	    Ejemplos: mirar tal cosa / leer la carta
+01AA6E	32	Para romper: Romper, Forzar, Des
+01AABB	74	    Luego va el objeto que se quiere romper, después la palabra "con" y al
+01AB0C	53	    final el objeto que se usará para romper el otro.
+01AB5D	66	    Ejemplos: romper el busto con la maza / romper vaso con piedra
+01AC50	56	    A continuación se pone el objeto que se desea coger.
+01ACA1	45	    Ejemplos: coger tal cosa / tomar tal cosa
+01AD94	69	    Luego va el objeto. Si se pone "todo", usted se imagina qué pasa.
+01ADE5	41	    Ejemplos: dejar tal cosa / dejar todo
+01AE8B	32	Para interrogar: Interrogar, Pre
+01AED8	72	    A continuación se especifica el nombre del individuo que usted desea
+01AF29	15	    interrogar.
+01AF7A	52	    Ejemplo: interrogar al mudo / preguntar al sordo
+01B06D	71	    A continuación se especifica la unión que desea abrir. Si va a usar
+01B0BE	73	    palabras mágicas añada "diciendo" y ponga luego las palabras. Si va a
+01B10F	67	    responder un acertijo use "respondiendo" antes de la respuesta.
+01B160	74	    En realidad, "diciendo" es equivalente a "respondiendo" y ambos pueden
+01B1B1	30	    ser sustituidos por "con".
+01B202	52	    Ejemplos: abrir tal puerta diciendo abra cadabra
+01B253	47	              abrir tal puerta con abra cadabra
+01B2A4	64	              abrir tal puerta respondiendo el numero del carnet
+01B2F5	55	              abrir tal puerta con el numero del carnet
+01B3E8	78	    La sintaxis es similar a la de romper. El arma homicida puede ser obviada.
+01B439	70	    Ejemplos: asesinar caperucita roja / matar al lobo con la escopeta
+01B52C	76	    Luego se especifica el objeto que se va a dar y después a quién se le va
+01B57D	62	    a entregar. Ambas cosas deben estar separadas por una "a".
+01B5CE	74	    Como es lógico, el objeto que usted pretende entregar debe estar entre
+01B61F	21	    sus pertenencias.
+01B670	37	    Ejemplo: dar veneno a la abuelita
+01B6C1	46	             dar la botella de vino a borracho
+01B712	46	             dar botella de vino a el borracho
+01B763	74	             (En el último ejemplo el arcaísmo es inevitable, recuerde que
+01B7B8	32	         el uso de "a" es obliga
+01B85A	32	Para listar sus pertenencias: In
+01B8A7	73	    Al lado del nombre de cada uno de los objetos que usted lleva consigo
+01B8F8	71	    aparece cuánto pesa, expresados en "bolsas de arena del Río Negro".
+01B949	74	    Para que tenga una idea exacta de lo que pesa una "bolsa", le diré que
+01B99A	74	    es equivalente a la octava parte de un tubo de luz fría lleno de agua.
+01BA8D	75	    A continuación la Fortaleza le pregunta: "¿Nombre del fichero rastro?".
+01BADE	76	    En el fichero rastro se almacenan todos los comandos tecleados por usted
+01BB2F	78	    hasta el momento, todos menos los que no afectan el estado de la Fortaleza
+01BB80	75	    (mirar, ver, inventario, interrogar, etc). Esta lista de comandos puede
+01BBD1	39	    ser ejecutada en cualquier momento.
+01BC22	74	    Como usted verá con el tiempo, los rastros son una de las herramientas
+01BC73	76	    más útiles cuando se está resolviendo una Fortaleza. Como son un fichero
+01BCC4	52	    texto, pueden ser editados en cualquier momento.
+01BD15	46	    Se permiten comentarios tipo Pascal "{ }".
+01BDBB	32	Para ejecutar el rastro: Ejecuta
+01BE08	76	    El procedimiento ulterior es similar al de "salvar". Si se especifica el
+01BE59	76	    nombre del fichero rastro en la línea de parámetros, pasa lo que ustedes
+01BEAA	10	    saben.
+01BEFB	76	    Añadiendo /i se anula la visualización de los textos mientras se ejecuta
+01BF4C	14	    el rastro.
+01C03F	77	    A continuación debe poner el nombre del objeto que desea pesar y, como es
+01C090	35	    lógico, debe tener una balanza.
+01C136	32	Para tener una idea de cúanto le
+01C183	74	    Le indica qué porciento del la Fortaleza ha recorido hasta el momento.
+01C1D4	32	    El porciento se calcula así:
+01C27E	32	               habitaciones visi
+01C322	32	              total de habitacio
+01C3BA	73	    Este porciento no es un indicador exacto de cuán cerca de la solución
+01C40B	78	    se encuentra. Usted puede haber recorrido la Fortaleza entera (entonces el
+01C45C	75	    porciento sería 100) y no tener idea de qué hacer para ganar. Eso pasa.
+01C502	32	Para terminar: Terminar, Abandon
+01C54F	72	    Este comando termina provocando su muerte. También puede interrumpir
+01C5A0	68	    el juego presionando Crtl+Break, y así podrá continuar con vida.
+01C642	23	 El editor de comandos:
+01C6E4	80	   El editor de comandos soporta la mayoría de las funciones tradicionales, como
+01C735	74	   insertar, sobreescribir, borrar, etc. También se puede acceder, con las
+01C786	77	   teclas cursor-arriba y cursor-abajo, a los distintos comandos que han sido
+01C7D7	77	   almacenados en el rastro. Si usted teclea una palabra y luego oprime estas
+01C828	78	   teclas, el editor buscará sólo las cadenas que comiencen con dicha palabra.
+01C879	63	   Deben agradecerle el editor a Jorge Romero, alias "vac-ace".
+01C91B	25	 Requerimientos técnicos:
+01C9BD	77	   Se ha tratado de que la Fortaleza corra lo mismo en una XT "luz-brillante"
+01CA0E	75	   que en un 486 a 50 MHz y con un display XGA. Sería aconsejable tener más
+01CA5F	57	   de 256 Kbytes de memoria a la hora de correr el juego.
+01CAB0	76	   Si puede conseguirse un display EGA (o superior), hágalo sin pensarlo dos
+01CB01	71	   veces. El juego hace cierto cambios, solo posibles en estos tipos de
+01CB52	67	   display, que ayudan a crear una atmósfera a tono con lo que está
+01CBA3	14	   ocurriendo.
+01CC45	42	 Terminaremos con el comercial de siempre:
+01CCE7	72	   La Fortaleza es un juego abierto. Por esto, todas las sugerencias son
+01CD38	70	   bienvenidas. Es probable que usted desee crear su propio juego, con
+01CD89	51	   características similares a las de la Fortaleza.
+01CDDA	28	   Puede contactar al autor:
+01CEE3	32	              Miguel Enrique Cep
+01CF34	32	              Instituto de Infor
+01CF84	32	               Universidad Centr
+01D062	77	   La Fortaleza es un producto de Merchise Software, que no se dedica a hacer
+01D0B3	23	   jueguitos solamente.
+01D299	77	Bien, esta es la primera secuela de La Fortaleza. Pudiéramos llamarla "El re-
+01D2EA	77	greso de la  Fortaleza" por ser  una segunda parte  (¿nunca fueron buenas?) y
+01D33B	59	porque su misión no es otra que regresar al mundo exterior.
+01D3DD	77	Ante todo haremos un pequeño resumen de la primera parte, para que los que no
+01D42E	57	tuvieron la buena (o mala) fortuna de adentrarse en ella:
+01D4D0	77	Usted, un pobre terrícola sumido en el anonimato, fue elegido para eliminar a
+01D521	69	la Bestia, una de las criaturas más horribles y temidas del universo.
+01D572	77	La Bestia habitaba la Fortaleza de una forma muy singular. Estaba embotada en
+01D5C3	74	la Fortaleza misma, en cada pared, en cada  habitación, en el aire y en la
+01D614	40	luz. Su misión era eliminar a la Bestia.
+01D6B6	56	Hasta aquí el resumen. Veamos que tiene que hacer ahora.
+01D758	76	Si bien  en la  primera parte  usted debía acabar  con una  vida, ahora está
+01D7A9	32	obligado a salvar otra: la suya.
+01D84B	76	La Bestia había planeado una  venganza terrible. En el mismo instante en que
+01D89C	76	usted la  destruyó, ella  echó a andar  su diabólico  plan. Usted quedó pro-
+01D8ED	76	fundamente dormido mientras la Fortaleza  cambiaba. Cada  cosa se descompuso
+01D93E	76	en un caudal único y luego, a  partir de esa  masa gigantesca, reapareció la
+01D98F	10	Fortaleza.
+01DA31	76	Usted despierta en un cuarto, habiendo perdido toda noción de tiempo y espa-
+01DA82	76	cio, y debe tratar de salir. La Bestia ha dejado una persona (si se le puede
+01DAD3	61	llamar así) encargada de que usted perezca irremediablemente.
+01DB75	26	Mantenga la mente abierta.
+01E01A	7	áéíóúñÑ
+01E11A	7	aeiounN
+01E45C	3	POR
+01E65C	9	ATRAVESAR
+01E85C	5	TOMAR
+01E95C	5	COGER
+01EA5C	6	SOLTAR
+01EB5C	5	DEJAR
+01EC5C	5	ABRIR
+01ED5C	5	MATAR
+01EE5C	8	ASESINAR
+01EF5C	8	OBSERVAR
+01F05C	5	MIRAR
+01F15C	4	LEER
+01F25C	3	VER
+01F35C	6	ROMPER
+01F45C	6	FORZAR
+01F55C	9	PREGUNTAR
+01F65C	10	INTERROGAR
+01F75C	10	INVENTARIO
+01F85C	7	REGALAR
+01F95C	3	DAR
+01FA5C	3	CON
+01FC5C	9	ABANDONAR
+01FD5C	8	TERMINAR
+01FE5C	12	RESPONDIENDO
+01FF5C	8	DICIENDO
+02005C	8	EJECUTAR
+02015C	6	SALVAR
+02025C	9	DESTROZAR
+02035C	6	CRUZAR
+02045C	9	PORCIENTO
+02055C	4	TODO
+02065C	5	PESAR

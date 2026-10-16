@@ -1,0 +1,41 @@
+# ==============================================================================
+# Git Ignore - Proyecto La Fortaleza
+# ==============================================================================
+
+# Binarios DOS y ejecutables Windows
+*.exe
+*.EXE
+
+# Ejecutables compilados de los juegos (Linux / macOS)
+fortaleza1/src/fortaleza1
+fortaleza2/src/fortaleza2
+bin/
+
+# Objetos y artefactos de compilación
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.out
+
+# Directorios de compilación CMake
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Archivos de editores y sistema operativo
+.DS_Store
+Thumbs.db
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Python cache (tools)
+__pycache__/
+*.py[cod]
+*$py.class
