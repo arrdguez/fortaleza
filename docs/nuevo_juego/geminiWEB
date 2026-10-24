@@ -1,0 +1,144 @@
+### 1. Premisa y Lore: *El Vientre del Reloj Ciego*
+
+El proyecto fusiona la claustrofobia metafísica y geométrica de *La Fortaleza* con la ternura oxidada de *Machinarium* bajo una regla de oro narrativa: **toda la magia y mitología de este mundo es física y química real interpretada por mentes mecánicas que perdieron sus manuales hace milenios.**
+
+#### ¿Quién es el protagonista?
+
+Eres **Vernier-4**, un autómata "Escoriador" del tamaño de un niño, ensamblado con latón remachado, un muelle real que debes tensar periódicamente para no perder turnos de acción y un único ojo óptico con montura de bayoneta donde puedes enroscar distintas lentes. No hablas con palabras; te comunicas con otros autómatas emitiendo secuencias de chasquidos de telégrafo y mostrando esquemas dibujados con un punzón sobre láminas de cobre (tu interfaz diegética de notas).
+
+#### ¿Qué es en realidad "La Bestia"?
+
+Para las tribus de pequeños autómatas que habitan sus entrañas, el universo entero es el interior de **El Coloso Durmiente** (o *La Fortaleza*). Creen que los temblores periódicos son sus latidos, que el calor sofocante de las profundidades es su fiebre estomacal y que las zonas donde los objetos caen hacia el techo son "humores invertidos" de su mente enferma.
+
+**La verdad científica oculta (que el jugador deduce sin que nadie se la cuente):**
+"La Bestia" no es un ser mítico ni un edificio planetario. Es una **Sonda de Sembrado de Von Neumann (un Arca de Reconstrucción Atmosférica)** de proporciones kilométricas, construida con la topología de un **Toroide de Stanford plegado en cinta de Möbius** para generar gravedad artificial por rotación centrífuga. Hace siglos, la nave quedó atrapada en una órbita elíptica muy cerrada alrededor de una estrella enana blanca moribunda.
+
+* El "Corazón" que veneran los autómatas es un reactor de fisión/fusión cuyo blindaje de plomo se agrietó.
+* Los "Espíritus del Peso" que intentan apaciguar en las calderas son los elementos de la tabla periódica que la nave debía sintetizar para terraformar un planeta que ya no existe.
+* La misión de Vernier-4 no es matar ni salvar a un monstruo, sino redescubrir desde cero las leyes de la óptica, la materia, el átomo y la gravitación para recalibrar los sensores ciegos de la nave y sacarla de su caída orbital.
+
+---
+
+### 2. Estructura de Mundo Semi-Abierto y Cosmología Oculta
+
+Para un desarrollador en solitario en PC y Android, el mundo evita cualquier motor gráfico espacial y se representa mediante un **Esquema Ferroviario/Anatómico Interactivo** acompañado de prosa descriptiva densa y paneles de instrumentos táctiles.
+
+#### El Gran Meta-Puzzle Espacial: Redescubrir la forma del mundo
+
+Siguiendo tu idea de que el jugador deduzca por sí mismo la geometría del lugar donde vive (como Eratóstenes midiendo sombras o Foucault con su péndulo), **el mapa que el jugador tiene al principio es falso**.
+
+Los autómatas locales te entregan un mapa plano rectangular ("La Plancha del Mundo"). Sin embargo, mientras exploras los sectores en texto, tienes en tu interfaz permanente dos indicadores sutiles: una **Plomada de Mercurio** (que indica hacia dónde tira la gravedad local y con qué fuerza) y un **Péndulo de Bolsillo**.
+
+A medida que viajas de un sector a otro, notas anomalías que el texto no te explica explícitamente, pero que tus instrumentos registran:
+
+1. Si caminas siempre "hacia el Norte" por el corredor perimetral, regresas al punto de partida, pero **con la izquierda y la derecha invertidas** en las descripciones de las cicatrices de los muros y con tu plomada apuntando hacia el techo (geometría de Cinta de Möbius).
+2. En los sectores "altos" (cercanos al eje de rotación), los objetos pesan la mitad en las balanzas que en los sectores "bajos" (la periferia centrífuga).
+3. A través de las grietas del casco, la sombra de tres agujas idénticas clavadas en distintos sectores no proyecta líneas paralelas, sino ángulos convergentes hacia adentro.
+
+A mitad del juego, el jugador desbloquea en su cuaderno una herramienta de plegado geométrico: cuando comprende que no vive en un plano ni sobre una esfera convexa, sino **adherido a la cara interna de un anillo retorcido que gira como una rueda**, descubre atajos imposibles (lanzar un objeto "hacia arriba" en el eje central para que caiga directamente en el sector opuesto sin recorrer el camino largo).
+
+#### Mapa Conceptual de Nodos (Hub + 3 Sectores)
+
+| Zona / Nodo | Atmósfera y Función Narrativa | Ciencia Oculta Principal | Conexiones y Backtracking |
+| --- | --- | --- | --- |
+| **HUB CENTRAL: El Pericardio de Cuerda** | Un gran atrio vertical suspendido de cables tensores donde habita la chatarra consciente. Mercado de piezas, taller de Vernier-4 y el Gran Péndulo Central. | Mecánica clásica, conservación del momento y gravimetría básica. | Conecta con los 3 sectores mediante tubos neumáticos, ascensores de contrapeso y conductos de mantenimiento. |
+| **SECTOR 1: Las Galerías del Aliento Ciego** | Minas oscuras de minerales pesados y calientes al tacto. Autómatas ciegos que usan placas fotográficas de plata para "ver" en la oscuridad porque sus lentes se ennegrecen solas. | **Física Nuclear y Radiactividad** (Becquerel, Curie, Rutherford, cámaras de niebla). | Requiere trajes de plomo obtenidos en el Sector 2 para explorar sus cámaras profundas sin que el ruido estático borre el texto de la interfaz. |
+| **SECTOR 2: El Órgano de las Ocho Octavas** | Una refinería colosal de tuberías musicales, fuelles de ácido y balanzas de precisión. Los autómatas de aquí son "Afinadores" que clasifican la materia por su sabor químico y su peso. | **Química, Estequiometría y Ley Periódica** (Mendeléyev, Lavoisier, valencias). | Sintetiza aleaciones, lentes de sales y combustibles que abren compuertas oxidadas en los Sectores 1 y 3. |
+| **SECTOR 3: El Córtex de Cristal y la Cinta Exterior** | Pasarelas silenciosas junto al casco exterior agrietado. Espejos empañados, prismas gigantes y el resplandor pulsante del "Ojo Blanco" (la estrella exterior). | **Óptica, Espectroscopía y Cosmología Orbital** (Fraunhofer, Doppler, Kepler, Cavendish). | Permite triangular la posición real de los demás sectores y abrir los puentes gravitatorios directos a través del vacío central. |
+
+---
+
+### 3. Catálogo de 3 Acertijos Científicos Concretos
+
+Ningún acertijo utiliza terminología académica (*protones, masa atómica, longitud de onda, nanómetros*). Todo se presenta como artesanía mecánica y observación empírica.
+
+---
+
+#### Acertijo 1 (Física Nuclear): *El Tamiz de la Sombra Dura*
+
+* **Base científica real:** El experimento de la lámina de oro de Rutherford (1909) combinado con la cámara de niebla de Wilson y las pantallas de sulfuro de cinc. Redescubrir que la materia sólida es en realidad un vacío casi absoluto con núcleos diminutos y masivos.
+* **Situación ambiental:** En lo profundo de *Las Galerías del Aliento Ciego*, Vernier-4 debe activar un disyuntor magnético sellado tras una ventana de cuarzo. Frente a él hay un banco de pruebas circular llamado **La Mesa de Escarcha**.
+* En un extremo hay una cápsula de plomo con un trozo de "Piedra Febril" (radio/polonio) que escupe un chorro invisible por un agujero.
+* El centro de la mesa contiene vapor frío de alcohol sobre un fondo negro: cada vez que el chorro invisible lo cruza, deja finísimas hebras blancas rectas como trazos de tiza que desaparecen al instante.
+* Alrededor de la mesa corre un riel circular de **360 grados** con una pequeña mirilla recubierta de polvo verdoso. Cuando el jugador mueve la mirilla por el riel y se asoma (interfaz en pantalla), escucha y ve pequeños chispazos verdes (*clic... clic...*) cada vez que una "bala invisible" choca contra la mirilla.
+* En el inventario tiene tres láminas para colocar en el centro de la mesa: una **Placa de Hierro Grueso**, una **Hoja de Papel Aceitado** y un **Pan de Sol** (oro batido tan fino que es casi translúcido).
+
+
+* **El proceso de deducción ("Momento Eureka"):**
+* Para abrir la puerta, el jugador debe colocar tres colectores alrededor del riel exactamente en los ángulos donde rebotan las partículas y ajustar la potencia de un electroimán según el "peso" de lo que hay dentro del metal.
+* La intuición cotidiana le dice al jugador: *"Si pongo el metal en medio, bloqueará el chorro o hará que todo rebote hacia atrás"*. Pone el Hierro Grueso: en efecto, a **0°** (detrás de la lámina) los chispazos caen a cero.
+* Luego coloca el **Pan de Sol** (oro batido). Mira a **0°** esperando que se atenúe, pero el contador sigue chispeando casi igual que si no hubiera nada (**99% de paso directo**). El jugador piensa que la lámina está rota. Sin embargo, al deslizar pacientemente el visor por el riel hacia atrás (a **135°** y **160°**, casi al lado del cañón emisor), en la oscuridad total, ¡*PUM*!, ve un destello solitario y violentísimo cada pocos segundos, y en la cámara de niebla observa una hebra blanca que dobla en ángulo agudo como si hubiera chocado contra un yunque invisible en medio de la nada.
+* **Eureka:** El jugador comprende por pura experimentación que el metal más denso está casi hueco por dentro, pero contiene "granos" minúsculos e inamovibles que repelen las balas con fuerza brutal.
+
+
+* **Solución y recompensa:** El jugador descarta las placas gruesas, coloca el Pan de Sol en ángulo oblicuo y sitúa los colectores secundarios en los ángulos de rebote extremo (**155°**) para capturar únicamente las partículas de alta energía dispersadas por el núcleo pesado. Esto alimenta el relé de alta tensión, abre la bóveda del reactor y le otorga la **Lente de Escintilación** (que le permite detectar fuentes radiactivas ocultas en textos futuros sin usar placas de plata).
+
+---
+
+#### Acertijo 2 (Química y Elementos): *El Órgano de los Pesos Silenciosos*
+
+* **Base científica real:** La Ley Periódica de Mendeléyev (1869) y la predicción exacta de las propiedades del *Eka-aluminio* (Galio) antes de su descubrimiento.
+* **Situación ambiental:** En *El Órgano de las Ocho Octavas*, el puente neumático que lleva al núcleo está roto porque falta el **Cilindro Maestro de Sellado** en una matriz mural de bronce de **8 columnas por 5 filas**. Un autómata fundidor te dice que esa pieza nunca ha sido encontrada en las minas, pero que su máquina sintetizadora puede fabricarla "a ciegas" si introduces en tres diales sus propiedades exactas: **su Peso de Gota, su Sed de Herrumbre y su Calor de Llanto**.
+* **Qué toca el jugador:** Tienes una mesa con **31 muestras de minerales puros** numeradas con glifos desordenados y tres instrumentos sencillos de un clic:
+1. **Balanza de Resorte:** Te da el peso relativo de la muestra (ej: 7, 9, 11, 12, 14, 16, 19, 20...).
+2. **Cámara de Hollín y Oxígeno:** Quema una pizca del material y te dice con cuántas partes de "Aire" se abraza (1, 2, 3, 4, 3, 2, 1, o 0 si es inerte).
+3. **Crisol Térmico:** Te indica si se funde con el calor de tu mano (Bajo), con una vela (Medio), con soplete (Alto) o con arco voltaico (Extremo).
+
+
+* **El proceso de deducción ("Momento Eureka"):**
+* El jugador intenta colocar las 31 piezas en la matriz mural. Si las ordena por peso creciente sin dejar huecos, a partir de la tercera fila las tuberías de "Sed de Herrumbre" (valencia) dejan de coincidir con las columnas superiores y la máquina escupe vapor negro.
+* El jugador observa el patrón: en las dos primeras filas, la "Sed de Herrumbre" sube y baja como una escala musical perfecta (**1, 2, 3, 4, 3, 2, 1, 0**). En la tercera fila, tras colocar una pieza de peso **65** (Cinc, sed 2) aparece una de peso **73** (Germanio, sed 4).
+* **Eureka:** ¡La naturaleza sigue un ritmo periódico exacto, y entre el 65 y el 73 hay un escalón vacío en el universo! El jugador se da cuenta de que debe **dejar un hueco físico vacío** en la tercera columna de esa fila para que el resto de las piezas vuelva a encajar armónicamente con las propiedades de arriba y abajo.
+
+
+* **Solución y recompensa:** Una vez identificado el hueco vacío (el Galio), el jugador mira las piezas que lo rodean en la cruz de la tabla (arriba peso 27, abajo peso 115, izquierda 65, derecha 73) y deduce por interpolación simple las tres respuestas del sintetizador:
+* **Peso de Gota:** **~70** (el promedio entre sus vecinos).
+* **Sed de Herrumbre:** **3** (porque toda su columna vertical tiene sed 3).
+* **Calor de Llanto:** **Bajo (Calor de la mano)**, siguiendo la anomalía de enfriamiento de esa columna metálica.
+La máquina sintetiza un metal plateado que se derrite en la palma de latón de Vernier-4, sella el circuito neumático y desbloquea los viajes rápidos por todo el mapa.
+
+
+
+---
+
+#### Acertijo 3 (Física Clásica, Óptica y Gravedad): *Las Cicatrices del Arcoíris y la Sombra Invertida*
+
+* **Base científica real:** Espectroscopía de absorción de Fraunhofer (1814) / Kirchhoff combinada con el Efecto Doppler y la medición geométrica de sombras de Eratóstenes.
+* **Situación ambiental:** En *El Córtex de Cristal*, Vernier-4 llega al Observatorio del Timón. Para encender los propulsores correctores de La Bestia, la consola exige calibrar dos parámetros críticos: **de qué combustible se alimenta el "Ojo Blanco" exterior** (para sintonizar los escudos colectores) y **en qué dirección y velocidad se mueve La Bestia respecto a él**.
+* **Herramientas en la interfaz:**
+* Un **Prisma de Roca** que proyecta la luz del "Ojo Blanco" sobre una regleta graduada del 1 al 100. La banda de colores muestra **cuatro líneas negras verticales muy finas** (como códigos de barras oscuros) en las posiciones **21, 58, 59 y 84**.
+* Un **Quemador de Alquimia** situado entre la ventana y el prisma, donde puedes echar polvos de tu inventario (Sal de Mar, Polvo de Cobre, Azufre, Carbón).
+* Un **Reloj de Péndulo Sincronizado** que muestra que, cada 60 segundos (una rotación completa del hábitat), las cuatro líneas negras de la regleta **oscilan ligeramente dos milímetros hacia el rojo y luego dos milímetros hacia el violeta**.
+
+
+* **El proceso de deducción ("Momento Eureka"):**
+* El jugador primero quema sus polvos con la ventana cerrada (en la oscuridad). Ve que la Sal de Mar no da un arcoíris, sino **dos únicas líneas amarillas brillantes exactamente en las marcas 58 y 59**. Cuando abre la ventana para que pase la luz del astro detrás de la llama de sal, ve que las marcas 58 y 59 se vuelven aún más negras.
+* **Eureka 1 (Química cósmica sin salir de la habitación):** Las líneas negras en la luz del sol no son fallos del cristal; son las sombras de los mismos elementos de tu inventario que están ardiendo en la atmósfera de esa estrella lejana y absorbiendo su propio color.
+* **Eureka 2 (Movimiento y Geometría):** ¿Por qué las líneas bailan de izquierda a derecha cada minuto? El jugador cruza este dato con las lecturas de su Plomada de Mercurio: cuando las líneas se corren hacia el violeta, el peso en la habitación disminuye ligeramente; cuando se corren hacia el rojo, el peso aumenta. Comprende de golpe que **el suelo bajo sus pies está girando como una noria** (acercándose y alejándose de la estrella en cada vuelta) y que el "Ojo Blanco" no gira alrededor de la Bestia, sino que la Bestia cae hacia él.
+
+
+* **Solución y recompensa:** El jugador introduce los símbolos de los dos elementos identificados por sus líneas espectrales (Sodio e Hidrógeno/Helio), fija el vector de empuje en el momento exacto del "corrimiento al azul" (cuando el sector apunta en dirección contraria a la caída orbital) y activa el freno centrífugo. La gravedad de toda La Bestia se estabiliza, abriendo el eje de gravedad cero que conduce al cerebro de la nave.
+
+---
+
+### 4. Estrategia de Producto y Separación de Ideas (Steam & Android)
+
+Tu intuición final es clave desde el punto de vista de negocio y producción *Solo Dev*: **tienes entre manos dos productos distintos que comparten el mismo motor intelectual**, y tratar de construir el mundo abierto completo de golpe multiplica el riesgo de alcance (*scope creep*).
+
+La historia de la ciencia redescubierta mediante problemas guiados y el mundo narrativo de *La Fortaleza* son **totalmente separables y modulares**. La estrategia óptima es un lanzamiento escalonado en dos fases donde el primer juego financia y construye la tecnología del segundo:
+
+#### Comparativa de la Estrategia en Dos Fases
+
+| Criterio | Fase 1 (Lanzamiento Inicial): *El Banco del Artífice* | Fase 2 (El Gran Juego): *La Fortaleza de Azogue* |
+| --- | --- | --- |
+| **Género y Referentes** | **Puzzle Box Diegético / Zach-like de Mesa** (*The Room*, *Strange Horticulture*, *Opus Magnum*). | **Aventura Narrativa Semi-Abierta** (*La Fortaleza I & II*, *Roadwarden*, *Outer Wilds*, *Machinarium*). |
+| **Escala de Producción (Solo Dev)** | **4 a 6 meses.** Una sola pantalla principal (tu mesa de trabajo dentro de una celda). Cero mapas, cero backtracking complejo, texto breve y directo. | **12 a 18 meses.** Múltiples sectores, inventario persistente, facciones de autómatas, narrativa ramificada. |
+| **Cómo funciona el bucle de juego** | Eres un autómata calibrador encerrado en una cámara. Por una ventanilla neumática te llegan "encargos" y muestras extrañas. En tu mesa tienes instrumentos (balanzas, prismas, péndulos, cámaras de niebla). | Sales de esa misma cámara al descubrir la verdad y exploras el coloso interconectado usando las herramientas del primer juego integradas en el mundo. |
+| **El "Engaño" Científico** | 20 a 25 problemas guiados divididos en 4 actos. El jugador cree que solo repara piezas, pero en realidad **reescribe toda la historia de la ciencia**: empieza deduciendo que su celda gira, luego que el mundo es curvo, luego clasifica la materia y termina dividiendo el átomo. | Los acertijos ya no son encargos aislados en una mesa, sino obstáculos ambientales integrados en la geografía del Toroide/Cinta de Möbius. |
+| **Encaje en Android y Steam** | **Perfecto para móvil y tablet.** Sesiones de 10-15 minutos, controles 100% táctiles de arrastrar diales, pesar muestras y anotar conclusiones. Muy fácil de monetizar (Premium o Demo + Desbloqueo completo). | **Fuerte en Steam y nicho de culto en Android.** Atrae a los jugadores de rol narrativo y aventuras clásicas que ya quedaron fascinados por el universo del primer juego. |
+
+#### ¿Por qué sacar primero el juego puro de acertijos científicos guiados?
+
+1. **Reutilización de código al 100%:** Cada instrumento que programes para el primer juego (el widget del espectroscopio, la matriz periódica, el simulador de dispersión de partículas, el péndulo gravitatorio) se convierte en un componente de interfaz reutilizable que luego incrustarás directamente dentro de las pantallas de texto de la aventura grande.
+2. **Progresión pedagógica invisible (El "Efecto Witness"):** En un juego contenido de mesa de trabajo es mucho más fácil controlar la curva de aprendizaje. Puedes empezar con un problema falsamente inocente —por ejemplo, *¿por qué el agua de este nivel de burbuja nunca queda plana sino ligeramente curva hacia los bordes de la mesa?*— para que el jugador deduzca en los primeros 15 minutos la forma geométrica del lugar donde habita, y de ahí escalar paso a paso desde Arquímedes y Eratóstenes hasta Mendeléyev y Rutherford sin que jamás vea una fórmula escrita.
+3. **Tracción comercial:** En Steam y Google Play es mucho más fácil vender primero una promesa mecánica clara (*"Resuelve misterios mecánicos en una mesa de alquimia steampunk descubriendo las leyes ocultas de un mundo extraño"*) para crear comunidad, y usar el final de ese juego como el *cliffhanger* directo donde la puerta de tu taller se abre hacia la inmensidad de **La Bestia**.

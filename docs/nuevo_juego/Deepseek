@@ -1,0 +1,107 @@
+**Título de trabajo:** *EL CÓDICE DE LA BESTIA*  
+**Línea comercial separable:** *Cuadernos de la Bestia* (puzzles) → *El Códice de la Bestia* (aventura narrativa completa)
+
+---
+
+## 1. Premisa & Lore
+
+**La Bestia** no es un animal ni una simple fortaleza: es un **Observatorio de las Leyes**, un coloso biomecánico construido por los **Notarios de la Última Edad** para conservar las leyes físicas de un universo que se estaba deshaciendo. Su interior está hecho de cámaras-ensayo donde las constantes físicas pueden alterarse ligeramente: gravedad invertida, cintas de Möbius, balanzas de equilibrio, relojes de sombra, metales que “recuerdan” su forma. La Bestia está viva a su manera: sus órganos son instrumentos, sus tuberías son venas de cobre, sus autómatas son células melancólicas que repiten rituales de mantenimiento sin recordar por qué.
+
+Ahora la Bestia sufre la **Herida de Entropía**: sus leyes internas se contradicen y el coloso se está plegando sobre sí mismo. Si muere, no solo se pierde un mundo: se pierde el archivo de leyes que, según los Notarios, serviría para sembrar un universo futuro.
+
+**El protagonista** es el **Revisor Cero**, un autómata ensamblado con piezas de revisores anteriores. No eres un científico ni un héroe: eres un **escriba de reparaciones**. Llevas el **Códice**, un libro-máquina que no registra “descubrimientos”, sino **Leyes**: protocolos de reparación que la Bestia interioriza. Cada vez que resuelves una cámara, el Códice escribe una Ley nueva. El jugador no sabe que esas Leyes son las que heredarán civilizaciones futuras: está reescribiendo la historia de la ciencia sin que nadie pronuncie los nombres de Rutherford, Curie, Mendeléyev o Cavendish.
+
+Los autómatas del hub tienen carisma de hojalata: una campanera oxidada que recuerda canciones de mantenimiento, un ascensorista que se niega a subir porque “el arriba está abajo”, una archivera que colecciona etiquetas borradas. La melancolía no viene del drama épico, sino de seres que saben que están hechos de piezas de otros.
+
+**El giro meta-narrativo:** la Bestia es también una **semilla de universo**. Al final, el jugador elige qué Leyes conservar. La historia de la ciencia no se “aprende”: se **reescribe** desde dentro. El juego nunca dice “experimento de Rutherford”; dice “El Muro que Devuelve”. Solo después de resolver, un Archivo opcional muestra la conexión real. Eso evita el modo examen y conserva el Efecto Eureka.
+
+---
+
+## 2. Estructura de Mundo Semi-Abierto
+
+**Hub central: El Atrio de la Balanza.**  
+Una plaza interior con una gran balanza de cobre que cruje. Aquí están el Códice, el inventario, los NPCs y el mapa esquemático de nodos. Desde el Atrio salen tres sectores. No hay pantallas de carga: el mapa es textual/esquemático y se navega por nodos (“Subir por el tubo neumático”, “Cruzar la pasarela de óxido”). Los atajos se abren al resolver cámaras y permiten volver al hub sin repetir recorridos.
+
+**Sector A — Ala de los Vapores / Archivo Velado.**  
+Zona de radiación, placas veladas, plomo, vapor y autómatas archiveros. Aquí se descubre que hay “algo” que impresiona placas sin luz. Contiene la cámara nuclear y una salida secundaria al Pozo de Gravedad.
+
+**Sector B — Fundición de los Metales Vivos.**  
+Fundición donde los metales “sueñan” propiedades. Paredes de nichos con muestras sin etiqueta, coros de autómatas que cantan densidades, colores de llama y reacciones. Aquí está la cámara de química/elementos. Su recompensa abre el Soplete de Llama, útil para sellos de vidrio en el Observatorio.
+
+**Sector C — Observatorio Invertido / Jardín de Espejos.**  
+Cámaras circulares, espejos, haces de luz, una balanza de torsión y una cinta de Möbius que invierte la gravedad en un tramo. Aquí está la cámara de física clásica/óptica/gravedad. También contiene la entrada opcional a la **Sala de Cosmología**, donde el jugador puede deducir la forma real de la Bestia: un cubo por sus ocho esquinas, una esfera por sus ecos, o un sol de latón que gira alrededor de la cámara y no al revés.
+
+**Flujo no lineal:**  
+Desde el hub se abren A y B casi de inmediato. La tercera puerta principal no exige una Ley concreta, sino **cualquier par de Leyes**: así el jugador puede resolver nuclear → química → observatorio, o química → nuclear → observatorio, etc. Las herramientas cruzan sectores: el Sello de Plomo de A permite pasar una fuga radiactiva en B; el Soplete de B abre un vitral en C; la Ley de Atracción de C permite calibrar un ascensor en A. El backtracking es útil, no obligatorio. La UI es táctil/ratón: tocar nodos, opciones, inventario y mecanismos; sin escribir comandos.
+
+---
+
+## 3. Catálogo de 3 Acertijos Científicos Concretos
+
+### Acertijo 1 — “El Muro que Devuelve” (física nuclear)
+
+**Base real:** radiactividad de Becquerel/Curie + dispersión de partículas alfa de Rutherford.
+
+**Situación ambiental:**  
+En el Archivo Velado, el jugador encuentra placas fotográficas envueltas en cera negra que aparecen veladas sin haber recibido luz. Una “salamandra de radio” respira en una caja de plomo y hace clic como un caracol contador. Al fondo hay una lámina de oro finísima, una pantalla de fósforo y bloques de plomo. La mayoría de los destellos de la pantalla aparecen alineados con la lámina; unos pocos, muy raros, aparecen hacia atrás.
+
+**Proceso de deducción:**  
+El jugador prueba a tapar la placa con papel, cobre y plomo: el plomo detiene el velado. No es luz ni calor. Coloca la pantalla de fósforo y descubre que las “luciérnagas invisibles” atraviesan la lámina de oro, pero a veces rebotan en ángulos imposibles. Si la materia fuera una nube difusa, nada rebotaría hacia atrás. Esos pocos destellos revelan un centro diminuto y denso: un núcleo.
+
+**Solución:**  
+Colocar la pantalla en ángulo alto, blindar el fondo con plomo y ajustar la apertura hasta detectar los destellos raros. Eso permite “leer” la radiografía de una cerradura sellada dentro del muro.
+
+**Desbloquea:** la **Ley del Núcleo**, el **Sello de Plomo** (herramienta de blindaje) y un atajo al Pozo de Gravedad. La historia avanza: la Bestia no está enferma solo de óxido; dentro de sus paredes hay un núcleo que aún late.
+
+---
+
+### Acertijo 2 — “El Hueco de Mendeléyev” (química/elementos)
+
+**Base real:** ley periódica, tendencias de reactividad, densidad y ensayos a la llama.
+
+**Situación ambiental:**  
+En la Fundición de los Metales Vivos hay un muro de nichos con once muestras metálicas sin etiqueta y un nicho vacío. Un coro de autómatas canta propiedades inconexas: “el que flota y arde”, “el que tiñe de amarillo”, “el que besa el agua y huye”. Una tubería está obstruida por una sal ciega y solo un metal muy reactivo puede disolverla. Hay un horno de llama, una balanza de agua y una cuba de ácido suave.
+
+**Proceso de deducción:**  
+El jugador no memoriza la tabla: **interpola**. Observa que las muestras se ordenan en familias: las de un lado reaccionan violentamente con agua; las de otro, apenas burbujean. Las densidades y puntos de fusión cambian gradualmente. El nicho vacío está entre dos metales blandos y ligeros; el que falta debe tener una densidad intermedia, una llama amarilla que ningún otro produce y una reacción con agua más violenta que su vecino izquierdo, pero menor que el derecho.
+
+**Solución:**  
+Colocar en el nicho la muestra amarilla que flota y arde; al encajarla, el muro se alinea, la sal ciega se disuelve y la tubería libera vapor.
+
+**Desbloquea:** la **Ley de las Familias**, el **Soplete de Llama** y la passarela hacia el Observatorio Invertido. Además, el Códice empieza a ordenar las Leyes por “familias”, no por nombres.
+
+---
+
+### Acertijo 3 — “La Balanza que Mira” (física clásica/óptica/gravedad)
+
+**Base real:** balanza de torsión de Cavendish con palanca óptica.
+
+**Situación ambiental:**  
+En el Observatorio Invertido hay una sala circular con dos grandes esferas de plomo montadas en brazos, una varilla con dos bolas pequeñas suspendida de un hilo de seda, un espejo y un haz de luz que proyecta un punto en la pared. Un telescopio apunta al espejo. El jugador sospecha magnetismo, pero una brújula no reacciona y el plomo no es magnético. El punto de luz se mueve ligerísimamente cuando las esferas grandes se acercan a las pequeñas.
+
+**Proceso de deducción:**  
+El jugador invierte las esferas: el punto se mueve al otro lado. Cambia las masas por bloques de cobre: no pasa nada. Comprende que no es magia ni viento: es una atracción diminuta entre masas, amplificada por el espejo. La luz no atrae: **mide**. La clave es usar la palanca óptica para leer una fuerza casi invisible.
+
+**Solución:**  
+Alinear el telescopio, colocar las esferas en posiciones opuestas, leer la deflexión del punto luminoso y calibrar el contrapeso. La balanza se equilibra y un puente de gravedad se activa.
+
+**Desbloquea:** la **Ley de Atracción**, el puente de gravedad hacia el hub y la entrada a la **Sala de Cosmología**. Allí, opcionalmente, el jugador puede usar sombras, ecos y un péndulo para deducir si la Bestia es un cubo de ocho esquinas, una esfera hueca o si el sol de latón gira alrededor de la cámara. Esa deducción no es obligatoria para el puzzle principal, pero enriquece la meta-campaña.
+
+---
+
+## 4. Desglose de Productos y Separabilidad
+
+La idea es **muy separable** si se diseña como capas:
+
+1. **Motor de Cámaras de Ley:** cada acertijo es una ficha autónoma con observación, interacciones, condición de victoria y Ley desbloqueada. Puede venderse solo.
+2. **Marco narrativo:** hub, NPCs, Códice, diálogos y consecuencias. Se puede añadir después.
+3. **Meta-campaña cosmológica:** la forma de la Bestia, el sol que gira o no, la historia secreta de la ciencia y los finales. Es la capa más “de autor” y la más fácil de recortar si el presupuesto aprieta.
+
+**Producto 1 — *Cuadernos de la Bestia: Cámaras de Ley***  
+Juego puzzle-first, 12–15 cámaras autónomas, 3–5 horas, narrativa mínima de marco. Es un producto completo, no una demo. Ideal para validar el Efecto Eureka, la UI táctil y el interés del mercado.
+
+**Producto 2 — *El Códice de la Bestia***  
+Aventura narrativa completa con hub semi-abierto, NPCs, consecuencias, meta-campaña cosmológica y finales. Reutiliza el motor de Cámaras y las Leyes ya probadas. Es el “juego grande”.
+
+**¿Qué lanzaría primero?**  
+Primero el **puzzle-first**. Razones: un solo dev puede terminarlo, valida el corazón del diseño sin depender de una campaña narrativa larga, genera comunidad y telemetría para saber qué cámaras funcionan. En Steam saldría como premium de bajo precio; en Android, con una cámara gratuita y el resto premium sin anuncios. Después, con el motor validado, se lanza la aventura completa como título premium en Steam y Android. La capa “cubo/esfera/sol” sería la meta-campaña del juego grande, no un requisito del puzzle-first. Así las ideas no compiten: **se escalonan**.
